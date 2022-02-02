@@ -1,559 +1,106 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="26 TV">
-    <display-name lang="es">26 TV</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="360 TV">
-    <display-name lang="es">360 TV</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="8 MAR DEL PLATA">
-    <display-name lang="es">8 MAR DEL PLATA</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
   <channel id="A&amp;E MUNDO">
     <display-name lang="es">A&amp;E MUNDO</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+    <url>http://www.reportv.com.ar</url>
   </channel>
-  <channel id="A&amp;E MUNDO HD">
-    <display-name lang="es">A&amp;E MUNDO HD</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+  <channel id="ABC">
+    <display-name lang="es">ABC</display-name>
+    <url>http://www.reportv.com.ar</url>
   </channel>
   <channel id="AMC">
     <display-name lang="es">AMC</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="AMERICA 2">
-    <display-name lang="es">AMERICA 2</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="AMERICA 24">
-    <display-name lang="es">AMERICA 24</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="AMERICA SPORTS SATELITAL">
-    <display-name lang="es">AMERICA SPORTS SATELITAL</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+    <url>http://www.reportv.com.ar</url>
   </channel>
   <channel id="ANIMAL PLANET">
     <display-name lang="es">ANIMAL PLANET</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="ARGENTINISIMA SATELITAL">
-    <display-name lang="es">ARGENTINISIMA SATELITAL</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="es">AXN</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="es">AXN HD</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="C5N">
-    <display-name lang="es">C5N</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL 13">
-    <display-name lang="es">CANAL 13</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL 13 BS.AS. HD">
-    <display-name lang="es">CANAL 13 BS.AS. HD</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL 7">
-    <display-name lang="es">CANAL 7</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL 7 HD">
-    <display-name lang="es">CANAL 7 HD</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL 9">
-    <display-name lang="es">CANAL 9</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL A">
-    <display-name lang="es">CANAL A</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL DE LA MUSICA">
-    <display-name lang="es">CANAL DE LA MUSICA</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL DE LAS ESTRELLAS">
-    <display-name lang="es">CANAL DE LAS ESTRELLAS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL LUZ">
-    <display-name lang="es">CANAL LUZ</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL ORBE 21">
-    <display-name lang="es">CANAL ORBE 21</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL RURAL">
-    <display-name lang="es">CANAL RURAL</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CANAL VASCO">
-    <display-name lang="es">CANAL VASCO</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CARTOON NETWORK">
-    <display-name lang="es">CARTOON NETWORK</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CCTV 4">
-    <display-name lang="es">CCTV 4</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CINECANAL">
-    <display-name lang="es">CINECANAL</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CINECANAL HD">
-    <display-name lang="es">CINECANAL HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CINEMAX">
-    <display-name lang="es">CINEMAX</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CN 23">
-    <display-name lang="es">CN 23</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CNN EN ESPAÑOL">
-    <display-name lang="es">CNN EN ESPAÑOL</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="CONEXIÓN EDUCATIVA">
-    <display-name lang="es">CONEXIÓN EDUCATIVA</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DESTINOS TV">
-    <display-name lang="es">DESTINOS TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY">
-    <display-name lang="es">DISCOVERY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY CIVILIZATION">
-    <display-name lang="es">DISCOVERY CIVILIZATION</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY ID">
-    <display-name lang="es">DISCOVERY ID</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY ID HD">
-    <display-name lang="es">DISCOVERY ID HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY KIDS">
-    <display-name lang="es">DISCOVERY KIDS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY SCIENCE">
-    <display-name lang="es">DISCOVERY SCIENCE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY THEATER HD">
-    <display-name lang="es">DISCOVERY THEATER HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY TURBO">
-    <display-name lang="es">DISCOVERY TURBO</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISCOVERY WORLD HD">
-    <display-name lang="es">DISCOVERY WORLD HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISNEY">
-    <display-name lang="es">DISNEY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISNEY HD">
-    <display-name lang="es">DISNEY HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISNEY JR.">
-    <display-name lang="es">DISNEY JR.</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="DISNEY XD">
-    <display-name lang="es">DISNEY XD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="EL GARAGE">
-    <display-name lang="es">EL GARAGE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="EL GOURMET.COM">
-    <display-name lang="es">EL GOURMET.COM</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="ENCUENTRO">
-    <display-name lang="es">ENCUENTRO</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="ENTERTAINMENT TELEVISION">
-    <display-name lang="es">ENTERTAINMENT TELEVISION</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="ESPN">
-    <display-name lang="es">ESPN</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="ESPN +">
-    <display-name lang="es">ESPN +</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="ESPN 2">
-    <display-name lang="es">ESPN 2</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="EUROPA EUROPA">
-    <display-name lang="es">EUROPA EUROPA</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="EWTN">
-    <display-name lang="es">EWTN</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FILM ZONE">
-    <display-name lang="es">FILM ZONE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX">
-    <display-name lang="es">FOX</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX 1 ESTE">
-    <display-name lang="es">FOX 1 ESTE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX 1 OESTE">
-    <display-name lang="es">FOX 1 OESTE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX ACTION ESTE">
-    <display-name lang="es">FOX ACTION ESTE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX ACTION OESTE">
-    <display-name lang="es">FOX ACTION OESTE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX CLASSICS">
-    <display-name lang="es">FOX CLASSICS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX FAMILY ESTE">
-    <display-name lang="es">FOX FAMILY ESTE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX FAMILY OESTE">
-    <display-name lang="es">FOX FAMILY OESTE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX HD">
-    <display-name lang="es">FOX HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX LIFE">
-    <display-name lang="es">FOX LIFE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX MOVIES">
-    <display-name lang="es">FOX MOVIES</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX SPORTS">
-    <display-name lang="es">FOX SPORTS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX SPORTS 2">
-    <display-name lang="es">FOX SPORTS 2</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX SPORTS 3">
-    <display-name lang="es">FOX SPORTS 3</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX SPORTS HD">
-    <display-name lang="es">FOX SPORTS HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FOX SY FY">
-    <display-name lang="es">FOX SY FY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="FX">
-    <display-name lang="es">FX</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="GALICIA TV">
-    <display-name lang="es">GALICIA TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HAPSA (TURF)">
-    <display-name lang="es">HAPSA (TURF)</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HBO">
-    <display-name lang="es">HBO</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HBO 2">
-    <display-name lang="es">HBO 2</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HBO FAMILY">
-    <display-name lang="es">HBO FAMILY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HBO PLUS">
-    <display-name lang="es">HBO PLUS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HISTORY">
-    <display-name lang="es">HISTORY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HISTORY HD">
-    <display-name lang="es">HISTORY HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HOME AND HEALTH">
-    <display-name lang="es">HOME AND HEALTH</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HOME AND HEALTH HD">
-    <display-name lang="es">HOME AND HEALTH HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="HTV">
-    <display-name lang="es">HTV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="I-SAT">
-    <display-name lang="es">I-SAT</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="INCAA TV">
-    <display-name lang="es">INCAA TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="LA100">
-    <display-name lang="es">LA100</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="LIFETIME">
-    <display-name lang="es">LIFETIME</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="M TV">
-    <display-name lang="es">M TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="MAGAZINE">
-    <display-name lang="es">MAGAZINE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="MAS CHIC">
-    <display-name lang="es">MAS CHIC</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="METRO">
-    <display-name lang="es">METRO</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="MUNDO FOX">
-    <display-name lang="es">MUNDO FOX</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="NAT GEO WILD">
-    <display-name lang="es">NAT GEO WILD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="NATIONAL GEOGRAPHIC">
-    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="NATIONAL GEOGRAPHIC HD">
-    <display-name lang="es">NATIONAL GEOGRAPHIC HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="NICKELODEON">
-    <display-name lang="es">NICKELODEON</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="PAKAPAKA">
-    <display-name lang="es">PAKAPAKA</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="PENTHOUSE">
-    <display-name lang="es">PENTHOUSE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="PLAYBOY">
-    <display-name lang="es">PLAYBOY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="QM NOTICIAS">
-    <display-name lang="es">QM NOTICIAS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="QUIERO MUSICA">
-    <display-name lang="es">QUIERO MUSICA</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="RADIO CONTINENTAL AM 590">
-    <display-name lang="es">RADIO CONTINENTAL AM 590</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="RADIO MITRE 790">
-    <display-name lang="es">RADIO MITRE 790</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="RAI">
-    <display-name lang="es">RAI</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="RT TV">
-    <display-name lang="es">RT TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="SEMBRANDO">
-    <display-name lang="es">SEMBRANDO</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="SONY">
-    <display-name lang="es">SONY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="SONY HD">
-    <display-name lang="es">SONY HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="SPACE">
-    <display-name lang="es">SPACE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="SPACE HD">
-    <display-name lang="es">SPACE HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="STUDIO UNIVERSAL">
-    <display-name lang="es">STUDIO UNIVERSAL</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TBS VERYFUNNY">
-    <display-name lang="es">TBS VERYFUNNY</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TCM">
-    <display-name lang="es">TCM</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TECNOPOLIS">
-    <display-name lang="es">TECNOPOLIS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TELEFE">
-    <display-name lang="es">TELEFE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TELESUR">
-    <display-name lang="es">TELESUR</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TN">
-    <display-name lang="es">TN</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TNT">
-    <display-name lang="es">TNT</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TNT HD">
-    <display-name lang="es">TNT HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TNT SERIES">
-    <display-name lang="es">TNT SERIES</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TRU TV">
-    <display-name lang="es">TRU TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TRU TV HD">
-    <display-name lang="es">TRU TV HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TVE">
-    <display-name lang="es">TVE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TVN CHILE">
-    <display-name lang="es">TVN CHILE</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="TYC SPORTS">
-    <display-name lang="es">TYC SPORTS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="UNIVERSAL CHANNEL">
-    <display-name lang="es">UNIVERSAL CHANNEL</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="VENUS">
-    <display-name lang="es">VENUS</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="VOLVER">
-    <display-name lang="es">VOLVER</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="WARNER CHANNEL">
-    <display-name lang="es">WARNER CHANNEL</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="WARNER HD">
-    <display-name lang="es">WARNER HD</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
-  <channel id="WOBI TV">
-    <display-name lang="es">WOBI TV</display-name>
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <programme start="20220202004600 -0300" stop="20220202014300 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20220202014300 -0300" stop="20220202023300 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Intervención: el triángulo de la heroína</title>
+  </programme>
+  <programme start="20220202023300 -0300" stop="20220202032100 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">60 días preso: el experimento</title>
+  </programme>
+  <programme start="20220202032100 -0300" stop="20220202034500 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Court Cam: acción judicial</title>
+  </programme>
+  <programme start="20220202034500 -0300" stop="20220202034600 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Bull - Short Form</title>
+  </programme>
+  <programme start="20220202034600 -0300" stop="20220202041000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Court Cam: acción judicial</title>
+  </programme>
+  <programme start="20220202041000 -0300" stop="20220202041100 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">NCIS LA - Short Form</title>
+  </programme>
+  <programme start="20220202041100 -0300" stop="20220202050000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Mi vida con Síndrome de Down</title>
+  </programme>
+  <programme start="20220202050000 -0300" stop="20220202060000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Palabra de asesino</title>
+  </programme>
+  <programme start="20220202060000 -0300" stop="20220202070000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220202070000 -0300" stop="20220202080000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220202080000 -0300" stop="20220202090000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220202090000 -0300" stop="20220202100000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220202100000 -0300" stop="20220202102500 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Escuadrón de emergencias</title>
+  </programme>
+  <programme start="20220202102500 -0300" stop="20220202112200 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20220202112200 -0300" stop="20220202121400 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20220202121400 -0300" stop="20220202130700 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20220202130700 -0300" stop="20220202140200 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Las primeras 48 horas</title>
+  </programme>
+  <programme start="20220202140200 -0300" stop="20220202145400 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Último día en libertad</title>
+  </programme>
+  <programme start="20220202145400 -0300" stop="20220202152400 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Cam Alert: captura exitosa</title>
+  </programme>
+  <programme start="20220202152400 -0300" stop="20220202155300 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Metrópoli Bogotá</title>
+  </programme>
+  <programme start="20220202155300 -0300" stop="20220202162600 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Metrópoli Bogotá</title>
+  </programme>
+  <programme start="20220202162600 -0300" stop="20220202180400 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Asesinado por odio</title>
+  </programme>
+  <programme start="20220202180400 -0300" stop="20220202200000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">El aprendiz</title>
+  </programme>
+  <programme start="20220202200000 -0300" stop="20220202203000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Alto! Frontera</title>
+  </programme>
+  <programme start="20220202203000 -0300" stop="20220202210000 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Alto! Frontera</title>
+  </programme>
+  <programme start="20220202210000 -0300" stop="20220202215400 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">El Chapo</title>
+  </programme>
+  <programme start="20220202215400 -0300" stop="20220202235300 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">Una pareja dispareja</title>
+  </programme>
+  <programme start="20220202235300 -0300" stop="20220203004700 -0300" channel="A&amp;E MUNDO">
+    <title lang="es">El Chapo</title>
+  </programme>
 </tv>
