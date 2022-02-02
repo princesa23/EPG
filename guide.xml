@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="On Demand">
+    <display-name lang="es">On Demand</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="Canal de la Ciudad">
+    <display-name lang="es">Canal de la Ciudad</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="Somos">
+    <display-name lang="es">Somos</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="Metro">
+    <display-name lang="es">Metro</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="América 2">
+    <display-name lang="es">América 2</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="Telefe">
+    <display-name lang="es">Telefe</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="TV Pública Argentina">
+    <display-name lang="es">TV Pública Argentina</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="El Trece">
+    <display-name lang="es">El Trece</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="El Nueve">
+    <display-name lang="es">El Nueve</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="Todo Noticias">
+    <display-name lang="es">Todo Noticias</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="A 24">
+    <display-name lang="es">A 24</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="C5N">
+    <display-name lang="es">C5N</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="Crónica TV">
+    <display-name lang="es">Crónica TV</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="26 TV">
+    <display-name lang="es">26 TV</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="La Nación">
+    <display-name lang="es">La Nación</display-name>
+    <url>http://www.cablevisionfibertel.com.ar</url>
+  </channel>
+</tv>
