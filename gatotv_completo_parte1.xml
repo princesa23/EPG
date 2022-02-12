@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <channel update="i" site="gatotv.com" site_id="1_colombia" xmltv_id="Canal 1 (Colombia)">Canal 1 (Colombia)</channel>
    <channel update="i" site="gatotv.com" site_id="azteca_uno" xmltv_id="Canal Azteca Uno">Canal Azteca Uno</channel>
    <channel update="i" site="gatotv.com" site_id="azteca_uno_1h" xmltv_id="Canal Azteca Uno -1 Hora">Canal Azteca Uno -1 Hora</channel>
