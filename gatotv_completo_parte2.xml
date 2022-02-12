@@ -1,7 +1,4 @@
-
-
-
-   <channel update="i" site="gatotv.com" site_id="eurochannel" xmltv_id="Canal Eurochannel">Canal Eurochannel</channel>
+ <channel update="i" site="gatotv.com" site_id="eurochannel" xmltv_id="Canal Eurochannel">Canal Eurochannel</channel>
    <channel update="i" site="gatotv.com" site_id="euronews" xmltv_id="Canal Euronews">Canal Euronews</channel>
    <channel update="i" site="gatotv.com" site_id="europa_europa" xmltv_id="Canal Europa Europa">Canal Europa Europa</channel>
    <channel update="i" site="gatotv.com" site_id="eurosport_1_espana" xmltv_id="Canal Eurosport 1 (España)">Canal Eurosport 1 (España)</channel>
