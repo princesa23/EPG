@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+<channel update="i" site="gatotv.com" site_id="1_colombia" xmltv_id="Canal 1 (Colombia)">Canal 1 (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="azteca_uno" xmltv_id="Canal Azteca Uno">Canal Azteca Uno</channel>
+   <channel update="i" site="gatotv.com" site_id="azteca_uno_1h" xmltv_id="Canal Azteca Uno -1 Hora">Canal Azteca Uno -1 Hora</channel>
+   <channel update="i" site="gatotv.com" site_id="azteca_uno_2h" xmltv_id="Canal Azteca Uno -2 Horas">Canal Azteca Uno -2 Horas</channel>
+   <channel update="i" site="gatotv.com" site_id="la_1" xmltv_id="Canal La 1">Canal La 1</channel>
+   <channel update="i" site="gatotv.com" site_id="2_de_el_salvador" xmltv_id="Canal 2 de El Salvador">Canal 2 de El Salvador</channel>
+   <channel update="i" site="gatotv.com" site_id="de_las_estrellas_mexico" xmltv_id="Canal 2 de México (Canal Las Estrellas - XEW)">Canal 2 de México (Canal Las Estrellas - XEW)</channel>
+   <channel update="i" site="gatotv.com" site_id="2_de_nicaragua_televicentro" xmltv_id="Canal 2 de Nicaragua (Televicentro)">Canal 2 de Nicaragua (Televicentro)</channel>
+   <channel update="i" site="gatotv.com" site_id="2_de_panama" xmltv_id="Canal 2 de Panamá (TVN-2)">Canal 2 de Panamá (TVN-2)</channel>
+   <channel update="i" site="gatotv.com" site_id="2_de_republica_dominicana_teleantillas" xmltv_id="Canal 2 de República Dominicana (Teleantillas)">Canal 2 de República Dominicana (Teleantillas)</channel>
+   <channel update="i" site="gatotv.com" site_id="la_2" xmltv_id="Canal La 2">Canal La 2</channel>
+   <channel update="i" site="gatotv.com" site_id="3_de_guatemala_el_super_canal" xmltv_id="Canal 3 de Guatemala (El Super Canal)">Canal 3 de Guatemala (El Super Canal)</channel>
+   <channel update="i" site="gatotv.com" site_id="antena_3_espana" xmltv_id="Canal Antena 3 de España">Canal Antena 3 de España</channel>
+   <channel update="i" site="gatotv.com" site_id="4_de_costa_rica" xmltv_id="Canal 4 de Costa Rica">Canal 4 de Costa Rica</channel>
+   <channel update="i" site="gatotv.com" site_id="4_de_el_salvador" xmltv_id="Canal 4 de El Salvador">Canal 4 de El Salvador</channel>
+   <channel update="i" site="gatotv.com" site_id="4_guadalajara" xmltv_id="Canal 4 de Guadalajara (México)">Canal 4 de Guadalajara (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="4_de_panama" xmltv_id="Canal 4 de Panamá (RPC TV)">Canal 4 de Panamá (RPC TV)</channel>
+   <channel update="i" site="gatotv.com" site_id="cuatro_de_espana" xmltv_id="Canal Cuatro de España">Canal Cuatro de España</channel>
+   <channel update="i" site="gatotv.com" site_id="rts" xmltv_id="Canal RTS">Canal RTS</channel>
+   <channel update="i" site="gatotv.com" site_id="5_mexico" xmltv_id="Canal 5 de México (XHGC)">Canal 5 de México (XHGC)</channel>
+   <channel update="i" site="gatotv.com" site_id="5_de_republica_dominicana_telemicro" xmltv_id="Canal 5 de República Dominicana (Telemicro)">Canal 5 de República Dominicana (Telemicro)</channel>
+   <channel update="i" site="gatotv.com" site_id="5_el_lider_honduras" xmltv_id="Canal 5 El Líder (Honduras)">Canal 5 El Líder (Honduras)</channel>
+   <channel update="i" site="gatotv.com" site_id="telecinco" xmltv_id="Canal Telecinco">Canal Telecinco</channel>
+   <channel update="i" site="gatotv.com" site_id="6_de_costa_rica" xmltv_id="Canal 6 de Costa Rica">Canal 6 de Costa Rica</channel>
+   <channel update="i" site="gatotv.com" site_id="6_de_el_salvador" xmltv_id="Canal 6 de El Salvador">Canal 6 de El Salvador</channel>
+   <channel update="i" site="gatotv.com" site_id="6_de_puerto_rico" xmltv_id="Canal 6 de Puerto Rico (WIPR-TV)">Canal 6 de Puerto Rico (WIPR-TV)</channel>
+   <channel update="i" site="gatotv.com" site_id="la_sexta" xmltv_id="Canal La Sexta">Canal La Sexta</channel>
+   <channel update="i" site="gatotv.com" site_id="7_republica_dominicana" xmltv_id="Canal 7 de Antena Latina (República Dominicana)">Canal 7 de Antena Latina (República Dominicana)</channel>
+   <channel update="i" site="gatotv.com" site_id="7_de_costa_rica_teletica" xmltv_id="Canal 7 de Costa Rica (Teletica)">Canal 7 de Costa Rica (Teletica)</channel>
+   <channel update="i" site="gatotv.com" site_id="7_de_guatemala_televisiete" xmltv_id="Canal 7 de Guatemala (Televisiete)">Canal 7 de Guatemala (Televisiete)</channel>
+   <channel update="i" site="gatotv.com" site_id="7_de_puerto_rico_teleisla" xmltv_id="Canal 7 de Puerto Rico (teleisla)">Canal 7 de Puerto Rico (teleisla)</channel>
+   <channel update="i" site="gatotv.com" site_id="azteca_7" xmltv_id="Canal Azteca 7  (México)">Canal Azteca 7  (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="9_republica_dominicana" xmltv_id="Canal 9 de Color Visión (República Dominicana)">Canal 9 de Color Visión (República Dominicana)</channel>
+   <channel update="i" site="gatotv.com" site_id="9_de_honduras_vica" xmltv_id="Canal 9 de Honduras (Vica)">Canal 9 de Honduras (Vica)</channel>
+   <channel update="i" site="gatotv.com" site_id="9_de_mexico" xmltv_id="Canal 9 de México (XEQ-TDT)">Canal 9 de México (XEQ-TDT)</channel>
+   <channel update="i" site="gatotv.com" site_id="tvmax" xmltv_id="Canal 9 de Panamá (TVMax)">Canal 9 de Panamá (TVMax)</channel>
+   <channel update="i" site="gatotv.com" site_id="canal_9_noticias_paraguay" xmltv_id="Canal 9 Noticias (Paraguay)">Canal 9 Noticias (Paraguay)</channel>
+   <channel update="i" site="gatotv.com" site_id="tc_television" xmltv_id="Canal TC Televisión">Canal TC Televisión</channel>
+   <channel update="i" site="gatotv.com" site_id="11_de_costa_rica" xmltv_id="Canal 11 de Costa Rica">Canal 11 de Costa Rica</channel>
+   <channel update="i" site="gatotv.com" site_id="11_de_guatemala_teleonce" xmltv_id="Canal 11 de Guatemala (Teleonce)">Canal 11 de Guatemala (Teleonce)</channel>
+   <channel update="i" site="gatotv.com" site_id="11_de_mexico" xmltv_id="Canal 11 de México">Canal 11 de México</channel>
+   <channel update="i" site="gatotv.com" site_id="telesistema_11" xmltv_id="Canal Telesistema 11 (República Dominicana)">Canal Telesistema 11 (República Dominicana)</channel>
+   <channel update="i" site="gatotv.com" site_id="12_de_el_salvador" xmltv_id="Canal 12 de El Salvador">Canal 12 de El Salvador</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_argentina" xmltv_id="Canal 13 de Argentina (El Trece)">Canal 13 de Argentina (El Trece)</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_chile" xmltv_id="Canal 13 de Chile">Canal 13 de Chile</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_colombia" xmltv_id="Canal 13 de Colombia (Trece)">Canal 13 de Colombia (Trece)</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_costa_rica" xmltv_id="Canal 13 de Costa Rica">Canal 13 de Costa Rica</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_guatemala_trecevision" xmltv_id="Canal 13 de Guatemala (Trecevisión)">Canal 13 de Guatemala (Trecevisión)</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_nicaragua" xmltv_id="Canal 13 de Nicaragua (Viva Nicaragua)">Canal 13 de Nicaragua (Viva Nicaragua)</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_panama" xmltv_id="Canal 13 de Panamá (Telemetro)">Canal 13 de Panamá (Telemetro)</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_puerto_rico" xmltv_id="Canal 13 de Puerto Rico (Teleoro)">Canal 13 de Puerto Rico (Teleoro)</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_republica_dominicana_telecentro" xmltv_id="Canal Telecentro (13 de República Dominicana)">Canal Telecentro (13 de República Dominicana)</channel>
+   <channel update="i" site="gatotv.com" site_id="14_de_mexico" xmltv_id="Canal 14 de México">Canal 14 de México</channel>
+   <channel update="i" site="gatotv.com" site_id="15_republica_dominicana" xmltv_id="Canal 15 (Digital Quince Telemicro) (República Dominicana)">Canal 15 (Digital Quince Telemicro) (República Dominicana)</channel>
+   <channel update="i" site="gatotv.com" site_id="teleislas" xmltv_id="Canal Teleislas">Canal Teleislas</channel>
+   <channel update="i" site="gatotv.com" site_id="21_el_salvador" xmltv_id="Canal 21 de El Salvador (Megavisión)">Canal 21 de El Salvador (Megavisión)</channel>
+   <channel update="i" site="gatotv.com" site_id="22_mexico" xmltv_id="Canal 22 de México">Canal 22 de México</channel>
+   <channel update="i" site="gatotv.com" site_id="tn23" xmltv_id="Canal TN23">Canal TN23</channel>
+   <channel update="i" site="gatotv.com" site_id="guatevision" xmltv_id="Canal Guatevisión">Canal Guatevisión</channel>
+   <channel update="i" site="gatotv.com" site_id="27_de_guatemala" xmltv_id="Canal 27 de Guatemala">Canal 27 de Guatemala</channel>
+   <channel update="i" site="gatotv.com" site_id="29_republica_dominicana" xmltv_id="Canal 29 de TeleUniverso (República Dominicana)">Canal 29 de TeleUniverso (República Dominicana)</channel>
+   <channel update="i" site="gatotv.com" site_id="azteca_guatemala" xmltv_id="Canal Azteca Guatemala">Canal Azteca Guatemala</channel>
+   <channel update="i" site="gatotv.com" site_id="37_republica_dominicana" xmltv_id="Canal 37 de República Dominicana (CDN)">Canal 37 de República Dominicana (CDN)</channel>
+   <channel update="i" site="gatotv.com" site_id="adn_40" xmltv_id="Canal ADN 40">Canal ADN 40</channel>
+   <channel update="i" site="gatotv.com" site_id="extra_tv_42_de_costa_rica" xmltv_id="Canal Extra TV 42 de Costa Rica">Canal Extra TV 42 de Costa Rica</channel>
+   <channel update="i" site="gatotv.com" site_id="m_0" xmltv_id="Canal #0">Canal #0</channel>
+   <channel update="i" site="gatotv.com" site_id="hola_tv" xmltv_id="Canal ¡HOLA! TV">Canal ¡HOLA! TV</channel>
+   <channel update="i" site="gatotv.com" site_id="13_de_paraguay" xmltv_id="Canal 13 de Paraguay (Trece)">Canal 13 de Paraguay (Trece)</channel>
+   <channel update="i" site="gatotv.com" site_id="24_horas_chile" xmltv_id="Canal 24 Horas (Chile)">Canal 24 Horas (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="24_horas_tve" xmltv_id="Canal 24 Horas (TVE)">Canal 24 Horas (TVE)</channel>
+   <channel update="i" site="gatotv.com" site_id="4_de_monterrey" xmltv_id="Canal 4 de Monterrey (XEFB-TDT)">Canal 4 de Monterrey (XEFB-TDT)</channel>
+   <channel update="i" site="gatotv.com" site_id="a_y_e_chile" xmltv_id="Canal A&amp;E (Chile)">Canal A&amp;E (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="a_y_e_mexico" xmltv_id="Canal A&amp;E (México)">Canal A&amp;E (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="a_and_e_panregional" xmltv_id="Canal A&amp;E (Panregional)">Canal A&amp;E (Panregional)</channel>
+   <channel update="i" site="gatotv.com" site_id="a_mas" xmltv_id="Canal a+">Canal a+</channel>
+   <channel update="i" site="gatotv.com" site_id="adrenalina_sports_network" xmltv_id="Canal Adrenalina Sports Network">Canal Adrenalina Sports Network</channel>
+   <channel update="i" site="gatotv.com" site_id="afizzionados" xmltv_id="Canal Afizzionados">Canal Afizzionados</channel>
+   <channel update="i" site="gatotv.com" site_id="agrotendencia_tv" xmltv_id="Canal Agrotendencia TV">Canal Agrotendencia TV</channel>
+   <channel update="i" site="gatotv.com" site_id="amc_colombia" xmltv_id="Canal AMC (Colombia)">Canal AMC (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="amc_espana" xmltv_id="Canal AMC (España)">Canal AMC (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="amc_mexico" xmltv_id="Canal AMC (México)">Canal AMC (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="america_television_peru" xmltv_id="Canal América Televisión (Perú)">Canal América Televisión (Perú)</channel>
+   <channel update="i" site="gatotv.com" site_id="america_teve" xmltv_id="Canal América TeVé">Canal América TeVé</channel>
+   <channel update="i" site="gatotv.com" site_id="america_tv_argentina" xmltv_id="Canal America TV (Argentina)">Canal America TV (Argentina)</channel>
+   <channel update="i" site="gatotv.com" site_id="animal_planet_mexico" xmltv_id="Canal Animal Planet (México)">Canal Animal Planet (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="animal_planet_panregional" xmltv_id="Canal Animal Planet (Panregional)">Canal Animal Planet (Panregional)</channel>
+   <channel update="i" site="gatotv.com" site_id="animal_planet_sur" xmltv_id="Canal Animal Planet (Sur)">Canal Animal Planet (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="antena_3" xmltv_id="Canal Antena 3">Canal Antena 3</channel>
+   <channel update="i" site="gatotv.com" site_id="antigua" xmltv_id="Canal Antigua (Guatemala)">Canal Antigua (Guatemala)</channel>
+   <channel update="i" site="gatotv.com" site_id="aprende" xmltv_id="Canal Aprende">Canal Aprende</channel>
+   <channel update="i" site="gatotv.com" site_id="atreseries_espana" xmltv_id="Canal Atreseries (España)">Canal Atreseries (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="atreseries_internacional" xmltv_id="Canal Atreseries (Internacional)">Canal Atreseries (Internacional)</channel>
+   <channel update="i" site="gatotv.com" site_id="atv" xmltv_id="Canal ATV">Canal ATV</channel>
+   <channel update="i" site="gatotv.com" site_id="axn_andes" xmltv_id="Canal AXN (Andes)">Canal AXN (Andes)</channel>
+   <channel update="i" site="gatotv.com" site_id="axn_espana" xmltv_id="Canal AXN (España)">Canal AXN (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="axn_mexico" xmltv_id="Canal AXN (México)">Canal AXN (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="axn_sur" xmltv_id="Canal AXN (Sur)">Canal AXN (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="axn_venezuela" xmltv_id="Canal AXN (Venezuela)">Canal AXN (Venezuela)</channel>
+   <channel update="i" site="gatotv.com" site_id="axn_white_espana" xmltv_id="Canal AXN White España">Canal AXN White España</channel>
+   <channel update="i" site="gatotv.com" site_id="aym_sports" xmltv_id="Canal AYM Sports">Canal AYM Sports</channel>
+   <channel update="i" site="gatotv.com" site_id="baby_tv_latinoamerica" xmltv_id="Canal Baby TV (Latinoamérica)">Canal Baby TV (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="babyfirst_tv" xmltv_id="Canal BabyFirst TV">Canal BabyFirst TV</channel>
+   <channel update="i" site="gatotv.com" site_id="bandamax" xmltv_id="Canal Bandamax">Canal Bandamax</channel>
+   <channel update="i" site="gatotv.com" site_id="barca_tv" xmltv_id="Canal Barça TV">Canal Barça TV</channel>
+   <channel update="i" site="gatotv.com" site_id="bbc_world_news" xmltv_id="Canal BBC World News">Canal BBC World News</channel>
+   <channel update="i" site="gatotv.com" site_id="be_mad" xmltv_id="Canal Be Mad">Canal Be Mad</channel>
+   <channel update="i" site="gatotv.com" site_id="bein_sport_en_espanol" xmltv_id="Canal beIN Sport en Español">Canal beIN Sport en Español</channel>
+   <channel update="i" site="gatotv.com" site_id="bet_jams" xmltv_id="Canal BET Jams">Canal BET Jams</channel>
+   <channel update="i" site="gatotv.com" site_id="bitme" xmltv_id="Canal BitMe">Canal BitMe</channel>
+   <channel update="i" site="gatotv.com" site_id="blaze_espana" xmltv_id="Canal Blaze (España)">Canal Blaze (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="bloomberg" xmltv_id="Canal Bloomberg">Canal Bloomberg</channel>
+   <channel update="i" site="gatotv.com" site_id="boing_espana" xmltv_id="Canal Boing (España)">Canal Boing (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="cablenoticias" xmltv_id="Canal Cablenoticias">Canal Cablenoticias</channel>
+   <channel update="i" site="gatotv.com" site_id="calle_13" xmltv_id="Canal Calle 13">Canal Calle 13</channel>
+   <channel update="i" site="gatotv.com" site_id="capital_colombia" xmltv_id="Canal Capital (Colombia)">Canal Capital (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="caracol_colombia" xmltv_id="Canal Caracol (Colombia)">Canal Caracol (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="caracol_internacional" xmltv_id="Canal Caracol Internacional">Canal Caracol Internacional</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoon_network_atlantico_norte" xmltv_id="Canal Cartoon Network (Atlántico Norte)">Canal Cartoon Network (Atlántico Norte)</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoon_network_atlantico_sur" xmltv_id="Canal Cartoon Network (Atlántico Sur)">Canal Cartoon Network (Atlántico Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoon_network_mexico" xmltv_id="Canal Cartoon Network (México)">Canal Cartoon Network (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoon_network_pacifico" xmltv_id="Canal Cartoon Network (Pacífico)">Canal Cartoon Network (Pacífico)</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoonito_mexico" xmltv_id="Canal Cartoonito (México)">Canal Cartoonito (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoonito_panregional" xmltv_id="Canal Cartoonito (Panregional)">Canal Cartoonito (Panregional)</channel>
+   <channel update="i" site="gatotv.com" site_id="cartoonito_sur" xmltv_id="Canal Cartoonito (Sur)">Canal Cartoonito (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="castilla-la_mancha" xmltv_id="Canal Castilla-La Mancha Media">Canal Castilla-La Mancha Media</channel>
+   <channel update="i" site="gatotv.com" site_id="cdn_deportes" xmltv_id="Canal CDN Deportes">Canal CDN Deportes</channel>
+   <channel update="i" site="gatotv.com" site_id="chilevision" xmltv_id="Canal Chilevisión (CHV)">Canal Chilevisión (CHV)</channel>
+   <channel update="i" site="gatotv.com" site_id="cine_estelar" xmltv_id="Canal Cine Estelar">Canal Cine Estelar</channel>
+   <channel update="i" site="gatotv.com" site_id="cine_mexicano" xmltv_id="Canal Cine Mexicano">Canal Cine Mexicano</channel>
+   <channel update="i" site="gatotv.com" site_id="cine_nostalgia" xmltv_id="Canal Cine Nostalgia">Canal Cine Nostalgia</channel>
+   <channel update="i" site="gatotv.com" site_id="cine_sony" xmltv_id="Canal Cine Sony">Canal Cine Sony</channel>
+   <channel update="i" site="gatotv.com" site_id="cinecanal_mexico" xmltv_id="Canal Cinecanal (México)">Canal Cinecanal (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="cinecanal_pacifico" xmltv_id="Canal Cinecanal (Pacífico)">Canal Cinecanal (Pacífico)</channel>
+   <channel update="i" site="gatotv.com" site_id="cinecanal_sur" xmltv_id="Canal Cinecanal (Sur)">Canal Cinecanal (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="cineclick" xmltv_id="Canal CineClick">Canal CineClick</channel>
+   <channel update="i" site="gatotv.com" site_id="cinelatino" xmltv_id="Canal Cinelatino">Canal Cinelatino</channel>
+   <channel update="i" site="gatotv.com" site_id="cinelatino_u_s_a" xmltv_id="Canal Cinelatino U.S.A.">Canal Cinelatino U.S.A.</channel>
+   <channel update="i" site="gatotv.com" site_id="cinema_mas" xmltv_id="Canal Cinema +">Canal Cinema +</channel>
+   <channel update="i" site="gatotv.com" site_id="cinema_platino" xmltv_id="Canal Cinema Platino">Canal Cinema Platino</channel>
+   <channel update="i" site="gatotv.com" site_id="cinemax_argentina" xmltv_id="Canal Cinemax (Argentina)">Canal Cinemax (Argentina)</channel>
+   <channel update="i" site="gatotv.com" site_id="cinemax_chile" xmltv_id="Canal Cinemax (Chile)">Canal Cinemax (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="cinemax_mexico" xmltv_id="Canal Cinemax (México)">Canal Cinemax (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="cinemax_panregional" xmltv_id="Canal Cinemax (Panregional)">Canal Cinemax (Panregional)</channel>
+   <channel update="i" site="gatotv.com" site_id="city_tv" xmltv_id="Canal City TV">Canal City TV</channel>
+   <channel update="i" site="gatotv.com" site_id="clan_tve" xmltv_id="Canal Clan TVE">Canal Clan TVE</channel>
+   <channel update="i" site="gatotv.com" site_id="claro_musica" xmltv_id="Canal Claro Música">Canal Claro Música</channel>
+   <channel update="i" site="gatotv.com" site_id="claro_sports" xmltv_id="Canal Claro Sports">Canal Claro Sports</channel>
+   <channel update="i" site="gatotv.com" site_id="claro_tv" xmltv_id="Canal Claro TV">Canal Claro TV</channel>
+   <channel update="i" site="gatotv.com" site_id="classica" xmltv_id="Canal Classica">Canal Classica</channel>
+   <channel update="i" site="gatotv.com" site_id="cnn_chile" xmltv_id="Canal CNN Chile">Canal CNN Chile</channel>
+   <channel update="i" site="gatotv.com" site_id="cnn_en_espanol" xmltv_id="Canal CNN en Español">Canal CNN en Español</channel>
+   <channel update="i" site="gatotv.com" site_id="cnn_internacional" xmltv_id="Canal CNN Internacional">Canal CNN Internacional</channel>
+   <channel update="i" site="gatotv.com" site_id="canal_cocina" xmltv_id="Canal Cocina">Canal Cocina</channel>
+   <channel update="i" site="gatotv.com" site_id="comedy_central_centro" xmltv_id="Canal Comedy Central (Centro)">Canal Comedy Central (Centro)</channel>
+   <channel update="i" site="gatotv.com" site_id="comedy_central_espana" xmltv_id="Canal Comedy Central (España)">Canal Comedy Central (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="comedy_central_mexico" xmltv_id="Canal Comedy Central (México)">Canal Comedy Central (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="concert_channel" xmltv_id="Canal Concert Channel">Canal Concert Channel</channel>
+   <channel update="i" site="gatotv.com" site_id="congreso_colombia" xmltv_id="Canal Congreso (Colombia)">Canal Congreso (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="cosmopolitan_espana" xmltv_id="Canal Cosmopolitan (España)">Canal Cosmopolitan (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="crimen_mas_investigacion" xmltv_id="Canal Crimen + Investigación">Canal Crimen + Investigación</channel>
+   <channel update="i" site="gatotv.com" site_id="de_las_estrellas_-1h_mexico" xmltv_id="Canal de las Estrellas -1 Hora - México (XEW)">Canal de las Estrellas -1 Hora - México (XEW)</channel>
+   <channel update="i" site="gatotv.com" site_id="de_las_estrellas_-2h_mexico" xmltv_id="Canal de las Estrellas -2 Horas - México (XEW)">Canal de las Estrellas -2 Horas - México (XEW)</channel>
+   <channel update="i" site="gatotv.com" site_id="de_pelicula" xmltv_id="Canal De Película">Canal De Película</channel>
+   <channel update="i" site="gatotv.com" site_id="de_pelicula_m" xmltv_id="Canal De Película (Multiplex)">Canal De Película (Multiplex)</channel>
+   <channel update="i" site="gatotv.com" site_id="de_pelicula_clasico" xmltv_id="Canal De Película Clásico">Canal De Película Clásico</channel>
+   <channel update="i" site="gatotv.com" site_id="decasa" xmltv_id="Canal Decasa">Canal Decasa</channel>
+   <channel update="i" site="gatotv.com" site_id="deutsche_welle" xmltv_id="Canal Deutsche Welle">Canal Deutsche Welle</channel>
+   <channel update="i" site="gatotv.com" site_id="dhe" xmltv_id="Canal DHE">Canal DHE</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_channel_chile" xmltv_id="Canal Discovery Channel (Chile)">Canal Discovery Channel (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_channel_espana" xmltv_id="Canal Discovery Channel (España)">Canal Discovery Channel (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_channel_mexico" xmltv_id="Canal Discovery Channel (México)">Canal Discovery Channel (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_civilization_latinoamerica" xmltv_id="Canal Discovery Civilization (Latinoamérica)">Canal Discovery Civilization (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_en_espanol" xmltv_id="Canal Discovery en Español">Canal Discovery en Español</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_familia" xmltv_id="Canal Discovery Familia">Canal Discovery Familia</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_home_and_health_colombia" xmltv_id="Canal Discovery Home &amp; Health (Colombia)">Canal Discovery Home &amp; Health (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_home_and_health_mexico" xmltv_id="Canal Discovery Home &amp; Health (México)">Canal Discovery Home &amp; Health (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_kids_chile" xmltv_id="Canal Discovery Kids (Chile)">Canal Discovery Kids (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_kids_latinoamerica" xmltv_id="Canal Discovery Kids (Latinoamérica)">Canal Discovery Kids (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_kids_mexico" xmltv_id="Canal Discovery Kids (México)">Canal Discovery Kids (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_science_latinoamerica" xmltv_id="Canal Discovery Science (Latinoamérica)">Canal Discovery Science (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_theater_latinoamerica" xmltv_id="Canal Discovery Theater (Latinoamérica)">Canal Discovery Theater (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_turbo_latinoamerica" xmltv_id="Canal Discovery Turbo (Latinoamérica)">Canal Discovery Turbo (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="discovery_world_latinoamerica" xmltv_id="Canal Discovery World Latinoamérica">Canal Discovery World Latinoamérica</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_channel_centro" xmltv_id="Canal Disney Channel (Centro)">Canal Disney Channel (Centro)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_channel_espana" xmltv_id="Canal Disney Channel (España)">Canal Disney Channel (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_channel_mexico" xmltv_id="Canal Disney Channel (México)">Canal Disney Channel (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_channel_sur" xmltv_id="Canal Disney Channel (Sur)">Canal Disney Channel (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_junior_espana" xmltv_id="Canal Disney Junior (España)">Canal Disney Junior (España)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_junior_norte" xmltv_id="Canal Disney Junior (Norte)">Canal Disney Junior (Norte)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_junior_sur" xmltv_id="Canal Disney Junior (Sur)">Canal Disney Junior (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="disney_xd_panregional" xmltv_id="Canal Disney XD (Panregional)">Canal Disney XD (Panregional)</channel>
+   <channel update="i" site="gatotv.com" site_id="distrito_comedia" xmltv_id="Canal Distrito Comedia">Canal Distrito Comedia</channel>
+   <channel update="i" site="gatotv.com" site_id="divinity" xmltv_id="Canal Divinity">Canal Divinity</channel>
+   <channel update="i" site="gatotv.com" site_id="dw_latinoamerica" xmltv_id="Canal DW (Latinoamérica)">Canal DW (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="e_entertainment_television_chile" xmltv_id="Canal E! Entertainment Television (Chile)">Canal E! Entertainment Television (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="e_entertainment_television_panregional" xmltv_id="Canal E! Entertainment Television (Panregional)">Canal E! Entertainment Television (Panregional)</channel>
+   <channel update="i" site="gatotv.com" site_id="ecuador_tv" xmltv_id="Canal Ecuador TV">Canal Ecuador TV</channel>
+   <channel update="i" site="gatotv.com" site_id="ecuavisa_ecuador" xmltv_id="Canal Ecuavisa (Ecuador)">Canal Ecuavisa (Ecuador)</channel>
+   <channel update="i" site="gatotv.com" site_id="ecuavisa_internacional" xmltv_id="Canal Ecuavisa Internacional">Canal Ecuavisa Internacional</channel>
+   <channel update="i" site="gatotv.com" site_id="efekto_tv" xmltv_id="Canal Efekto TV (Efekto Noticias)">Canal Efekto TV (Efekto Noticias)</channel>
+   <channel update="i" site="gatotv.com" site_id="el_financiero_bloomberg" xmltv_id="Canal El Financiero - Bloomberg">Canal El Financiero - Bloomberg</channel>
+   <channel update="i" site="gatotv.com" site_id="el_heraldo_tv_mexico" xmltv_id="Canal El Heraldo TV (México)">Canal El Heraldo TV (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="elgourmet" xmltv_id="Canal Elgourmet">Canal Elgourmet</channel>
+   <channel update="i" site="gatotv.com" site_id="energy" xmltv_id="Canal Energy">Canal Energy</channel>
+   <channel update="i" site="gatotv.com" site_id="enlace" xmltv_id="Canal Enlace (TBN)">Canal Enlace (TBN)</channel>
+   <channel update="i" site="gatotv.com" site_id="esne_tv" xmltv_id="Canal ESNE TV">Canal ESNE TV</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_chile" xmltv_id="Canal ESPN (Chile)">Canal ESPN (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_colombia" xmltv_id="Canal ESPN (Colombia)">Canal ESPN (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_mexico" xmltv_id="Canal ESPN (México)">Canal ESPN (México)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_norte" xmltv_id="Canal ESPN (Norte)">Canal ESPN (Norte)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_sur" xmltv_id="Canal ESPN (Sur)">Canal ESPN (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_2_colombia" xmltv_id="Canal ESPN 2 (Colombia)">Canal ESPN 2 (Colombia)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_2_norte" xmltv_id="Canal ESPN 2 (Norte)">Canal ESPN 2 (Norte)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_2_sur" xmltv_id="Canal ESPN 2 (Sur)">Canal ESPN 2 (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_2_venezuela" xmltv_id="Canal ESPN 2 (Venezuela)">Canal ESPN 2 (Venezuela)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_2_mexico" xmltv_id="Canal ESPN 2 México">Canal ESPN 2 México</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_3_norte" xmltv_id="Canal ESPN 3 (Norte)">Canal ESPN 3 (Norte)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_3_sur" xmltv_id="Canal ESPN 3 (Sur)">Canal ESPN 3 (Sur)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_4_chile" xmltv_id="Canal ESPN 4 (Chile)">Canal ESPN 4 (Chile)</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_deportes" xmltv_id="Canal ESPN Deportes">Canal ESPN Deportes</channel>
+   <channel update="i" site="gatotv.com" site_id="espn_extra_latinoamerica" xmltv_id="Canal ESPN Extra (Latinoamérica)">Canal ESPN Extra (Latinoamérica)</channel>
+   <channel update="i" site="gatotv.com" site_id="estrella_tv" xmltv_id="Canal Estrella TV">Canal Estrella TV</channel>
+   <channel update="i" site="gatotv.com" site_id="etb_1" xmltv_id="Canal ETB 1">Canal ETB 1</channel>
+   <channel update="i" site="gatotv.com" site_id="etb_2" xmltv_id="Canal ETB 2">Canal ETB 2</channel>
