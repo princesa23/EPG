@@ -8,6 +8,11 @@
     <display-name lang="es">Claro Sports</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DIRECTV Sports (ARG)(DTSA)(610)">
+    <display-name lang="es">DIRECTV Sports (ARG)(DTSA)(610)</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png" />
+    <url>http://www.directv.com.ar</url>
+  </channel>
   <programme start="20220329010000 -0300" stop="20220329030000 -0300" channel="Canal FUTV">
     <title lang="es">Marineros vs. Puntarenas</title>
   </programme>
@@ -127,6 +132,78 @@
   <programme start="20220330193000 -0300" stop="20220330200000 -0300" channel="Canal FUTV">
     <title lang="es">Misioneros del fútbol</title>
   </programme>
+  <programme start="20220330200000 -0300" stop="20220330210000 -0300" channel="Canal FUTV">
+    <title lang="es">Conexión</title>
+  </programme>
+  <programme start="20220330210000 -0300" stop="20220330220000 -0300" channel="Canal FUTV">
+    <title lang="es">Fútbol AMP</title>
+  </programme>
+  <programme start="20220330220000 -0300" stop="20220330223000 -0300" channel="Canal FUTV">
+    <title lang="es">En ascenso</title>
+  </programme>
+  <programme start="20220330223000 -0300" stop="20220330230000 -0300" channel="Canal FUTV">
+    <title lang="es">Mundo de fútbol menor</title>
+  </programme>
+  <programme start="20220330230000 -0300" stop="20220331010000 -0300" channel="Canal FUTV">
+    <title lang="es">Estados Unidos vs. Costa Rica</title>
+    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
+  </programme>
+  <programme start="20220331230000 -0300" stop="20220401010000 -0300" channel="Canal FUTV">
+    <title lang="es">Estados Unidos vs. Costa Rica</title>
+    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
+  </programme>
+  <programme start="20220401010000 -0300" stop="20220401030000 -0300" channel="Canal FUTV">
+    <title lang="es">Estados Unidos vs. Costa Rica</title>
+    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
+  </programme>
+  <programme start="20220401030000 -0300" stop="20220401050000 -0300" channel="Canal FUTV">
+    <title lang="es">Estados Unidos vs. Costa Rica</title>
+    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
+  </programme>
+  <programme start="20220401050000 -0300" stop="20220401060000 -0300" channel="Canal FUTV">
+    <title lang="es">Fútbol AMP</title>
+  </programme>
+  <programme start="20220401060000 -0300" stop="20220401070000 -0300" channel="Canal FUTV">
+    <title lang="es">Historia del fútbol</title>
+  </programme>
+  <programme start="20220401070000 -0300" stop="20220401090000 -0300" channel="Canal FUTV">
+    <title lang="es">Palmares vs. San José</title>
+  </programme>
+  <programme start="20220401090000 -0300" stop="20220401110000 -0300" channel="Canal FUTV">
+    <title lang="es">Estados Unidos vs. Costa Rica</title>
+    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
+  </programme>
+  <programme start="20220401110000 -0300" stop="20220401120000 -0300" channel="Canal FUTV">
+    <title lang="es">Somos el team</title>
+  </programme>
+  <programme start="20220401120000 -0300" stop="20220401130000 -0300" channel="Canal FUTV">
+    <title lang="es">Conexión</title>
+  </programme>
+  <programme start="20220401130000 -0300" stop="20220401140000 -0300" channel="Canal FUTV">
+    <title lang="es">Fútbol AMP</title>
+  </programme>
+  <programme start="20220401140000 -0300" stop="20220401160000 -0300" channel="Canal FUTV">
+    <title lang="es">Estados Unidos vs. Costa Rica</title>
+    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
+  </programme>
+  <programme start="20220401170000 -0300" stop="20220401190000 -0300" channel="Canal FUTV">
+    <title lang="es">Costa Rica vs. Estados Unidos</title>
+  </programme>
+  <programme start="20220401190000 -0300" stop="20220401193000 -0300" channel="Canal FUTV">
+    <title lang="es">Más allá del fútbol</title>
+  </programme>
+  <programme start="20220401193000 -0300" stop="20220401203000 -0300" channel="Canal FUTV">
+    <title lang="es">El negocio del fútbol</title>
+  </programme>
+  <programme start="20220401203000 -0300" stop="20220401210000 -0300" channel="Canal FUTV">
+    <title lang="es">CS Herediano vs. Pérez Zeledón</title>
+  </programme>
   <programme start="20220329010000 -0300" stop="20220329020000 -0300" channel="Canal Claro Sports">
     <title lang="es">Jugando claro</title>
   </programme>
@@ -234,5 +311,958 @@
   </programme>
   <programme start="20220330200000 -0300" stop="20220330210000 -0300" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
+  </programme>
+  <programme start="20220330210000 -0300" stop="20220330220000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Marca Claro MVS radio</title>
+  </programme>
+  <programme start="20220330220000 -0300" stop="20220330230000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Deportes en Claro</title>
+  </programme>
+  <programme start="20220330230000 -0300" stop="20220330233000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Generation Rise</title>
+  </programme>
+  <programme start="20220330233000 -0300" stop="20220331000000 -0300" channel="Canal Claro Sports">
+    <title lang="es">El Golf es claro</title>
+  </programme>
+  <programme start="20220331030000 -0300" stop="20220331040000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Transform My Meal</title>
+  </programme>
+  <programme start="20220331040000 -0300" stop="20220331060000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Venados vs. Dorados</title>
+  </programme>
+  <programme start="20220331060000 -0300" stop="20220331070000 -0300" channel="Canal Claro Sports">
+    <title lang="es">PGA Tour Internacional - World Golf Championships-Dell Technologies Match P</title>
+  </programme>
+  <programme start="20220331070000 -0300" stop="20220331090000 -0300" channel="Canal Claro Sports">
+    <title lang="es">UCI MTB World Cup 2022</title>
+  </programme>
+  <programme start="20220331140000 -0300" stop="20220331150000 -0300" channel="Canal Claro Sports">
+    <title lang="es">PGA Tour Internacional - Corales Puntacana Championship</title>
+  </programme>
+  <programme start="20220331150000 -0300" stop="20220331170000 -0300" channel="Canal Claro Sports">
+    <title lang="es">UCI MTB World Cup 2022</title>
+  </programme>
+  <programme start="20220329010000 -0300" stop="20220329013000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Todo en 30</title>
+    <desc lang="es">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329013000 -0300" stop="20220329030000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Total</title>
+    <desc lang="es">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220329030000 -0300" stop="20220329040000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329040000 -0300" stop="20220329060000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Francia vs. Sudáfrica : Fútbol</title>
+    <title lang="es">International Friendly: France vs. South Africa : Fútbol - International Friendly: France vs. South Africa</title>
+    <sub-title lang="es">Francia vs. Sudáfrica</sub-title>
+    <desc lang="es">Amistoso internacional. Francia enfrenta a Sudáfrica en el Estadio Pierre-Mauroy.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329060000 -0300" stop="20220329080000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Inglaterra vs. Costa de Marfil : Fútbol</title>
+    <title lang="es">International Friendly: England vs. Côte d'Ivoire : Fútbol - International Friendly: England vs. Côte d'Ivoire</title>
+    <sub-title lang="es">Inglaterra vs. Costa de Marfil</sub-title>
+    <desc lang="es">Amistoso internacional. Inglaterra enfrenta a Costa de Marfil en el Estadio Wembley.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329080000 -0300" stop="20220329090000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV Argentina</title>
+    <desc lang="es">Noticiero que repasa la actualidad de todo lo que acontece en el mundo futbolístico y demás disciplinas deportivas en Argentina. Desde la atractiva Primera División, pasando por el apasionante Ascenso y las noticias polideportivas más relevantes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329090000 -0300" stop="20220329100000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ascenso Directo</title>
+    <desc lang="es">El programa que le faltaba a la categoría más apasionante de Argentina. Todas las novedades del ascenso traídas por los especialistas y la presencia de los propios protagonistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329100000 -0300" stop="20220329120000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Países Bajos vs. Alemania : Fútbol</title>
+    <title lang="es">International Friendly: Netherlands vs. Germany : Fútbol - International Friendly: Netherlands vs. Germany</title>
+    <sub-title lang="es">Países Bajos vs. Alemania</sub-title>
+    <desc lang="es">Amistoso internacional. Países Bajos enfrenta a Alemania estadio Johan Cruyff Arena.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329120000 -0300" stop="20220329140000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Al mediodía se habla así</title>
+    <desc lang="es">Análisis de todas las novedades del fútbol argentino con coberturas especiales y móviles en vivo. La palabra de los protagonistas y las noticias más trascendentales de Primera División.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329140000 -0300" stop="20220329150000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329150000 -0300" stop="20220329160000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">El juego</title>
+    <desc lang="es">Fernando Petrocelli y un grupo de destacados periodistas, representantes de cada país, integran este ciclo que tiene como misión informar sobre las ligas locales y mostrar lo más destacado de todos los eventos CONMEBOL.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329160000 -0300" stop="20220329170000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ascenso Directo</title>
+    <desc lang="es">El programa que le faltaba a la categoría más apasionante de Argentina. Todas las novedades del ascenso traídas por los especialistas y la presencia de los propios protagonistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329170000 -0300" stop="20220329173000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">MLR Highlights</title>
+    <desc lang="es">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329173000 -0300" stop="20220329190000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">De fútbol se habla así</title>
+    <desc lang="es">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <credits>
+      <actor>Daniel Cacioli</actor>
+      <actor>Héctor Gallo</actor>
+      <actor>Leandro Bousante</actor>
+      <actor>Nicolas Cajg</actor>
+      <actor>Pablo Giralt</actor>
+      <actor>Ricardo Dasso</actor>
+      <actor>Toti Pasman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329190000 -0300" stop="20220329203000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Total</title>
+    <desc lang="es">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220329203000 -0300" stop="20220329210000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Todo en 30</title>
+    <desc lang="es">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329210000 -0300" stop="20220329213000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">OnBoard</title>
+    <desc lang="es">Las carreras de Súper TC 2000, Top Race y TC 2000 finalizarán en este programa en el que la adrenalina es el ingrediente principal. Un paseo por cada rincón de los trazados a bordo de los autos más veloces del país.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329213000 -0300" stop="20220329220000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Superbike Argentino</title>
+    <desc lang="es">Acción de las carreras de la categoría más tecnológica y veloz de Latinoamérica en motociclismo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329220000 -0300" stop="20220329223000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Rally Argentino DIRECTV</title>
+    <desc lang="es">El resumen más completo con lo mejor del Rally Argentino, la categoría más importante de rally del país.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329223000 -0300" stop="20220329230000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">DIRECTV Sports Gaming</title>
+    <desc lang="es">Información, entrevistas y novedades del mundo gamer.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220329230000 -0300" stop="20220330000000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV Argentina</title>
+    <desc lang="es">Noticiero que repasa la actualidad de todo lo que acontece en el mundo futbolístico y demás disciplinas deportivas en Argentina. Desde la atractiva Primera División, pasando por el apasionante Ascenso y las noticias polideportivas más relevantes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330000000 -0300" stop="20220330003000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">DIRECTV Sports Gaming</title>
+    <desc lang="es">Información, entrevistas y novedades del mundo gamer.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330003000 -0300" stop="20220330010000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">MLR Highlights</title>
+    <desc lang="es">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330010000 -0300" stop="20220330013000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Todo en 30</title>
+    <desc lang="es">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330013000 -0300" stop="20220330030000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Total</title>
+    <desc lang="es">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220330030000 -0300" stop="20220330040000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330040000 -0300" stop="20220330060000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Inglaterra vs. Costa de Marfil : Fútbol</title>
+    <title lang="es">International Friendly: England vs. Ivory Coast : Fútbol - International Friendly: England vs. Ivory Coast</title>
+    <sub-title lang="es">Inglaterra vs. Costa de Marfil</sub-title>
+    <desc lang="es">Amistoso internacional. Inglaterra enfrenta a Costa de Marfil en el Estadio Wembley.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330060000 -0300" stop="20220330080000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Polonia vs. Suecia : FIFA Eliminatorias Copa Mundial 2022</title>
+    <title lang="es">Poland vs. Sweden : FIFA World Cup 2022 Qualifying - Poland vs. Sweden</title>
+    <sub-title lang="es">Polonia vs. Suecia</sub-title>
+    <desc lang="es">Final del repechaje por la clasificación. Polonia y Suecia se enfrentan en Stadion Slaski. Los locales llegan directamente a esta fase por la eliminación del equipo ruso. Los nórdicos, en tanto, superaron con angustia a República Checa (1-0).(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330080000 -0300" stop="20220330100000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Portugal vs. Macedonia : FIFA Eliminatorias Copa Mundial 2022</title>
+    <title lang="es">Portugal vs. North Macedonia: Portugal vs. Republic of North Macedonia : FIFA World Cup 2022 Qualifying - Portugal vs. North Macedonia: Portugal vs. Republic of North Macedonia</title>
+    <sub-title lang="es">Portugal vs. Macedonia</sub-title>
+    <desc lang="es">Final del repechaje por la clasificación. Portugal recibe a Macedonia del Norte en Oporto. Los lusos vienen de superar a Turquía por 3-1 y buscan su quinta participación mundialista. Los balcánicos, que nunca lo jugaron, vienen de eliminar a Italia.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330100000 -0300" stop="20220330120000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Al mediodía se habla así</title>
+    <desc lang="es">Análisis de todas las novedades del fútbol argentino con coberturas especiales y móviles en vivo. La palabra de los protagonistas y las noticias más trascendentales de Primera División.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330120000 -0300" stop="20220330130000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Pre show: Sorteo Copa Mundial FIFA 2022</title>
+    <desc lang="es">Comentarios y análisis de cara al sorteo de grupos para la Copa Mundial de la FIFA 2022.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330130000 -0300" stop="20220330140000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Sorteo Copa Mundial FIFA 2022</title>
+    <title lang="es">Final Draw for the 2022 FIFA World Cup Qatar</title>
+    <desc lang="es">Cobertura del sorteo para la Copa Mundial de la FIFA 2022 que se realizará en Catar. Desde Doha, Catar.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330140000 -0300" stop="20220330150000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Post show: Sorteo Copa Mundial FIFA 2022</title>
+    <desc lang="es">Comentarios y análisis del resultado del sorteo de grupos para la Copa Mundial de la FIFA 2022.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330150000 -0300" stop="20220330160000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330160000 -0300" stop="20220330170000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">El juego</title>
+    <desc lang="es">Fernando Petrocelli y un grupo de destacados periodistas, representantes de cada país, integran este ciclo que tiene como misión informar sobre las ligas locales y mostrar lo más destacado de todos los eventos CONMEBOL.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330170000 -0300" stop="20220330173000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Rally Argentino DIRECTV</title>
+    <desc lang="es">El resumen más completo con lo mejor del Rally Argentino, la categoría más importante de rally del país.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330173000 -0300" stop="20220330190000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">De fútbol se habla así</title>
+    <desc lang="es">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <credits>
+      <actor>Daniel Cacioli</actor>
+      <actor>Héctor Gallo</actor>
+      <actor>Leandro Bousante</actor>
+      <actor>Nicolas Cajg</actor>
+      <actor>Pablo Giralt</actor>
+      <actor>Ricardo Dasso</actor>
+      <actor>Toti Pasman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330190000 -0300" stop="20220330203000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Total</title>
+    <desc lang="es">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220330203000 -0300" stop="20220330223000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ituzaingó vs. Colegiales : Fútbol argentino Primera B</title>
+    <title lang="es">Ituzaingó vs. Colegiales : Argentine Primera B Soccer</title>
+    <sub-title lang="es">Ituzaingó vs. Colegiales</sub-title>
+    <desc lang="es">Acción de la Fecha 8 del Torneo Apertura. Ituzaingó recibe a Colegiales.(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330223000 -0300" stop="20220330230000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ranking DIRECTV Sports</title>
+    <desc lang="es">Relato de jugadas, eventos más destacados y las noticias del día contadas desde un costado humorístico y desfachatado. Todos los bloopers, los mejores goles, las burradas, y mucho más.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330230000 -0300" stop="20220331000000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV Argentina</title>
+    <desc lang="es">Noticiero que repasa la actualidad de todo lo que acontece en el mundo futbolístico y demás disciplinas deportivas en Argentina. Desde la atractiva Primera División, pasando por el apasionante Ascenso y las noticias polideportivas más relevantes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331000000 -0300" stop="20220331003000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ranking DIRECTV Sports</title>
+    <desc lang="es">Relato de jugadas, eventos más destacados y las noticias del día contadas desde un costado humorístico y desfachatado. Todos los bloopers, los mejores goles, las burradas, y mucho más.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331003000 -0300" stop="20220331010000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">DIRECTV Sports Gaming</title>
+    <desc lang="es">Información, entrevistas y novedades del mundo gamer.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331010000 -0300" stop="20220331013000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Todo en 30</title>
+    <desc lang="es">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331013000 -0300" stop="20220331030000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Total</title>
+    <desc lang="es">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220331030000 -0300" stop="20220331040000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331040000 -0300" stop="20220331060000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Francia vs. Sudáfrica : Fútbol</title>
+    <title lang="es">International Friendly: France vs. South Africa : Fútbol - International Friendly: France vs. South Africa</title>
+    <sub-title lang="es">Francia vs. Sudáfrica</sub-title>
+    <desc lang="es">Amistoso internacional. Francia enfrenta a Sudáfrica en el Estadio Pierre-Mauroy.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331060000 -0300" stop="20220331080000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Inglaterra vs. Costa de Marfil : Fútbol</title>
+    <title lang="es">International Friendly: England vs. Ivory Coast : Fútbol - International Friendly: England vs. Ivory Coast</title>
+    <sub-title lang="es">Inglaterra vs. Costa de Marfil</sub-title>
+    <desc lang="es">Amistoso internacional. Inglaterra enfrenta a Costa de Marfil en el Estadio Wembley.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331080000 -0300" stop="20220331083000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">La previa de La Liga</title>
+    <desc lang="es">Análisis previo a una nueva jornada de la apasionante Liga española de fútbol.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331083000 -0300" stop="20220331085500 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">La previa del partido</title>
+    <desc lang="es">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331085500 -0300" stop="20220331110000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Getafe vs. Mallorca : Fútbol Español La Liga</title>
+    <title lang="es">Getafe vs. Mallorca : Spanish Soccer La Liga - Getafe vs. Mallorca</title>
+    <sub-title lang="es">Getafe vs. Mallorca</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331110000 -0300" stop="20220331111000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">La previa del partido</title>
+    <desc lang="es">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331111000 -0300" stop="20220331131500 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Levante vs. Villarreal : Fútbol Español La Liga</title>
+    <title lang="es">Levante vs. Villarreal : Spanish Soccer La Liga - Levante vs. Villarreal</title>
+    <sub-title lang="es">Levante vs. Villarreal</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331131500 -0300" stop="20220331133000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Hilos : Pep Guardiola</title>
+    <sub-title lang="es">Pep Guardiola</sub-title>
+    <desc lang="es">Programa especial sobre el perfil del ex futbolista y actual entrenador español, quien revolucionó el mundo del fútbol con su manera de conducir a sus equipos.(n)</desc>
+    <credits>
+      <actor>Juan Varsky</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Primera vez</category>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220331133000 -0300" stop="20220331143000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Post show: Sorteo Copa Mundial FIFA 2022</title>
+    <desc lang="es">Comentarios y análisis del resultado del sorteo de grupos para la Copa Mundial de la FIFA 2022.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331143000 -0300" stop="20220331150000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">UEFA European Qualifiers Highlights</title>
+    <desc lang="es">Toda la acción con los mejores resúmenes y partidos de la clasificación europea.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331150000 -0300" stop="20220331170000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Getafe vs. Mallorca : Fútbol Español La Liga</title>
+    <title lang="es">Getafe CF vs. RCD Mallorca : Spanish Soccer La Liga - Getafe CF vs. RCD Mallorca</title>
+    <sub-title lang="es">Getafe vs. Mallorca</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331170000 -0300" stop="20220331190000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Almagro vs. Chacarita : Fútbol argentino Primera Nacional</title>
+    <title lang="es">Almagro vs. Chacarita : Argentine Primera Nacional Soccer</title>
+    <sub-title lang="es">Almagro vs. Chacarita</sub-title>
+    <desc lang="es">Jornada 8 del Torneo Apertura. Almagro recibe a Chacarita en el estadio Tres de Febrero, en la localidad de José Ingenieros.(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331190000 -0300" stop="20220331200000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331200000 -0300" stop="20220331203000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Atlas, la resistencia del titán</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331203000 -0300" stop="20220331210000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Vamos a la Caye : Leandro Desábato</title>
+    <sub-title lang="es">Leandro Desábato</sub-title>
+    <desc lang="es">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Primera vez</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220331210000 -0300" stop="20220331230000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ferro vs. Peñarol : Baloncesto Nacional de Argentina</title>
+    <sub-title lang="es">Ferro vs. Peñarol</sub-title>
+    <desc lang="es">Acción de la temporada regular. Ferro enfrenta a Peñarol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">En Vivo</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331230000 -0300" stop="20220331233000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Atlas, la resistencia del titán</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331233000 -0300" stop="20220401003000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Súper Central Deportivo</title>
+    <desc lang="es">La fecha del Fútbol Argentino empieza a definirse en este completo noticiero. Goles, polémicas, análisis, opinión, más la mejor cobertura del andar de los deportistas argentinos por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401003000 -0300" stop="20220401010000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ranking DIRECTV Sports</title>
+    <desc lang="es">Relato de jugadas, eventos más destacados y las noticias del día contadas desde un costado humorístico y desfachatado. Todos los bloopers, los mejores goles, las burradas, y mucho más.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401010000 -0300" stop="20220401030000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Levante vs. Villarreal : Fútbol Español La Liga</title>
+    <title lang="es">Levante UD vs. Villarreal : Spanish Soccer La Liga - Levante UD vs. Villarreal</title>
+    <sub-title lang="es">Levante vs. Villarreal</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401030000 -0300" stop="20220401040000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401040000 -0300" stop="20220401060000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Inglaterra vs. Costa de Marfil : Fútbol</title>
+    <title lang="es">International Friendly: England vs. Ivory Coast : Fútbol - International Friendly: England vs. Ivory Coast</title>
+    <sub-title lang="es">Inglaterra vs. Costa de Marfil</sub-title>
+    <desc lang="es">Amistoso internacional. Inglaterra enfrenta a Costa de Marfil en el Estadio Wembley.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401060000 -0300" stop="20220401080000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Levante vs. Villarreal : Fútbol Español La Liga</title>
+    <title lang="es">Levante UD vs. Villarreal : Spanish Soccer La Liga - Levante UD vs. Villarreal</title>
+    <sub-title lang="es">Levante vs. Villarreal</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401080000 -0300" stop="20220401090000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401090000 -0300" stop="20220401110000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Getafe vs. Mallorca : Fútbol Español La Liga</title>
+    <title lang="es">Getafe CF vs. RCD Mallorca : Spanish Soccer La Liga - Getafe CF vs. RCD Mallorca</title>
+    <sub-title lang="es">Getafe vs. Mallorca</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401110000 -0300" stop="20220401111000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">La previa del partido</title>
+    <desc lang="es">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401111000 -0300" stop="20220401131500 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Betis vs. Osasuna : Fútbol Español La Liga</title>
+    <title lang="es">Real Betis vs. Osasuna : Spanish Soccer La Liga - Real Betis vs. Osasuna</title>
+    <sub-title lang="es">Betis vs. Osasuna</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Betis recibe a Osasuna en el estadio Benito Villamarín. Los béticos llevan 3 juegos sin caer (1PG 2PE), mientras que los rojillos ganaron 2 de sus últimos 3 partidos (1PP).(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401131500 -0300" stop="20220401132500 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">La previa del partido</title>
+    <desc lang="es">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401132500 -0300" stop="20220401153000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Valencia vs. Cádiz : Fútbol Español La Liga</title>
+    <title lang="es">Valencia vs. Cádiz : Spanish Soccer La Liga - Valencia vs. Cádiz</title>
+    <sub-title lang="es">Valencia vs. Cádiz</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Valencia recibe a Cádiz en el estadio Mestalla. Los chés llevan 5 partidos sin perder (4PG 1PE), mientras que el Submarino Amarillo solo cayó en 1 de sus últimos 6 juegos (2PG 3PE).(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401153000 -0300" stop="20220401155500 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">La previa del partido</title>
+    <desc lang="es">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401155500 -0300" stop="20220401180000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Barcelona vs. Sevilla : Fútbol Español La Liga</title>
+    <title lang="es">FC Barcelona vs. Sevilla : Spanish Soccer La Liga - FC Barcelona vs. Sevilla</title>
+    <sub-title lang="es">Barcelona vs. Sevilla</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Barcelona recibe a Sevilla en el estadio Camp Nou. Los culés acumulan 12 partidos sin perder (9PG 3PE), mientras que los nervionenses llevan 3 juegos sin ganar (2PE 1PP).(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401180000 -0300" stop="20220401190000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401190000 -0300" stop="20220401210000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401210000 -0300" stop="20220401220000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Argentino Federal A : Torneo Federal A: Liniers VS Olimpo Bahía Blanca</title>
+    <title lang="es">Argentine A Tournament Soccer : Torneo Federal A: Liniers VS Olimpo Bahía Blanca</title>
+    <sub-title lang="es">Torneo Federal A: Liniers VS Olimpo Bahía Blanca</sub-title>
+    <desc lang="es">Jornada 2 de la Etapa Clasificatoria en la Zona Sur. Atlético Liniers recibe a Olimpo en el estadio Alejandro Pérez. Desde Bahía Blanca, Argentina.(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401220000 -0300" stop="20220401230000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Súper Central Deportivo</title>
+    <desc lang="es">La fecha del Fútbol Argentino empieza a definirse en este completo noticiero. Goles, polémicas, análisis, opinión, más la mejor cobertura del andar de los deportistas argentinos por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220401230000 -0300" stop="20220402010000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Betis vs. Osasuna : Fútbol Español La Liga</title>
+    <title lang="es">Real Betis vs. Osasuna : Spanish Soccer La Liga - Real Betis vs. Osasuna</title>
+    <sub-title lang="es">Betis vs. Osasuna</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Betis recibe a Osasuna en el estadio Benito Villamarín. Los béticos llevan 3 juegos sin caer (1PG 2PE), mientras que los rojillos ganaron 2 de sus últimos 3 partidos (1PP).(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402010000 -0300" stop="20220402030000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Valencia vs. Cádiz : Fútbol Español La Liga</title>
+    <title lang="es">Valencia vs. Cádiz : Spanish Soccer La Liga - Valencia vs. Cádiz</title>
+    <sub-title lang="es">Valencia vs. Cádiz</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Valencia recibe a Cádiz en el estadio Mestalla. Los chés llevan 5 partidos sin perder (4PG 1PE), mientras que el Submarino Amarillo solo cayó en 1 de sus últimos 6 juegos (2PG 3PE).(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402030000 -0300" stop="20220402040000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402040000 -0300" stop="20220402060000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Valencia vs. Cádiz : Fútbol Español La Liga</title>
+    <title lang="es">Valencia vs. Cádiz : Spanish Soccer La Liga - Valencia vs. Cádiz</title>
+    <sub-title lang="es">Valencia vs. Cádiz</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Valencia recibe a Cádiz en el estadio Mestalla. Los chés llevan 5 partidos sin perder (4PG 1PE), mientras que el Submarino Amarillo solo cayó en 1 de sus últimos 6 juegos (2PG 3PE).(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402060000 -0300" stop="20220402080000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Getafe vs. Mallorca : Fútbol Español La Liga</title>
+    <title lang="es">Getafe CF vs. RCD Mallorca : Spanish Soccer La Liga - Getafe CF vs. RCD Mallorca</title>
+    <sub-title lang="es">Getafe vs. Mallorca</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402080000 -0300" stop="20220402090000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Súper Central Deportivo</title>
+    <desc lang="es">La fecha del Fútbol Argentino empieza a definirse en este completo noticiero. Goles, polémicas, análisis, opinión, más la mejor cobertura del andar de los deportistas argentinos por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402090000 -0300" stop="20220402093000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Hilos : Reinhold Messner</title>
+    <sub-title lang="es">Reinhold Messner</sub-title>
+    <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+    <credits>
+      <actor>Juan Varsky</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220402093000 -0300" stop="20220402100000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Vamos a la Caye : Leandro Desábato</title>
+    <sub-title lang="es">Leandro Desábato</sub-title>
+    <desc lang="es">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Primera vez</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220402100000 -0300" stop="20220402120000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Barcelona vs. Sevilla : Fútbol Español La Liga</title>
+    <title lang="es">FC Barcelona vs. Sevilla : Spanish Soccer La Liga - FC Barcelona vs. Sevilla</title>
+    <sub-title lang="es">Barcelona vs. Sevilla</sub-title>
+    <desc lang="es">Jornada 30 de LaLiga 2021-2022. Barcelona recibe a Sevilla en el estadio Camp Nou. Los culés acumulan 12 partidos sin perder (9PG 3PE), mientras que los nervionenses llevan 3 juegos sin ganar (2PE 1PP).(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402120000 -0300" stop="20220402140000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Al mediodía se habla así</title>
+    <desc lang="es">Análisis de todas las novedades del fútbol argentino con coberturas especiales y móviles en vivo. La palabra de los protagonistas y las noticias más trascendentales de Primera División.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402140000 -0300" stop="20220402150000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402150000 -0300" stop="20220402152000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Atlas, la resistencia del titán</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402152000 -0300" stop="20220402173000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Primera C: Deportivo Español VS Deportivo Laferrere : Fútbol Argentino</title>
+    <title lang="es">Primera C: Deportivo Español VS Deportivo Laferrere : Argentine Soccer</title>
+    <sub-title lang="es">Primera C: Deportivo Español VS Deportivo Laferrere</sub-title>
+    <desc lang="es">Jornada 8 del Apertura. Deportivo Español recibe a Deportivo Laferrere. Desde el Estadio Nueva España, en Buenos Aires, Argentina.(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402173000 -0300" stop="20220402190000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">De fútbol se habla así</title>
+    <desc lang="es">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <credits>
+      <actor>Daniel Cacioli</actor>
+      <actor>Héctor Gallo</actor>
+      <actor>Leandro Bousante</actor>
+      <actor>Nicolas Cajg</actor>
+      <actor>Pablo Giralt</actor>
+      <actor>Ricardo Dasso</actor>
+      <actor>Toti Pasman</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402190000 -0300" stop="20220402203000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Fútbol Total</title>
+    <desc lang="es">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220402203000 -0300" stop="20220402210000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Todo en 30</title>
+    <desc lang="es">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402210000 -0300" stop="20220402220000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV</title>
+    <desc lang="es">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402220000 -0300" stop="20220402223000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Hilos : Mónica Seles</title>
+    <sub-title lang="es">Mónica Seles</sub-title>
+    <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220402223000 -0300" stop="20220402230000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Ranking DIRECTV Sports</title>
+    <desc lang="es">Relato de jugadas, eventos más destacados y las noticias del día contadas desde un costado humorístico y desfachatado. Todos los bloopers, los mejores goles, las burradas, y mucho más.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220402230000 -0300" stop="20220403000000 -0300" channel="DIRECTV Sports (ARG)(DTSA)(610)">
+    <title lang="es">Conexión DIRECTV Argentina</title>
+    <desc lang="es">Noticiero que repasa la actualidad de todo lo que acontece en el mundo futbolístico y demás disciplinas deportivas en Argentina. Desde la atractiva Primera División, pasando por el apasionante Ascenso y las noticias polideportivas más relevantes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
   </programme>
 </tv>
