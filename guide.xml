@@ -1,238 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal FUTV">
-    <display-name lang="es">FUTV (Costa Rica)</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal Claro Sports">
     <display-name lang="es">Claro Sports</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20220329010000 -0300" stop="20220329030000 -0300" channel="Canal FUTV">
-    <title lang="es">Marineros vs. Puntarenas</title>
-  </programme>
-  <programme start="20220329030000 -0300" stop="20220329050000 -0300" channel="Canal FUTV">
-    <title lang="es">Costa Rica vs. Estados Unid</title>
-  </programme>
-  <programme start="20220329050000 -0300" stop="20220329060000 -0300" channel="Canal FUTV">
-    <title lang="es">Al ritmo del deporte</title>
-  </programme>
-  <programme start="20220329060000 -0300" stop="20220329070000 -0300" channel="Canal FUTV">
-    <title lang="es">Análisis 360</title>
-  </programme>
-  <programme start="20220329070000 -0300" stop="20220329080000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220329080000 -0300" stop="20220329090000 -0300" channel="Canal FUTV">
-    <title lang="es">Futbol TV y mas</title>
-  </programme>
-  <programme start="20220329090000 -0300" stop="20220329110000 -0300" channel="Canal FUTV">
-    <title lang="es">Costa Rica vs. Estados Unid</title>
-  </programme>
-  <programme start="20220329110000 -0300" stop="20220329130000 -0300" channel="Canal FUTV">
-    <title lang="es">Palmares vs. San José</title>
-  </programme>
-  <programme start="20220329130000 -0300" stop="20220329140000 -0300" channel="Canal FUTV">
-    <title lang="es">Al ritmo del deporte</title>
-  </programme>
-  <programme start="20220329140000 -0300" stop="20220329150000 -0300" channel="Canal FUTV">
-    <title lang="es">Análisis 360</title>
-  </programme>
-  <programme start="20220329150000 -0300" stop="20220329160000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220329160000 -0300" stop="20220329170000 -0300" channel="Canal FUTV">
-    <title lang="es">Historia del fútbol</title>
-  </programme>
-  <programme start="20220329170000 -0300" stop="20220329190000 -0300" channel="Canal FUTV">
-    <title lang="es">Barrio México vs. Aserrí</title>
-  </programme>
-  <programme start="20220329190000 -0300" stop="20220329200000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220329200000 -0300" stop="20220329210000 -0300" channel="Canal FUTV">
-    <title lang="es">Conexión</title>
-  </programme>
-  <programme start="20220329210000 -0300" stop="20220329230000 -0300" channel="Canal FUTV">
-    <title lang="es">Estados Unidos vs. Costa Rica</title>
-    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
-  </programme>
-  <programme start="20220329230000 -0300" stop="20220329233000 -0300" channel="Canal FUTV">
-    <title lang="es">En ascenso</title>
-  </programme>
-  <programme start="20220329233000 -0300" stop="20220330000000 -0300" channel="Canal FUTV">
-    <title lang="es">Mundo de fútbol menor</title>
-  </programme>
-  <programme start="20220330000000 -0300" stop="20220330010000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220330010000 -0300" stop="20220330030000 -0300" channel="Canal FUTV">
-    <title lang="es">Palmares vs. San José</title>
-  </programme>
-  <programme start="20220330030000 -0300" stop="20220330040000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220330040000 -0300" stop="20220330043000 -0300" channel="Canal FUTV">
-    <title lang="es">En ascenso</title>
-  </programme>
-  <programme start="20220330043000 -0300" stop="20220330050000 -0300" channel="Canal FUTV">
-    <title lang="es">Mundo de fútbol menor</title>
-  </programme>
-  <programme start="20220330050000 -0300" stop="20220330070000 -0300" channel="Canal FUTV">
-    <title lang="es">Estados Unidos vs. Costa Rica</title>
-    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
-  </programme>
-  <programme start="20220330070000 -0300" stop="20220330073000 -0300" channel="Canal FUTV">
-    <title lang="es">En ascenso</title>
-  </programme>
-  <programme start="20220330073000 -0300" stop="20220330080000 -0300" channel="Canal FUTV">
-    <title lang="es">Mundo de fútbol menor</title>
-  </programme>
-  <programme start="20220330080000 -0300" stop="20220330090000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220330090000 -0300" stop="20220330110000 -0300" channel="Canal FUTV">
-    <title lang="es">Marineros vs. Puntarenas</title>
-  </programme>
-  <programme start="20220330110000 -0300" stop="20220330130000 -0300" channel="Canal FUTV">
-    <title lang="es">Estados Unidos vs. Costa Rica</title>
-    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
-  </programme>
-  <programme start="20220330130000 -0300" stop="20220330140000 -0300" channel="Canal FUTV">
-    <title lang="es">Conexión</title>
-  </programme>
-  <programme start="20220330140000 -0300" stop="20220330143000 -0300" channel="Canal FUTV">
-    <title lang="es">En ascenso</title>
-  </programme>
-  <programme start="20220330143000 -0300" stop="20220330150000 -0300" channel="Canal FUTV">
-    <title lang="es">Mundo de fútbol menor</title>
-  </programme>
-  <programme start="20220330150000 -0300" stop="20220330160000 -0300" channel="Canal FUTV">
-    <title lang="es">Somos el team</title>
-  </programme>
-  <programme start="20220330160000 -0300" stop="20220330170000 -0300" channel="Canal FUTV">
-    <title lang="es">Historia del fútbol</title>
-  </programme>
-  <programme start="20220330170000 -0300" stop="20220330190000 -0300" channel="Canal FUTV">
-    <title lang="es">Estados Unidos vs. Costa Rica</title>
-    <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
-  </programme>
-  <programme start="20220330190000 -0300" stop="20220330193000 -0300" channel="Canal FUTV">
-    <title lang="es">Cuento de campeones</title>
-  </programme>
-  <programme start="20220330193000 -0300" stop="20220330200000 -0300" channel="Canal FUTV">
-    <title lang="es">Misioneros del fútbol</title>
-  </programme>
-  <programme start="20220329010000 -0300" stop="20220329020000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329010000 -0600" stop="20220329020000 -0600" channel="Canal Claro Sports">
     <title lang="es">Jugando claro</title>
   </programme>
-  <programme start="20220329020000 -0300" stop="20220329030000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329020000 -0600" stop="20220329030000 -0600" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
-  <programme start="20220329030000 -0300" stop="20220329034500 -0300" channel="Canal Claro Sports">
+  <programme start="20220329030000 -0600" stop="20220329034500 -0600" channel="Canal Claro Sports">
     <title lang="es">UCI MTB World Cup 2022</title>
   </programme>
-  <programme start="20220329034500 -0300" stop="20220329040000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329034500 -0600" stop="20220329040000 -0600" channel="Canal Claro Sports">
     <title lang="es">África</title>
   </programme>
-  <programme start="20220329040000 -0300" stop="20220329060000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329040000 -0600" stop="20220329060000 -0600" channel="Canal Claro Sports">
     <title lang="es">Cancun vs. Pumas Tabasco</title>
   </programme>
-  <programme start="20220329060000 -0300" stop="20220329063000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329060000 -0600" stop="20220329063000 -0600" channel="Canal Claro Sports">
     <title lang="es">3 Rounds</title>
   </programme>
-  <programme start="20220329063000 -0300" stop="20220329070000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329063000 -0600" stop="20220329070000 -0600" channel="Canal Claro Sports">
     <title lang="es">Gol, gol, gol</title>
   </programme>
-  <programme start="20220329070000 -0300" stop="20220329090000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329070000 -0600" stop="20220329090000 -0600" channel="Canal Claro Sports">
     <title lang="es">Volta Catalunya</title>
   </programme>
-  <programme start="20220329090000 -0300" stop="20220329093000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329090000 -0600" stop="20220329093000 -0600" channel="Canal Claro Sports">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220329093000 -0300" stop="20220329100000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329093000 -0600" stop="20220329100000 -0600" channel="Canal Claro Sports">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220329100000 -0300" stop="20220329103000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329100000 -0600" stop="20220329103000 -0600" channel="Canal Claro Sports">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220329103000 -0300" stop="20220329110000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329103000 -0600" stop="20220329110000 -0600" channel="Canal Claro Sports">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220329110000 -0300" stop="20220329113000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329110000 -0600" stop="20220329113000 -0600" channel="Canal Claro Sports">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220329113000 -0300" stop="20220329120000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329113000 -0600" stop="20220329120000 -0600" channel="Canal Claro Sports">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220329120000 -0300" stop="20220329140000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329120000 -0600" stop="20220329140000 -0600" channel="Canal Claro Sports">
     <title lang="es">Peloteando</title>
   </programme>
-  <programme start="20220329140000 -0300" stop="20220329144500 -0300" channel="Canal Claro Sports">
+  <programme start="20220329140000 -0600" stop="20220329144500 -0600" channel="Canal Claro Sports">
     <title lang="es">UCI MTB World Cup 2022</title>
   </programme>
-  <programme start="20220329144500 -0300" stop="20220329150000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329144500 -0600" stop="20220329150000 -0600" channel="Canal Claro Sports">
     <title lang="es">África</title>
   </programme>
-  <programme start="20220329150000 -0300" stop="20220329170000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329150000 -0600" stop="20220329170000 -0600" channel="Canal Claro Sports">
     <title lang="es">Volta Catalunya</title>
   </programme>
-  <programme start="20220329170000 -0300" stop="20220329180000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329170000 -0600" stop="20220329180000 -0600" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
-  <programme start="20220329180000 -0300" stop="20220329190000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329180000 -0600" stop="20220329190000 -0600" channel="Canal Claro Sports">
     <title lang="es">Marca Claro MVS radio</title>
   </programme>
-  <programme start="20220329190000 -0300" stop="20220329195000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329190000 -0600" stop="20220329195000 -0600" channel="Canal Claro Sports">
     <title lang="es">La Jornada</title>
   </programme>
-  <programme start="20220329195000 -0300" stop="20220329220000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329195000 -0600" stop="20220329220000 -0600" channel="Canal Claro Sports">
     <title lang="es">Atlante vs. Alebrijes de Oaxaca</title>
   </programme>
-  <programme start="20220329220000 -0300" stop="20220330000000 -0300" channel="Canal Claro Sports">
+  <programme start="20220329220000 -0600" stop="20220330000000 -0600" channel="Canal Claro Sports">
     <title lang="es">Venados vs. Dorados</title>
   </programme>
-  <programme start="20220330000000 -0300" stop="20220330020000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330000000 -0600" stop="20220330020000 -0600" channel="Canal Claro Sports">
     <title lang="es">Cimarrones de Sonora vs. Cancún</title>
   </programme>
-  <programme start="20220330020000 -0300" stop="20220330030000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330020000 -0600" stop="20220330030000 -0600" channel="Canal Claro Sports">
     <title lang="es">Jugando claro</title>
   </programme>
-  <programme start="20220330030000 -0300" stop="20220330040000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330030000 -0600" stop="20220330040000 -0600" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
-  <programme start="20220330040000 -0300" stop="20220330060000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330040000 -0600" stop="20220330060000 -0600" channel="Canal Claro Sports">
     <title lang="es">Volta Catalunya</title>
   </programme>
-  <programme start="20220330060000 -0300" stop="20220330064500 -0300" channel="Canal Claro Sports">
+  <programme start="20220330060000 -0600" stop="20220330064500 -0600" channel="Canal Claro Sports">
     <title lang="es">UCI MTB World Cup 2022</title>
   </programme>
-  <programme start="20220330064500 -0300" stop="20220330070000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330064500 -0600" stop="20220330070000 -0600" channel="Canal Claro Sports">
     <title lang="es">África</title>
   </programme>
-  <programme start="20220330070000 -0300" stop="20220330090000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330070000 -0600" stop="20220330090000 -0600" channel="Canal Claro Sports">
     <title lang="es">Atlante vs. Alebrijes de Oaxaca</title>
   </programme>
-  <programme start="20220330140000 -0300" stop="20220330150000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330140000 -0600" stop="20220330150000 -0600" channel="Canal Claro Sports">
     <title lang="es">PGA Tour Internacional - World Golf Championships-Dell Technologies Match P</title>
   </programme>
-  <programme start="20220330150000 -0300" stop="20220330170000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330150000 -0600" stop="20220330170000 -0600" channel="Canal Claro Sports">
     <title lang="es">Atlante vs. Alebrijes de Oaxaca</title>
   </programme>
-  <programme start="20220330170000 -0300" stop="20220330180000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330170000 -0600" stop="20220330180000 -0600" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
-  <programme start="20220330180000 -0300" stop="20220330190000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330180000 -0600" stop="20220330190000 -0600" channel="Canal Claro Sports">
     <title lang="es">Marca Claro MVS radio</title>
   </programme>
-  <programme start="20220330190000 -0300" stop="20220330200000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330190000 -0600" stop="20220330200000 -0600" channel="Canal Claro Sports">
     <title lang="es">La Jornada</title>
   </programme>
-  <programme start="20220330200000 -0300" stop="20220330210000 -0300" channel="Canal Claro Sports">
+  <programme start="20220330200000 -0600" stop="20220330210000 -0600" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
 </tv>
