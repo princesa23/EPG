@@ -4,123 +4,123 @@
     <display-name lang="es">FUTV (Costa Rica)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20220329010000 +0300" stop="20220329030000 +0300" channel="Canal FUTV">
+  <programme start="20220329010000 0000" stop="20220329030000 0000" channel="Canal FUTV">
     <title lang="es">Marineros vs. Puntarenas</title>
   </programme>
-  <programme start="20220329030000 +0300" stop="20220329050000 +0300" channel="Canal FUTV">
+  <programme start="20220329030000 0000" stop="20220329050000 0000" channel="Canal FUTV">
     <title lang="es">Costa Rica vs. Estados Unid</title>
   </programme>
-  <programme start="20220329050000 +0300" stop="20220329060000 +0300" channel="Canal FUTV">
+  <programme start="20220329050000 0000" stop="20220329060000 0000" channel="Canal FUTV">
     <title lang="es">Al ritmo del deporte</title>
   </programme>
-  <programme start="20220329060000 +0300" stop="20220329070000 +0300" channel="Canal FUTV">
+  <programme start="20220329060000 0000" stop="20220329070000 0000" channel="Canal FUTV">
     <title lang="es">Análisis 360</title>
   </programme>
-  <programme start="20220329070000 +0300" stop="20220329080000 +0300" channel="Canal FUTV">
+  <programme start="20220329070000 0000" stop="20220329080000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220329080000 +0300" stop="20220329090000 +0300" channel="Canal FUTV">
+  <programme start="20220329080000 0000" stop="20220329090000 0000" channel="Canal FUTV">
     <title lang="es">Futbol TV y mas</title>
   </programme>
-  <programme start="20220329090000 +0300" stop="20220329110000 +0300" channel="Canal FUTV">
+  <programme start="20220329090000 0000" stop="20220329110000 0000" channel="Canal FUTV">
     <title lang="es">Costa Rica vs. Estados Unid</title>
   </programme>
-  <programme start="20220329110000 +0300" stop="20220329130000 +0300" channel="Canal FUTV">
+  <programme start="20220329110000 0000" stop="20220329130000 0000" channel="Canal FUTV">
     <title lang="es">Palmares vs. San José</title>
   </programme>
-  <programme start="20220329130000 +0300" stop="20220329140000 +0300" channel="Canal FUTV">
+  <programme start="20220329130000 0000" stop="20220329140000 0000" channel="Canal FUTV">
     <title lang="es">Al ritmo del deporte</title>
   </programme>
-  <programme start="20220329140000 +0300" stop="20220329150000 +0300" channel="Canal FUTV">
+  <programme start="20220329140000 0000" stop="20220329150000 0000" channel="Canal FUTV">
     <title lang="es">Análisis 360</title>
   </programme>
-  <programme start="20220329150000 +0300" stop="20220329160000 +0300" channel="Canal FUTV">
+  <programme start="20220329150000 0000" stop="20220329160000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220329160000 +0300" stop="20220329170000 +0300" channel="Canal FUTV">
+  <programme start="20220329160000 0000" stop="20220329170000 0000" channel="Canal FUTV">
     <title lang="es">Historia del fútbol</title>
   </programme>
-  <programme start="20220329170000 +0300" stop="20220329190000 +0300" channel="Canal FUTV">
+  <programme start="20220329170000 0000" stop="20220329190000 0000" channel="Canal FUTV">
     <title lang="es">Barrio México vs. Aserrí</title>
   </programme>
-  <programme start="20220329190000 +0300" stop="20220329200000 +0300" channel="Canal FUTV">
+  <programme start="20220329190000 0000" stop="20220329200000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220329200000 +0300" stop="20220329210000 +0300" channel="Canal FUTV">
+  <programme start="20220329200000 0000" stop="20220329210000 0000" channel="Canal FUTV">
     <title lang="es">Conexión</title>
   </programme>
-  <programme start="20220329210000 +0300" stop="20220329230000 +0300" channel="Canal FUTV">
+  <programme start="20220329210000 0000" stop="20220329230000 0000" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
     <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
   </programme>
-  <programme start="20220329230000 +0300" stop="20220329233000 +0300" channel="Canal FUTV">
+  <programme start="20220329230000 0000" stop="20220329233000 0000" channel="Canal FUTV">
     <title lang="es">En ascenso</title>
   </programme>
-  <programme start="20220329233000 +0300" stop="20220330000000 +0300" channel="Canal FUTV">
+  <programme start="20220329233000 0000" stop="20220330000000 0000" channel="Canal FUTV">
     <title lang="es">Mundo de fútbol menor</title>
   </programme>
-  <programme start="20220330000000 +0300" stop="20220330010000 +0300" channel="Canal FUTV">
+  <programme start="20220330000000 0000" stop="20220330010000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220330010000 +0300" stop="20220330030000 +0300" channel="Canal FUTV">
+  <programme start="20220330010000 0000" stop="20220330030000 0000" channel="Canal FUTV">
     <title lang="es">Palmares vs. San José</title>
   </programme>
-  <programme start="20220330030000 +0300" stop="20220330040000 +0300" channel="Canal FUTV">
+  <programme start="20220330030000 0000" stop="20220330040000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220330040000 +0300" stop="20220330043000 +0300" channel="Canal FUTV">
+  <programme start="20220330040000 0000" stop="20220330043000 0000" channel="Canal FUTV">
     <title lang="es">En ascenso</title>
   </programme>
-  <programme start="20220330043000 +0300" stop="20220330050000 +0300" channel="Canal FUTV">
+  <programme start="20220330043000 0000" stop="20220330050000 0000" channel="Canal FUTV">
     <title lang="es">Mundo de fútbol menor</title>
   </programme>
-  <programme start="20220330050000 +0300" stop="20220330070000 +0300" channel="Canal FUTV">
+  <programme start="20220330050000 0000" stop="20220330070000 0000" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
     <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
   </programme>
-  <programme start="20220330070000 +0300" stop="20220330073000 +0300" channel="Canal FUTV">
+  <programme start="20220330070000 0000" stop="20220330073000 0000" channel="Canal FUTV">
     <title lang="es">En ascenso</title>
   </programme>
-  <programme start="20220330073000 +0300" stop="20220330080000 +0300" channel="Canal FUTV">
+  <programme start="20220330073000 0000" stop="20220330080000 0000" channel="Canal FUTV">
     <title lang="es">Mundo de fútbol menor</title>
   </programme>
-  <programme start="20220330080000 +0300" stop="20220330090000 +0300" channel="Canal FUTV">
+  <programme start="20220330080000 0000" stop="20220330090000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220330090000 +0300" stop="20220330110000 +0300" channel="Canal FUTV">
+  <programme start="20220330090000 0000" stop="20220330110000 0000" channel="Canal FUTV">
     <title lang="es">Marineros vs. Puntarenas</title>
   </programme>
-  <programme start="20220330110000 +0300" stop="20220330130000 +0300" channel="Canal FUTV">
+  <programme start="20220330110000 0000" stop="20220330130000 0000" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
     <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
   </programme>
-  <programme start="20220330130000 +0300" stop="20220330140000 +0300" channel="Canal FUTV">
+  <programme start="20220330130000 0000" stop="20220330140000 0000" channel="Canal FUTV">
     <title lang="es">Conexión</title>
   </programme>
-  <programme start="20220330140000 +0300" stop="20220330143000 +0300" channel="Canal FUTV">
+  <programme start="20220330140000 0000" stop="20220330143000 0000" channel="Canal FUTV">
     <title lang="es">En ascenso</title>
   </programme>
-  <programme start="20220330143000 +0300" stop="20220330150000 +0300" channel="Canal FUTV">
+  <programme start="20220330143000 0000" stop="20220330150000 0000" channel="Canal FUTV">
     <title lang="es">Mundo de fútbol menor</title>
   </programme>
-  <programme start="20220330150000 +0300" stop="20220330160000 +0300" channel="Canal FUTV">
+  <programme start="20220330150000 0000" stop="20220330160000 0000" channel="Canal FUTV">
     <title lang="es">Somos el team</title>
   </programme>
-  <programme start="20220330160000 +0300" stop="20220330170000 +0300" channel="Canal FUTV">
+  <programme start="20220330160000 0000" stop="20220330170000 0000" channel="Canal FUTV">
     <title lang="es">Historia del fútbol</title>
   </programme>
-  <programme start="20220330170000 +0300" stop="20220330190000 +0300" channel="Canal FUTV">
+  <programme start="20220330170000 0000" stop="20220330190000 0000" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
     <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_costa_rica.png" />
   </programme>
-  <programme start="20220330190000 +0300" stop="20220330193000 +0300" channel="Canal FUTV">
+  <programme start="20220330190000 0000" stop="20220330193000 0000" channel="Canal FUTV">
     <title lang="es">Cuento de campeones</title>
   </programme>
-  <programme start="20220330193000 +0300" stop="20220330200000 +0300" channel="Canal FUTV">
+  <programme start="20220330193000 0000" stop="20220330200000 0000" channel="Canal FUTV">
     <title lang="es">Misioneros del fútbol</title>
   </programme>
 </tv>
