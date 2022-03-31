@@ -22,6 +22,14 @@
     <display-name lang="es">Animal Planet (Mexico)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Discovery Channel (Chile)">
+    <display-name lang="es">Discovery Channel (Chile)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Familia">
+    <display-name lang="es">Discovery Familia</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20220331010000 -0300" stop="20220331030000 -0300" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
     <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
@@ -3471,5 +3479,931 @@
   <programme start="20220407233000 -0300" stop="20220408002100 -0300" channel="Canal Animal Planet (México)">
     <title lang="es">Los Irwin</title>
     <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220331005200 -0300" stop="20220331014400 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20220331014400 -0300" stop="20220331032800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220331032800 -0300" stop="20220331042000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220331042000 -0300" stop="20220331051000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Moonshiners</title>
+  </programme>
+  <programme start="20220331051000 -0300" stop="20220331060000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedientes paranormales</title>
+  </programme>
+  <programme start="20220331060000 -0300" stop="20220331062500 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20220331062500 -0300" stop="20220331080000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20220331080000 -0300" stop="20220331084800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20220331084800 -0300" stop="20220331093700 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220331093700 -0300" stop="20220331102600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220331102600 -0300" stop="20220331111900 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220331111900 -0300" stop="20220331121200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220331121200 -0300" stop="20220331131000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Dra. Dee: Veterinaria de Alaska</title>
+  </programme>
+  <programme start="20220331131000 -0300" stop="20220331140800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Siete mundos, un planeta</title>
+  </programme>
+  <programme start="20220331140800 -0300" stop="20220331150600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220331150600 -0300" stop="20220331170200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220331170200 -0300" stop="20220331180000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Alaska: la última frontera</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20220331180000 -0300" stop="20220331190000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220331190000 -0300" stop="20220331200000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220331200000 -0300" stop="20220331210000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">El domo extremo</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220331210000 -0300" stop="20220331220000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220331220000 -0300" stop="20220401000000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220401014400 -0300" stop="20220401023600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">El domo extremo</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220401023600 -0300" stop="20220401032800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220401032800 -0300" stop="20220401042000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220401042000 -0300" stop="20220401051000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Moonshiners</title>
+  </programme>
+  <programme start="20220401051000 -0300" stop="20220401060000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedientes paranormales</title>
+  </programme>
+  <programme start="20220401060000 -0300" stop="20220401062200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20220401062200 -0300" stop="20220401071100 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Sobreviviendo Alaska</title>
+  </programme>
+  <programme start="20220401071100 -0300" stop="20220401080000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20220401080000 -0300" stop="20220401084800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20220401093700 -0300" stop="20220401102600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20220401102600 -0300" stop="20220401111900 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">River Monsters</title>
+  </programme>
+  <programme start="20220401111900 -0300" stop="20220401121200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">River Monsters</title>
+  </programme>
+  <programme start="20220401121200 -0300" stop="20220401131000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Dr. Dee Alaskan Vet</title>
+  </programme>
+  <programme start="20220401131000 -0300" stop="20220401140800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Siete mundos, un planeta</title>
+  </programme>
+  <programme start="20220401170200 -0300" stop="20220401180000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220401180000 -0300" stop="20220401190000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220401190000 -0300" stop="20220401200000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+    <episode-num system="onscreen">E307</episode-num>
+  </programme>
+  <programme start="20220401200000 -0300" stop="20220401210000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220401210000 -0300" stop="20220401220000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220401220000 -0300" stop="20220401230000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220401230000 -0300" stop="20220402000000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Mirada policial</title>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20220402005200 -0300" stop="20220402014400 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Web of Lies</title>
+  </programme>
+  <programme start="20220402014400 -0300" stop="20220402023600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220402023600 -0300" stop="20220402032800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220402032800 -0300" stop="20220402042000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20220402042000 -0300" stop="20220402051000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Clandestinos</title>
+  </programme>
+  <programme start="20220402060000 -0300" stop="20220402062200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220402062200 -0300" stop="20220402071100 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220402071100 -0300" stop="20220402080000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220402080000 -0300" stop="20220402084800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Operación Alaska</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20220402084800 -0300" stop="20220402093700 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220402093700 -0300" stop="20220402102600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220402102600 -0300" stop="20220402111900 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Extreme discovery coopers treasure</title>
+  </programme>
+  <programme start="20220402111900 -0300" stop="20220402121200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220402121200 -0300" stop="20220402131000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20220402140800 -0300" stop="20220402150600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20220402150600 -0300" stop="20220402160400 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20220402160400 -0300" stop="20220402170200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Jeremy Wade's Dark Waters</title>
+  </programme>
+  <programme start="20220402170200 -0300" stop="20220402180000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220402180000 -0300" stop="20220402190000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20220402190000 -0300" stop="20220402200000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20220402200000 -0300" stop="20220402220000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+  </programme>
+  <programme start="20220402220000 -0300" stop="20220402230000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición X</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220402230000 -0300" stop="20220403010000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Encuentros cercanos con ovnis</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20220403230000 -0300" stop="20220404010000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Encuentros cercanos con ovnis</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20220404010000 -0300" stop="20220404015200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Alienígenas en Alaska</title>
+  </programme>
+  <programme start="20220404015200 -0300" stop="20220404024400 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">El camino de los espíritus</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220404024400 -0300" stop="20220404042800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+  </programme>
+  <programme start="20220404042800 -0300" stop="20220404052000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición X</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220404052000 -0300" stop="20220404061000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Clandestinos</title>
+  </programme>
+  <programme start="20220404061000 -0300" stop="20220404070000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedientes paranormales</title>
+  </programme>
+  <programme start="20220404070000 -0300" stop="20220404072200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220404072200 -0300" stop="20220404081100 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220404081100 -0300" stop="20220404090000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220404090000 -0300" stop="20220404094800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220404094800 -0300" stop="20220404103700 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220404103700 -0300" stop="20220404112600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220404112600 -0300" stop="20220404121900 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Extreme discovery coopers treasure</title>
+  </programme>
+  <programme start="20220404121900 -0300" stop="20220404131200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220404131200 -0300" stop="20220404141000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20220404141000 -0300" stop="20220404150800 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Earthshot Prize Repairing Our Planet</title>
+  </programme>
+  <programme start="20220404150800 -0300" stop="20220404160600 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20220404160600 -0300" stop="20220404170400 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20220404170400 -0300" stop="20220404180200 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Jeremy Wade's Dark Waters</title>
+  </programme>
+  <programme start="20220404180200 -0300" stop="20220404190000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220404190000 -0300" stop="20220404200000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Conoce a las suricatas</title>
+  </programme>
+  <programme start="20220404200000 -0300" stop="20220404210000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Un planeta perfecto</title>
+  </programme>
+  <programme start="20220331003000 -0300" stop="20220331010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20220331010000 -0300" stop="20220331020000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Remodelaciones con celebridades</title>
+  </programme>
+  <programme start="20220331020000 -0300" stop="20220331030000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Renovando mi ciudad</title>
+  </programme>
+  <programme start="20220331030000 -0300" stop="20220331033000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20220331033000 -0300" stop="20220331040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20220331040000 -0300" stop="20220331043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Remodelaciones con celebridades</title>
+  </programme>
+  <programme start="20220331043000 -0300" stop="20220331050000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220331050000 -0300" stop="20220331053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Renovando mi ciudad</title>
+  </programme>
+  <programme start="20220331053000 -0300" stop="20220331060000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220331060000 -0300" stop="20220331063000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220331063000 -0300" stop="20220331070000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220331070000 -0300" stop="20220331073000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220331073000 -0300" stop="20220331080000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220331080000 -0300" stop="20220331083000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220331083000 -0300" stop="20220331090000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220331090000 -0300" stop="20220331093000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220331093000 -0300" stop="20220331100000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220331100000 -0300" stop="20220331101500 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220331101500 -0300" stop="20220331103000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220331103000 -0300" stop="20220331110000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220331110000 -0300" stop="20220331113000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220331113000 -0300" stop="20220331123000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220331123000 -0300" stop="20220331130000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220331130000 -0300" stop="20220331140000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220331140000 -0300" stop="20220331150000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20220331150000 -0300" stop="20220331160000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Los Busby</title>
+  </programme>
+  <programme start="20220331160000 -0300" stop="20220331163000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220331163000 -0300" stop="20220331170000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220331170000 -0300" stop="20220331180000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20220331180000 -0300" stop="20220331183000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220331183000 -0300" stop="20220331190000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220331190000 -0300" stop="20220331193000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220331193000 -0300" stop="20220331200000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220331200000 -0300" stop="20220331210000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vívala o véndala</title>
+  </programme>
+  <programme start="20220331210000 -0300" stop="20220331213000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220331213000 -0300" stop="20220331220000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220331220000 -0300" stop="20220401000000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20220401000000 -0300" stop="20220401010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220401010000 -0300" stop="20220401030000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20220401030000 -0300" stop="20220401040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220401040000 -0300" stop="20220401043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20220401043000 -0300" stop="20220401050000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220401050000 -0300" stop="20220401053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220401053000 -0300" stop="20220401060000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220401060000 -0300" stop="20220401063000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220401063000 -0300" stop="20220401070000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220401070000 -0300" stop="20220401073000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220401073000 -0300" stop="20220401080000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220401080000 -0300" stop="20220401083000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220401083000 -0300" stop="20220401090000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220401090000 -0300" stop="20220401093000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220401093000 -0300" stop="20220401100000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220401100000 -0300" stop="20220401101500 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220401101500 -0300" stop="20220401103000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220401103000 -0300" stop="20220401110000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220401110000 -0300" stop="20220401113000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220401113000 -0300" stop="20220401123000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220401123000 -0300" stop="20220401130000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220401130000 -0300" stop="20220401140000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220401140000 -0300" stop="20220401150000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20220401150000 -0300" stop="20220401180000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Los Busby</title>
+  </programme>
+  <programme start="20220401180000 -0300" stop="20220401183000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220401183000 -0300" stop="20220401190000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220401190000 -0300" stop="20220401193000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220401193000 -0300" stop="20220401200000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220401200000 -0300" stop="20220401210000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vívala o véndala</title>
+  </programme>
+  <programme start="20220401210000 -0300" stop="20220401213000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">La casa de mis sueños</title>
+  </programme>
+  <programme start="20220401213000 -0300" stop="20220401220000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">La casa de mis sueños</title>
+  </programme>
+  <programme start="20220401220000 -0300" stop="20220401230000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+  </programme>
+  <programme start="20220401230000 -0300" stop="20220402000000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20220402000000 -0300" stop="20220402003000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Nuestro hogar en la isla</title>
+  </programme>
+  <programme start="20220402003000 -0300" stop="20220402010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Nuestro hogar en la isla</title>
+  </programme>
+  <programme start="20220402010000 -0300" stop="20220402020000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+  </programme>
+  <programme start="20220402020000 -0300" stop="20220402030000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20220402030000 -0300" stop="20220402033000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Nuestro hogar en la isla</title>
+  </programme>
+  <programme start="20220402033000 -0300" stop="20220402040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Nuestro hogar en la isla</title>
+  </programme>
+  <programme start="20220402040000 -0300" stop="20220402043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+  </programme>
+  <programme start="20220402050000 -0300" stop="20220402053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20220402060000 -0300" stop="20220402063000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">La casa de mis sueños</title>
+  </programme>
+  <programme start="20220402063000 -0300" stop="20220402070000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">La casa de mis sueños</title>
+  </programme>
+  <programme start="20220402070000 -0300" stop="20220402073000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220402073000 -0300" stop="20220402080000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220402080000 -0300" stop="20220402083000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220402083000 -0300" stop="20220402090000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220402090000 -0300" stop="20220402093000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cleo y Cuquín: Familia Telerín</title>
+  </programme>
+  <programme start="20220402093000 -0300" stop="20220402100000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cleo y Cuquín: Familia Telerín</title>
+  </programme>
+  <programme start="20220402100000 -0300" stop="20220402103000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220402103000 -0300" stop="20220402110000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220402110000 -0300" stop="20220402113000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220402113000 -0300" stop="20220402120000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220402120000 -0300" stop="20220402123000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20220402130000 -0300" stop="20220402133000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402133000 -0300" stop="20220402140000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402140000 -0300" stop="20220402143000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402143000 -0300" stop="20220402150000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402150000 -0300" stop="20220402153000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402153000 -0300" stop="20220402160000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402160000 -0300" stop="20220402163000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402163000 -0300" stop="20220402170000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220402170000 -0300" stop="20220402180000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20220402180000 -0300" stop="20220402190000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Todo en 90 días: antes del viaje</title>
+  </programme>
+  <programme start="20220402190000 -0300" stop="20220402200000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Hoy por ti</title>
+  </programme>
+  <programme start="20220402200000 -0300" stop="20220402210000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Quinceañera</title>
+  </programme>
+  <programme start="20220402210000 -0300" stop="20220402220000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20220402220000 -0300" stop="20220402230000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuatro bodas</title>
+  </programme>
+  <programme start="20220402230000 -0300" stop="20220402233000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia: México</title>
+  </programme>
+  <programme start="20220402233000 -0300" stop="20220403000000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia: México</title>
+  </programme>
+  <programme start="20220403000000 -0300" stop="20220403010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20220403010000 -0300" stop="20220403020000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuatro bodas</title>
+  </programme>
+  <programme start="20220403020000 -0300" stop="20220403023000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220403023000 -0300" stop="20220403030000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220403030000 -0300" stop="20220403040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20220403040000 -0300" stop="20220403043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuatro bodas</title>
+  </programme>
+  <programme start="20220403050000 -0300" stop="20220403053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia: México</title>
+  </programme>
+  <programme start="20220403053000 -0300" stop="20220403060000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia: México</title>
+  </programme>
+  <programme start="20220403060000 -0300" stop="20220403063000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220403063000 -0300" stop="20220403070000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220403070000 -0300" stop="20220403073000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220403073000 -0300" stop="20220403080000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220403080000 -0300" stop="20220403083000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220403083000 -0300" stop="20220403090000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220403090000 -0300" stop="20220403093000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220403093000 -0300" stop="20220403100000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220403100000 -0300" stop="20220403103000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220403103000 -0300" stop="20220403110000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220403110000 -0300" stop="20220403113000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220403113000 -0300" stop="20220403120000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220403120000 -0300" stop="20220403123000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220403123000 -0300" stop="20220403130000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220403130000 -0300" stop="20220403133000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403133000 -0300" stop="20220403140000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403140000 -0300" stop="20220403143000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403143000 -0300" stop="20220403150000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403150000 -0300" stop="20220403153000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403153000 -0300" stop="20220403160000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403160000 -0300" stop="20220403163000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403163000 -0300" stop="20220403170000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403170000 -0300" stop="20220403173000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403173000 -0300" stop="20220403180000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403180000 -0300" stop="20220403183000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403183000 -0300" stop="20220403190000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403190000 -0300" stop="20220403193000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403193000 -0300" stop="20220403200000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220403200000 -0300" stop="20220403220000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220403220000 -0300" stop="20220403230000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Clínica de la piel</title>
+  </programme>
+  <programme start="20220403230000 -0300" stop="20220404000000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Dra. Sandra Lee</title>
+  </programme>
+  <programme start="20220404000000 -0300" stop="20220404010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Dra. Sandra Lee</title>
+  </programme>
+  <programme start="20220404010000 -0300" stop="20220404020000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Clínica de la piel</title>
+  </programme>
+  <programme start="20220404020000 -0300" stop="20220404030000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Dra. Sandra Lee</title>
+  </programme>
+  <programme start="20220404030000 -0300" stop="20220404040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Dra. Sandra Lee</title>
+  </programme>
+  <programme start="20220404040000 -0300" stop="20220404043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Clínica de la piel</title>
+  </programme>
+  <programme start="20220404050000 -0300" stop="20220404053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220404060000 -0300" stop="20220404063000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220404063000 -0300" stop="20220404070000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220404070000 -0300" stop="20220404073000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220404073000 -0300" stop="20220404080000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220404080000 -0300" stop="20220404083000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220404083000 -0300" stop="20220404090000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220404090000 -0300" stop="20220404093000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220404093000 -0300" stop="20220404100000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220404100000 -0300" stop="20220404101500 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220404101500 -0300" stop="20220404103000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220404103000 -0300" stop="20220404110000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220404110000 -0300" stop="20220404113000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220404113000 -0300" stop="20220404123000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220404130000 -0300" stop="20220404140000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220404140000 -0300" stop="20220404150000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20220404150000 -0300" stop="20220404160000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Los Busby</title>
+  </programme>
+  <programme start="20220404163000 -0300" stop="20220404170000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220404170000 -0300" stop="20220404180000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20220404180000 -0300" stop="20220404183000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220404183000 -0300" stop="20220404190000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220404190000 -0300" stop="20220404193000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220404193000 -0300" stop="20220404200000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220404200000 -0300" stop="20220404210000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vívala o véndala</title>
+  </programme>
+  <programme start="20220404210000 -0300" stop="20220404213000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220404213000 -0300" stop="20220404220000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220404220000 -0300" stop="20220404230000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescata mi Restaurante</title>
+  </programme>
+  <programme start="20220404230000 -0300" stop="20220405010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Multimillonario encubierto</title>
+  </programme>
+  <programme start="20220405010000 -0300" stop="20220405020000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescata mi Restaurante</title>
+  </programme>
+  <programme start="20220405020000 -0300" stop="20220405040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Multimillonario encubierto</title>
+  </programme>
+  <programme start="20220405040000 -0300" stop="20220405043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescata mi Restaurante</title>
+  </programme>
+  <programme start="20220405050000 -0300" stop="20220405053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Multimillonario encubierto</title>
+  </programme>
+  <programme start="20220405070000 -0300" stop="20220405073000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220405073000 -0300" stop="20220405080000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220405080000 -0300" stop="20220405083000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220405083000 -0300" stop="20220405090000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20220405090000 -0300" stop="20220405093000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220405093000 -0300" stop="20220405100000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20220405100000 -0300" stop="20220405101500 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220405101500 -0300" stop="20220405103000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20220405103000 -0300" stop="20220405110000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20220405110000 -0300" stop="20220405113000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220405113000 -0300" stop="20220405123000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20220405130000 -0300" stop="20220405140000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220405140000 -0300" stop="20220405150000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Un gran mundo pequeño</title>
+  </programme>
+  <programme start="20220405150000 -0300" stop="20220405160000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Los Busby</title>
+  </programme>
+  <programme start="20220405160000 -0300" stop="20220405163000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220405163000 -0300" stop="20220405170000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20220405170000 -0300" stop="20220405180000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Mi gran boda gitana</title>
+  </programme>
+  <programme start="20220405180000 -0300" stop="20220405183000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220405183000 -0300" stop="20220405190000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Cuponmanía</title>
+  </programme>
+  <programme start="20220405190000 -0300" stop="20220405193000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220405193000 -0300" stop="20220405200000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220405200000 -0300" stop="20220405210000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Vívala o véndala</title>
+  </programme>
+  <programme start="20220405210000 -0300" stop="20220405213000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220405213000 -0300" stop="20220405220000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220405220000 -0300" stop="20220406000000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220406000000 -0300" stop="20220406010000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El Mundo de Bill y Jen</title>
+  </programme>
+  <programme start="20220406010000 -0300" stop="20220406020000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220406020000 -0300" stop="20220406030000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">La Familia Plath</title>
+  </programme>
+  <programme start="20220406030000 -0300" stop="20220406040000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">El Mundo de Bill y Jen</title>
+  </programme>
+  <programme start="20220406040000 -0300" stop="20220406043000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20220406050000 -0300" stop="20220406053000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">La Familia Plath</title>
+  </programme>
+  <programme start="20220406060000 -0300" stop="20220406063000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20220406063000 -0300" stop="20220406070000 -0300" channel="Canal Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
   </programme>
 </tv>
