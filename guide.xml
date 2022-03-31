@@ -18,14 +18,9 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" />
     <url>http://www.directv.com.ar</url>
   </channel>
-  <channel id="Canal 7 Punta">
-    <display-name lang="es">Canal 7 Punta (URU)</display-name>
-    <url>http://www.tv.vera.com.uy</url>
-  </channel>
-  <channel id="CANAL 10 HD">
-    <display-name lang="es">CANAL 10 HD</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/1901617.jpg" />
-    <url>http://www.puntacable.com.uy</url>
+  <channel id="Canal Animal Planet (México)">
+    <display-name lang="es">Animal Planet (Mexico)</display-name>
+    <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20220331010000 -0300" stop="20220331030000 -0300" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
@@ -696,7 +691,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -716,7 +711,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -757,7 +752,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -839,7 +834,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -871,7 +866,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -891,7 +886,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -1043,7 +1038,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -1238,7 +1233,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -1251,7 +1246,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -1434,7 +1429,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -1485,7 +1480,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -2148,7 +2143,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -2399,7 +2394,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -2412,7 +2407,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Getafe recibe a Mallorca en el estadio Coliseum Alfonso Pérez. Los azulones llevan 6 partidos sin ganar (4PE 2PP), mientras que los bermellones acumulan 6 derrotas seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
+    <category lang="es">Pepetición</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -2608,7 +2603,7 @@
     <desc lang="es">Jornada 30 de LaLiga 2021-2022. Levante recibe a Villarreal en el estadio Ciudad de Valencia. Los granotas llevan 3 juegos sin ganar (1PE 2PP), mientras que el Submarino Amarillo viene de perder luego de 2 victorias seguidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <category lang="es">Series</category>
+    <category lang="es">Primera vez</category>
     <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
     <rating system="AR">
       <value>NR</value>
@@ -2835,1858 +2830,646 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220331013000 -0300" stop="20220331033000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Desayunando con las Noticias</title>
+  <programme start="20220331005000 -0300" stop="20220331014000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ciencia al rescate</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220331014000 -0300" stop="20220331023200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Cazadores de Serpientes</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20220331023200 -0300" stop="20220331032400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Guardianes de Texas</title>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20220331032400 -0300" stop="20220331041600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20220331041600 -0300" stop="20220331050900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20220331050900 -0300" stop="20220331060100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El acuario</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220331060100 -0300" stop="20220331062700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Naturaleza Salvaje</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220331062700 -0300" stop="20220331071900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pescadores al límite</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220331071900 -0300" stop="20220331081000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Islas mortales con Dave Salmo</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220331081000 -0300" stop="20220331090000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+    <episode-num system="onscreen">S6 E7</episode-num>
+  </programme>
+  <programme start="20220331090000 -0300" stop="20220331092500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anim</title>
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20220331092500 -0300" stop="20220331095000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anim</title>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20220331095000 -0300" stop="20220331101500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anim</title>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme start="20220331101500 -0300" stop="20220331110600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20220331110600 -0300" stop="20220331115600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20220331115600 -0300" stop="20220331124700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El acuario</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220331124700 -0300" stop="20220331133700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Cazador de fieras</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220331133700 -0300" stop="20220331142900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Encuentros con monstruos</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220331142900 -0300" stop="20220331152100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220331152100 -0300" stop="20220331161200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220331161200 -0300" stop="20220331170300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Operación Tanzania</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220331170300 -0300" stop="20220331175300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Cazador de fieras</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220331175300 -0300" stop="20220331184600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El último de su especie</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220331184600 -0300" stop="20220331201600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220331201600 -0300" stop="20220331210600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Europa salvaje</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220331210600 -0300" stop="20220331215900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank en California</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220331215900 -0300" stop="20220331224900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+    <episode-num system="onscreen">S8 E7</episode-num>
+  </programme>
+  <programme start="20220331224900 -0300" stop="20220331231400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20220331033000 -0300" stop="20220331040000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Visión Futuro</title>
+  <programme start="20220331231400 -0300" stop="20220331234000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20220331040000 -0300" stop="20220331050000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Tenemos WIFI</title>
+  <programme start="20220331234000 -0300" stop="20220401003200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Europa salvaje</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20220331050000 -0300" stop="20220331060000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Noticiero Central</title>
+  <programme start="20220401003200 -0300" stop="20220401005800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">La vida en Yellowstone</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220331060000 -0300" stop="20220331083000 -0300" channel="Canal 7 Punta">
-    <title lang="es">De Acá en Más</title>
+  <programme start="20220401005800 -0300" stop="20220401012400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">La vida en Yellowstone</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20220331083000 -0300" stop="20220331103000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Desayunando con las Noticias</title>
+  <programme start="20220401012400 -0300" stop="20220401015000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Hospital de pingüinos</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220331103000 -0300" stop="20220331130000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Perros de la Calle</title>
+  <programme start="20220401015000 -0300" stop="20220401021600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Hospital de pingüinos</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20220331130000 -0300" stop="20220331133000 -0300" channel="Canal 7 Punta">
-    <title lang="es">El Noticiero Mediodiodía</title>
+  <programme start="20220401021600 -0300" stop="20220401024200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anim</title>
+    <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20220331133000 -0300" stop="20220331170000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Todo Pasa</title>
+  <programme start="20220401024200 -0300" stop="20220401030800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anim</title>
+    <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
-  <programme start="20220331170000 -0300" stop="20220331183000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Vuelta y Media</title>
+  <programme start="20220401030800 -0300" stop="20220401040000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
   </programme>
-  <programme start="20220331183000 -0300" stop="20220331190000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Café Versátil</title>
+  <programme start="20220401040000 -0300" stop="20220401045000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20220331190000 -0300" stop="20220331193000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Global 3000</title>
+  <programme start="20220401045000 -0300" stop="20220401054000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El acuario</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20220331193000 -0300" stop="20220331203000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Noticiero Central</title>
+  <programme start="20220401054000 -0300" stop="20220401063000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El acuario</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20220331203000 -0300" stop="20220331220000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Con Amigos Así</title>
+  <programme start="20220401063000 -0300" stop="20220401074500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank La fiesta de las</title>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20220331220000 -0300" stop="20220331230000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Tenemos WIFI</title>
+  <programme start="20220401074500 -0300" stop="20220401081000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anim</title>
+    <episode-num system="onscreen">S1 E16</episode-num>
   </programme>
-  <programme start="20220331230000 -0300" stop="20220331233000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Avanti</title>
+  <programme start="20220401081000 -0300" stop="20220401090000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+    <episode-num system="onscreen">S6 E8</episode-num>
   </programme>
-  <programme start="20220331233000 -0300" stop="20220401000000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Buscadores</title>
+  <programme start="20220401090000 -0300" stop="20220401092500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los secretos del reino animal</title>
+    <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20220401000000 -0300" stop="20220401013000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Buscadores</title>
+  <programme start="20220401092500 -0300" stop="20220401095000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los secretos del reino animal</title>
+    <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20220401013000 -0300" stop="20220401033000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Desayunando con las Noticias</title>
+  <programme start="20220401095000 -0300" stop="20220401104100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20220401033000 -0300" stop="20220401040000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Visión Futuro</title>
+  <programme start="20220401104100 -0300" stop="20220401113200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+    <episode-num system="onscreen">S5 E7</episode-num>
   </programme>
-  <programme start="20220401040000 -0300" stop="20220401050000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Tenemos WiFi</title>
+  <programme start="20220401113200 -0300" stop="20220401122200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El acuario</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20220401050000 -0300" stop="20220401060000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Noticiero Central</title>
+  <programme start="20220401122200 -0300" stop="20220401131300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Piscinas increíbles</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20220401060000 -0300" stop="20220401083000 -0300" channel="Canal 7 Punta">
-    <title lang="es">De Acá en Más</title>
+  <programme start="20220401131300 -0300" stop="20220401140500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Piscinas increíbles</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
-  <programme start="20220401083000 -0300" stop="20220401103000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Desayunando con las Noticias</title>
+  <programme start="20220401140500 -0300" stop="20220401145700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El genio de las piscinas</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20220401103000 -0300" stop="20220401130000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Perros de la Calle</title>
+  <programme start="20220401145700 -0300" stop="20220401154900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pesca de gigantes</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220401130000 -0300" stop="20220401133000 -0300" channel="Canal 7 Punta">
-    <title lang="es">El Noticiero Mediodía</title>
+  <programme start="20220401154900 -0300" stop="20220401164100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Isla Tiburón hermanos</title>
   </programme>
-  <programme start="20220401133000 -0300" stop="20220401170000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Todo Pasa</title>
+  <programme start="20220401164100 -0300" stop="20220401173300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El regreso del gran tiburón b</title>
+  </programme>
+  <programme start="20220401173300 -0300" stop="20220401182500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El último de su especie</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220401182500 -0300" stop="20220401185100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220401185100 -0300" stop="20220401191800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20220401191800 -0300" stop="20220401194400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">La vida en Yellowstone</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220401194400 -0300" stop="20220401201000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">La vida en Yellowstone</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220401201000 -0300" stop="20220401203700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Hospital de pingüinos</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220401203700 -0300" stop="20220401210400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Hospital de pingüinos</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220401210400 -0300" stop="20220401215600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank en India</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20220401170000 -0300" stop="20220401183000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Vuelta y Media</title>
+  <programme start="20220401215600 -0300" stop="20220401224800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+    <episode-num system="onscreen">S8 E9</episode-num>
   </programme>
-  <programme start="20220401183000 -0300" stop="20220401190000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Café Versátil</title>
+  <programme start="20220401224800 -0300" stop="20220401234000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Historias de grandes felinos</title>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20220401190000 -0300" stop="20220401193000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Global 3000</title>
+  <programme start="20220401234000 -0300" stop="20220402003200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20220401193000 -0300" stop="20220401203000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Noticiero Central</title>
+  <programme start="20220402234000 -0300" stop="20220403003200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20220401203000 -0300" stop="20220401213000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Con Amigos Así</title>
+  <programme start="20220403003200 -0300" stop="20220403012400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20220401213000 -0300" stop="20220401220000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Twister</title>
+  <programme start="20220403012400 -0300" stop="20220403021600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20220401220000 -0300" stop="20220401223000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Lo Que Tú Quieras</title>
-  </programme>
-  <programme start="20220401223000 -0300" stop="20220401233000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Avanti</title>
-  </programme>
-  <programme start="20220401233000 -0300" stop="20220402000000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Buscadores</title>
-  </programme>
-  <programme start="20220402000000 -0300" stop="20220402013000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Buscadores</title>
-  </programme>
-  <programme start="20220402013000 -0300" stop="20220402033000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Desayunando con las Noticias</title>
-  </programme>
-  <programme start="20220402033000 -0300" stop="20220402040000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Visión Futuro</title>
-  </programme>
-  <programme start="20220402040000 -0300" stop="20220402050000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Tenemos WiFi</title>
-  </programme>
-  <programme start="20220402050000 -0300" stop="20220402060000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Noticiero Central</title>
-  </programme>
-  <programme start="20220402060000 -0300" stop="20220402083000 -0300" channel="Canal 7 Punta">
-    <title lang="es">De Acá en Más</title>
-  </programme>
-  <programme start="20220402083000 -0300" stop="20220402103000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Desayunando con las Noticias</title>
-  </programme>
-  <programme start="20220402103000 -0300" stop="20220402130000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Perros de la Calle</title>
-  </programme>
-  <programme start="20220402130000 -0300" stop="20220402133000 -0300" channel="Canal 7 Punta">
-    <title lang="es">El Noticiero Mediodía</title>
-  </programme>
-  <programme start="20220402133000 -0300" stop="20220402170000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Todo Pasa</title>
-  </programme>
-  <programme start="20220402170000 -0300" stop="20220402183000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Vuelta y Media</title>
-  </programme>
-  <programme start="20220402183000 -0300" stop="20220402190000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Café Versátil</title>
-  </programme>
-  <programme start="20220402190000 -0300" stop="20220402193000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Global 3000</title>
-  </programme>
-  <programme start="20220402193000 -0300" stop="20220402203000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Noticiero Central</title>
-  </programme>
-  <programme start="20220402203000 -0300" stop="20220402213000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Con Amigos Así</title>
-  </programme>
-  <programme start="20220402213000 -0300" stop="20220402220000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Twister</title>
-  </programme>
-  <programme start="20220402220000 -0300" stop="20220402223000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Lo Que Tú Quieras</title>
-  </programme>
-  <programme start="20220402223000 -0300" stop="20220402233000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Avanti</title>
-  </programme>
-  <programme start="20220402233000 -0300" stop="20220403013000 -0300" channel="Canal 7 Punta">
-    <title lang="es">Buscadores</title>
-  </programme>
-  <programme start="20220331030000 -0300" stop="20220331060000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331060000 -0300" stop="20220331065500 -0300" channel="CANAL 10 HD">
-    <title lang="es">El show de la tarde</title>
-    <desc lang="es">Invitados, juegos, desafíos, diversión y grandes premios, de la mano de Paola Bianco, Aldo Martínez y el chef Lucas Fuente.(n)</desc>
-    <credits>
-      <actor>Paola Bianco</actor>
-      <actor>Aldo Martínez</actor>
-      <actor>Lucas Fuente</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660916.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331065500 -0300" stop="20220331070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">TV Educativa - Secundaria</title>
-    <title lang="xx">Secundaria</title>
-    <desc lang="es">Espacio en el cual se presentan contenidos audiovisuales en los cuales se exponen diferentes temas de interés general que son abordados en la actualidad con el propósito de educar al espectador.(n)</desc>
-    <date>2014</date>
-    <category lang="es">Educativo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4149611.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220331070000 -0300" stop="20220331080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Informativo Carve</title>
-    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
-    <credits>
-      <actor>Miguel Nogueira</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Paullier</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11431673.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220331080000 -0300" stop="20220331103000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Arriba gente</title>
-    <desc lang="es">Un recorrido por la información y los temas más importantes del día, para empezar la jornada bien informados.(n)</desc>
-    <credits>
-      <actor>Humberto De Vargas</actor>
-      <actor>Lorena Bomio</actor>
-      <actor>Verónica Chevalier</actor>
-      <actor>Magdalena Correa</actor>
-      <actor>Maria Hernandez</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14422795.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331103000 -0300" stop="20220331123000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La mañana en casa</title>
-    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
-    <credits>
-      <actor>Petru Valensky</actor>
-      <actor>Kairo Herrera</actor>
-      <actor>Eliana Dide</actor>
-      <actor>Noelia Etcheverry</actor>
-      <actor>Leticia Cicero</actor>
-      <actor>Ana Durán</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Magazine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660391.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220331123000 -0300" stop="20220331143000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Mediodía</title>
-    <title lang="xx">Mediodía</title>
-    <desc lang="es">El informativo más prestigioso de la televisión uruguaya. Toda la información nacional e internacional con el mejor equipo periodístico.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Danilo Tegaldo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927897.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220331143000 -0300" stop="20220331163000 -0300" channel="CANAL 10 HD">
-    <title lang="es">El show de la tarde</title>
-    <desc lang="es">Invitados, juegos, desafíos, diversión y grandes premios, de la mano de Paola Bianco, Aldo Martínez y el chef Lucas Fuente.(n)</desc>
-    <credits>
-      <actor>Paola Bianco</actor>
-      <actor>Aldo Martínez</actor>
-      <actor>Lucas Fuente</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660916.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331163000 -0300" stop="20220331173000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Tierra amarga</title>
-    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
-    <credits>
-      <actor>Hilal Altinbilek</actor>
-      <actor>Ugur Gunes</actor>
-      <actor>Murat Unalmis</actor>
-      <actor>Vahide Perçin</actor>
-      <actor>Turgay Aydin</actor>
-      <actor>Bülent Polat</actor>
-      <actor>Sibel Tasçioglu</actor>
-      <actor>Selin Genç</actor>
-      <actor>Selin Yeninci</actor>
-      <actor>Polen Emre</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13091767.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331173000 -0300" stop="20220331180000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-      <actor>Cemre Öktem</actor>
-      <actor>Beren Gençalp</actor>
-      <actor>Özlem Çakar Yalçinkaya</actor>
-      <actor>Esra Kizildogan</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13521298.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331180000 -0300" stop="20220331190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado tarde</title>
-    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Político</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19954202.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220331190000 -0300" stop="20220331210000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado</title>
-    <desc lang="es">Resumen informativo de carácter nacional e internacional, en el cual se abarcan distintos ámbitos. Además, se lleva a cabo un análisis de los últimos acontecimientos con periodistas especializados en múltiples áreas.(n)</desc>
-    <credits>
-      <actor>Blanca Rodríguez</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12230424.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331210000 -0300" stop="20220331230000 -0300" channel="CANAL 10 HD">
-    <title lang="es">¿Quién quiere ser millonario?</title>
-    <desc lang="es">El formato de preguntas y respuestas más importante del mundo, ahora hecho en Uruguay con la conducción del Lic. Orlando Petinatti.(n)</desc>
-    <credits>
-      <actor>Orlando Petinatti</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14366335.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220331230000 -0300" stop="20220401000000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Tierra amarga</title>
-    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
-    <credits>
-      <actor>Hilal Altinbilek</actor>
-      <actor>Ugur Gunes</actor>
-      <actor>Murat Unalmis</actor>
-      <actor>Vahide Perçin</actor>
-      <actor>Turgay Aydin</actor>
-      <actor>Bülent Polat</actor>
-      <actor>Sibel Tasçioglu</actor>
-      <actor>Selin Genç</actor>
-      <actor>Selin Yeninci</actor>
-      <actor>Polen Emre</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13091767.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401000000 -0300" stop="20220401010000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-      <actor>Cemre Öktem</actor>
-      <actor>Beren Gençalp</actor>
-      <actor>Özlem Çakar Yalçinkaya</actor>
-      <actor>Esra Kizildogan</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13521298.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401010000 -0300" stop="20220401030000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Central</title>
-    <title lang="xx">Central</title>
-    <desc lang="es">Resumen informativo de carácter nacional e internacional, en el cual se abarcan distintos ámbitos. Además, se lleva a cabo un análisis de los últimos acontecimientos con periodistas especializados en múltiples áreas.(n)</desc>
-    <credits>
-      <actor>Blanca Rodríguez</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12230424.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401030000 -0300" stop="20220401060000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401060000 -0300" stop="20220401070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">El show de la tarde</title>
-    <desc lang="es">Invitados, juegos, desafíos, diversión y grandes premios, de la mano de Paola Bianco, Aldo Martínez y el chef Lucas Fuente.(n)</desc>
-    <credits>
-      <actor>Paola Bianco</actor>
-      <actor>Aldo Martínez</actor>
-      <actor>Lucas Fuente</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660916.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401070000 -0300" stop="20220401080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Informativo Carve</title>
-    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
-    <credits>
-      <actor>Miguel Nogueira</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Paullier</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11431673.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220401080000 -0300" stop="20220401103000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Arriba gente</title>
-    <desc lang="es">Un recorrido por la información y los temas más importantes del día, para empezar la jornada bien informados.(n)</desc>
-    <credits>
-      <actor>Humberto De Vargas</actor>
-      <actor>Lorena Bomio</actor>
-      <actor>Verónica Chevalier</actor>
-      <actor>Magdalena Correa</actor>
-      <actor>Maria Hernandez</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14422795.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401103000 -0300" stop="20220401123000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La mañana en casa</title>
-    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
-    <credits>
-      <actor>Petru Valensky</actor>
-      <actor>Kairo Herrera</actor>
-      <actor>Eliana Dide</actor>
-      <actor>Noelia Etcheverry</actor>
-      <actor>Leticia Cicero</actor>
-      <actor>Ana Durán</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Magazine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660391.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220401123000 -0300" stop="20220401143000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Mediodía</title>
-    <title lang="xx">Mediodía</title>
-    <desc lang="es">El informativo más prestigioso de la televisión uruguaya. Toda la información nacional e internacional con el mejor equipo periodístico.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Danilo Tegaldo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927897.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220401143000 -0300" stop="20220401163000 -0300" channel="CANAL 10 HD">
-    <title lang="es">El show de la tarde</title>
-    <desc lang="es">Invitados, juegos, desafíos, diversión y grandes premios, de la mano de Paola Bianco, Aldo Martínez y el chef Lucas Fuente.(n)</desc>
-    <credits>
-      <actor>Paola Bianco</actor>
-      <actor>Aldo Martínez</actor>
-      <actor>Lucas Fuente</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660916.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401163000 -0300" stop="20220401173000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Tierra amarga</title>
-    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
-    <credits>
-      <actor>Hilal Altinbilek</actor>
-      <actor>Ugur Gunes</actor>
-      <actor>Murat Unalmis</actor>
-      <actor>Vahide Perçin</actor>
-      <actor>Turgay Aydin</actor>
-      <actor>Bülent Polat</actor>
-      <actor>Sibel Tasçioglu</actor>
-      <actor>Selin Genç</actor>
-      <actor>Selin Yeninci</actor>
-      <actor>Polen Emre</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13091767.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401173000 -0300" stop="20220401180000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-      <actor>Cemre Öktem</actor>
-      <actor>Beren Gençalp</actor>
-      <actor>Özlem Çakar Yalçinkaya</actor>
-      <actor>Esra Kizildogan</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13521298.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401180000 -0300" stop="20220401190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado tarde</title>
-    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Político</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19954202.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220401190000 -0300" stop="20220401210000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado</title>
-    <desc lang="es">Resumen informativo de carácter nacional e internacional, en el cual se abarcan distintos ámbitos. Además, se lleva a cabo un análisis de los últimos acontecimientos con periodistas especializados en múltiples áreas.(n)</desc>
-    <credits>
-      <actor>Blanca Rodríguez</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12230424.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220401210000 -0300" stop="20220401230000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Polémica en el bar</title>
-    <desc lang="es">Un grupo de amigos, junto a grandes personalidades invitadas, se encuentran en su café favorito para debatir los temas de actualidad con humor, picardía, inteligencia y emoción.(n)</desc>
-    <credits>
-      <actor>Jorge 'el Piñe' Piñeyrúa</actor>
-      <actor>Sergio Puglia</actor>
-      <actor>Patricia Madrid</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Miguel Carzolio</actor>
-      <actor>Álvaro Navia</actor>
-      <actor>Conrado Hughes</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18079874.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220401230000 -0300" stop="20220402030000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Festival de cine</title>
-    <desc lang="es">El clásico ciclo de cine de Canal 10, con los mejores título para disfrutar en familia.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Película</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18759146.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402030000 -0300" stop="20220402060000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402060000 -0300" stop="20220402070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">El show de la tarde</title>
-    <desc lang="es">Invitados, juegos, desafíos, diversión y grandes premios, de la mano de Paola Bianco, Aldo Martínez y el chef Lucas Fuente.(n)</desc>
-    <credits>
-      <actor>Paola Bianco</actor>
-      <actor>Aldo Martínez</actor>
-      <actor>Lucas Fuente</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660916.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402070000 -0300" stop="20220402080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Informativo Carve</title>
-    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
-    <credits>
-      <actor>Miguel Nogueira</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Paullier</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11431673.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220402080000 -0300" stop="20220402103000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Arriba gente</title>
-    <desc lang="es">Un recorrido por la información y los temas más importantes del día, para empezar la jornada bien informados.(n)</desc>
-    <credits>
-      <actor>Humberto De Vargas</actor>
-      <actor>Lorena Bomio</actor>
-      <actor>Verónica Chevalier</actor>
-      <actor>Magdalena Correa</actor>
-      <actor>Maria Hernandez</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14422795.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402103000 -0300" stop="20220402123000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La mañana en casa</title>
-    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
-    <credits>
-      <actor>Petru Valensky</actor>
-      <actor>Kairo Herrera</actor>
-      <actor>Eliana Dide</actor>
-      <actor>Noelia Etcheverry</actor>
-      <actor>Leticia Cicero</actor>
-      <actor>Ana Durán</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Magazine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660391.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220402123000 -0300" stop="20220402143000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Mediodía</title>
-    <title lang="xx">Mediodía</title>
-    <desc lang="es">El informativo más prestigioso de la televisión uruguaya. Toda la información nacional e internacional con el mejor equipo periodístico.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Danilo Tegaldo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927897.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220402143000 -0300" stop="20220402163000 -0300" channel="CANAL 10 HD">
-    <title lang="es">El show de la tarde</title>
-    <desc lang="es">Invitados, juegos, desafíos, diversión y grandes premios, de la mano de Paola Bianco, Aldo Martínez y el chef Lucas Fuente.(n)</desc>
-    <credits>
-      <actor>Paola Bianco</actor>
-      <actor>Aldo Martínez</actor>
-      <actor>Lucas Fuente</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660916.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402163000 -0300" stop="20220402173000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Tierra amarga</title>
-    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
-    <credits>
-      <actor>Hilal Altinbilek</actor>
-      <actor>Ugur Gunes</actor>
-      <actor>Murat Unalmis</actor>
-      <actor>Vahide Perçin</actor>
-      <actor>Turgay Aydin</actor>
-      <actor>Bülent Polat</actor>
-      <actor>Sibel Tasçioglu</actor>
-      <actor>Selin Genç</actor>
-      <actor>Selin Yeninci</actor>
-      <actor>Polen Emre</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13091767.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402173000 -0300" stop="20220402180000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-      <actor>Cemre Öktem</actor>
-      <actor>Beren Gençalp</actor>
-      <actor>Özlem Çakar Yalçinkaya</actor>
-      <actor>Esra Kizildogan</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13521298.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402180000 -0300" stop="20220402190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado tarde</title>
-    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Político</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19954202.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220402190000 -0300" stop="20220402210000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado</title>
-    <desc lang="es">Resumen informativo de carácter nacional e internacional, en el cual se abarcan distintos ámbitos. Además, se lleva a cabo un análisis de los últimos acontecimientos con periodistas especializados en múltiples áreas.(n)</desc>
-    <credits>
-      <actor>Blanca Rodríguez</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12230424.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220402210000 -0300" stop="20220402230000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Polémica en el bar</title>
-    <desc lang="es">Un grupo de amigos, junto a grandes personalidades invitadas, se encuentran en su café favorito para debatir los temas de actualidad con humor, picardía, inteligencia y emoción.(n)</desc>
-    <credits>
-      <actor>Jorge 'el Piñe' Piñeyrúa</actor>
-      <actor>Sergio Puglia</actor>
-      <actor>Patricia Madrid</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Miguel Carzolio</actor>
-      <actor>Álvaro Navia</actor>
-      <actor>Conrado Hughes</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18079874.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220402230000 -0300" stop="20220403010000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Festival de cine</title>
-    <desc lang="es">El clásico ciclo de cine de Canal 10, con los mejores título para disfrutar en familia.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Película</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18759146.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403010000 -0300" stop="20220403020000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-      <actor>Cemre Öktem</actor>
-      <actor>Beren Gençalp</actor>
-      <actor>Özlem Çakar Yalçinkaya</actor>
-      <actor>Esra Kizildogan</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13521298.jpg" />
-    <country lang="es">Turquía</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403020000 -0300" stop="20220403040000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Central</title>
-    <title lang="xx">Central</title>
-    <desc lang="es">Resumen informativo de carácter nacional e internacional, en el cual se abarcan distintos ámbitos. Además, se lleva a cabo un análisis de los últimos acontecimientos con periodistas especializados en múltiples áreas.(n)</desc>
-    <credits>
-      <actor>Blanca Rodríguez</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12230424.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403040000 -0300" stop="20220403070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403070000 -0300" stop="20220403073000 -0300" channel="CANAL 10 HD">
-    <title lang="es">A+V Agropecuario</title>
-    <desc lang="es">Un espacio para conocer el fascinante mundo del campo y compartir la información del día con las innovaciones y acontecimientos en el área agropecuaria, con datos y consejos relacionados directamente a esta actividad económica.(n)</desc>
-    <credits>
-      <actor>Martín Maidana</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Agro</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927944.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403073000 -0300" stop="20220403080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Home Sweet Home</title>
-    <desc lang="es">Programa de TV 100% dedicado a la construcción, hogar y decoración en el país.(n)</desc>
-    <credits>
-      <actor>Karen Gil</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Decoración</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12677620.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220403080000 -0300" stop="20220403090000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Entre mates y guitarras</title>
-    <desc lang="es">Con la conducción de Eduardo Monteverde, llega este espacio que busca resaltar lo mejor de la música uruguaya y artiguista.(n)</desc>
-    <credits>
-      <actor>Eduardo Monteverde</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1292564.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403090000 -0300" stop="20220403093000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Hablemos de salud</title>
-    <desc lang="es">Busca transmitir, a través de los profesionales, todo lo referente a nuestra salud, para que la población incorpore hábitos saludables que optimicen su calidad de vida, educándonos para reforzar la cultura de la prevención de enfermedades.(n)</desc>
-    <credits>
-      <actor>Ana María Rodríguez Cravea</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Salud</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3755163.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403093000 -0300" stop="20220403110000 -0300" channel="CANAL 10 HD">
-    <title lang="es">De pago en pago</title>
-    <desc lang="es">Las manifestaciones culturales de nuestro país en un programa que lo tiene todo: música, fiestas, tradiciones, costumbres, lugares y todo lo que hace a la identidad de nuestro país.(n)</desc>
-    <credits>
-      <actor>Álida Fernández</actor>
-      <actor>Juan Carlos López</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3772835.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403110000 -0300" stop="20220403113000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mundo de caballos</title>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15126786.JPG" />
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220403113000 -0300" stop="20220403115500 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mundo cooperativo</title>
-    <desc lang="es">Mundo Cooperativo es el primer espacio dedicado, exclusivamente, a mostrar la realidad del cooperativismo en todo Uruguay y en otros países de la región.(n)</desc>
-    <credits>
-      <actor>Magdalena Correa</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3738705.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220403115500 -0300" stop="20220403120000 -0300" channel="CANAL 10 HD">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Te presentamos el mayor y más completo panorama periodístico informativo del fantástico mundo de los remates y el mercado inmobiliario, con la conducción del rematador Silvio Rienzi.(n)</desc>
-    <credits>
-      <actor>Silvio Rienzi</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3907691.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220403120000 -0300" stop="20220403130000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mejor con música</title>
-    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
-    <credits>
-      <actor>Valentina Barrios</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928027.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403130000 -0300" stop="20220403133000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Secretos de Ana Durán</title>
-    <desc lang="es">Ana Durán la referente del hogar, la practicidad, los consejos y las recetas nos comparte todos sus secretos.(n)</desc>
-    <credits>
-      <actor>Ana Durán</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928388.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403133000 -0300" stop="20220403153000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Puglia invita</title>
-    <desc lang="es">Programa televisivo con entrevistas a las figuras más influyentes del país y la región durante la realización de un almuerzo, conducido por Sergio Puglia.(n)</desc>
-    <credits>
-      <actor>Sergio Puglia</actor>
-    </credits>
-    <date>1990</date>
-    <category lang="es">Entrevista</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4103386.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403153000 -0300" stop="20220403180000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Dale que va</title>
-    <desc lang="es">Un programa de entretenimientos para toda la familia, con las mejores bandas musicales, móviles, juegos, entrevistas a referentes y figuras locales vinculadas a la música y el espectáculo.(n)</desc>
-    <credits>
-      <actor>Eduardo Gianarelli</actor>
-      <actor>Pablo Magno</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17627799.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403180000 -0300" stop="20220403190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Saber vivir mejor</title>
-    <desc lang="es">Soledad Ortega y Alejandra Rey presentan un ciclo que aborda la salud y el bienestar, enfocado en la prevención y los hábitos saludables.(n)</desc>
-    <credits>
-      <actor>Soledad Ortega</actor>
-      <actor>Alejandra Rey</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Salud</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12231021.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403190000 -0300" stop="20220403203000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado sábado</title>
-    <desc lang="es">Un espacio de noticias y con cobertura de lo que pasa en la actualidad.(n)</desc>
-    <credits>
-      <actor>Alfredo Dante</actor>
-      <actor>José Irazábal</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928235.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220403203000 -0300" stop="20220403213000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La peluquería de Don Mateo</title>
-    <desc lang="es">La peluquería de Don Mateo contará con un gran elenco y, en cada programa, reconocidas personalidades de Uruguay tendrán un turno para cortarse el pelo o afeitarse, en un local donde desfilarán divertidos y excéntricos personajes.(n)</desc>
-    <credits>
-      <actor>Luis Orpi</actor>
-      <actor>Florencia Infante</actor>
-      <actor>Álvaro Navia</actor>
-      <actor>Sebastián Almada</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928377.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220403213000 -0300" stop="20220403223000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Ahora caigo</title>
-    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.(n)</desc>
-    <credits>
-      <actor>Arturo Valls</actor>
-      <actor>Glòria Hernández</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4117238.jpg" />
-    <country lang="es">España</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220403223000 -0300" stop="20220404000000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mejor con música</title>
-    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
-    <credits>
-      <actor>Valentina Barrios</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928027.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404000000 -0300" stop="20220404040000 -0300" channel="CANAL 10 HD">
-    <title lang="es">C.S.I. Las Vegas</title>
-    <desc lang="es">Gil Grissom encabeza el equipo de científicos que localizan las evidencias directamente en la escena del crimen, analizándolas para descubrir, de forma sorprendente, quién es el verdadero culpable.(n)</desc>
-    <credits>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Paul Guilfoyle</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Louise Lombard</actor>
-      <actor>Wallace Langham</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125397.jpg" />
-    <country lang="es">EE. UU</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220404040000 -0300" stop="20220404070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404070000 -0300" stop="20220404073000 -0300" channel="CANAL 10 HD">
-    <title lang="es">A+V Agropecuario</title>
-    <desc lang="es">Un espacio para conocer el fascinante mundo del campo y compartir la información del día con las innovaciones y acontecimientos en el área agropecuaria, con datos y consejos relacionados directamente a esta actividad económica.(n)</desc>
-    <credits>
-      <actor>Martín Maidana</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Agro</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927944.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404073000 -0300" stop="20220404080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Home Sweet Home</title>
-    <desc lang="es">Programa de TV 100% dedicado a la construcción, hogar y decoración en el país.(n)</desc>
-    <credits>
-      <actor>Karen Gil</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Decoración</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12677620.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220404080000 -0300" stop="20220404090000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Entre mates y guitarras</title>
-    <desc lang="es">Con la conducción de Eduardo Monteverde, llega este espacio que busca resaltar lo mejor de la música uruguaya y artiguista.(n)</desc>
-    <credits>
-      <actor>Eduardo Monteverde</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1292564.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404090000 -0300" stop="20220404093000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Hablemos de salud</title>
-    <desc lang="es">Busca transmitir, a través de los profesionales, todo lo referente a nuestra salud, para que la población incorpore hábitos saludables que optimicen su calidad de vida, educándonos para reforzar la cultura de la prevención de enfermedades.(n)</desc>
-    <credits>
-      <actor>Ana María Rodríguez Cravea</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Salud</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3755163.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404093000 -0300" stop="20220404110000 -0300" channel="CANAL 10 HD">
-    <title lang="es">De pago en pago</title>
-    <desc lang="es">Las manifestaciones culturales de nuestro país en un programa que lo tiene todo: música, fiestas, tradiciones, costumbres, lugares y todo lo que hace a la identidad de nuestro país.(n)</desc>
-    <credits>
-      <actor>Álida Fernández</actor>
-      <actor>Juan Carlos López</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3772835.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404110000 -0300" stop="20220404113000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mundo de caballos</title>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15126786.JPG" />
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220404113000 -0300" stop="20220404115500 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mundo cooperativo</title>
-    <desc lang="es">Mundo Cooperativo es el primer espacio dedicado, exclusivamente, a mostrar la realidad del cooperativismo en todo Uruguay y en otros países de la región.(n)</desc>
-    <credits>
-      <actor>Magdalena Correa</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3738705.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220404115500 -0300" stop="20220404120000 -0300" channel="CANAL 10 HD">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Te presentamos el mayor y más completo panorama periodístico informativo del fantástico mundo de los remates y el mercado inmobiliario, con la conducción del rematador Silvio Rienzi.(n)</desc>
-    <credits>
-      <actor>Silvio Rienzi</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3907691.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220404120000 -0300" stop="20220404130000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mejor con música</title>
-    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
-    <credits>
-      <actor>Valentina Barrios</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928027.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404130000 -0300" stop="20220404133000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Secretos de Ana Durán</title>
-    <desc lang="es">Ana Durán la referente del hogar, la practicidad, los consejos y las recetas nos comparte todos sus secretos.(n)</desc>
-    <credits>
-      <actor>Ana Durán</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928388.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404133000 -0300" stop="20220404153000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Puglia invita</title>
-    <desc lang="es">Programa televisivo con entrevistas a las figuras más influyentes del país y la región durante la realización de un almuerzo, conducido por Sergio Puglia.(n)</desc>
-    <credits>
-      <actor>Sergio Puglia</actor>
-    </credits>
-    <date>1990</date>
-    <category lang="es">Entrevista</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4103386.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404153000 -0300" stop="20220404180000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Dale que va</title>
-    <desc lang="es">Un programa de entretenimientos para toda la familia, con las mejores bandas musicales, móviles, juegos, entrevistas a referentes y figuras locales vinculadas a la música y el espectáculo.(n)</desc>
-    <credits>
-      <actor>Eduardo Gianarelli</actor>
-      <actor>Pablo Magno</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17627799.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404180000 -0300" stop="20220404190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Saber vivir mejor</title>
-    <desc lang="es">Soledad Ortega y Alejandra Rey presentan un ciclo que aborda la salud y el bienestar, enfocado en la prevención y los hábitos saludables.(n)</desc>
-    <credits>
-      <actor>Soledad Ortega</actor>
-      <actor>Alejandra Rey</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Salud</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12231021.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404190000 -0300" stop="20220404203000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado sábado</title>
-    <desc lang="es">Un espacio de noticias y con cobertura de lo que pasa en la actualidad.(n)</desc>
-    <credits>
-      <actor>Alfredo Dante</actor>
-      <actor>José Irazábal</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928235.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220404203000 -0300" stop="20220404213000 -0300" channel="CANAL 10 HD">
-    <title lang="es">La peluquería de Don Mateo</title>
-    <desc lang="es">La peluquería de Don Mateo contará con un gran elenco y, en cada programa, reconocidas personalidades de Uruguay tendrán un turno para cortarse el pelo o afeitarse, en un local donde desfilarán divertidos y excéntricos personajes.(n)</desc>
-    <credits>
-      <actor>Luis Orpi</actor>
-      <actor>Florencia Infante</actor>
-      <actor>Álvaro Navia</actor>
-      <actor>Sebastián Almada</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928377.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220404213000 -0300" stop="20220404223000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Ahora caigo</title>
-    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.(n)</desc>
-    <credits>
-      <actor>Arturo Valls</actor>
-      <actor>Glòria Hernández</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4117238.jpg" />
-    <country lang="es">España</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220404223000 -0300" stop="20220405000000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mejor con música</title>
-    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
-    <credits>
-      <actor>Valentina Barrios</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928027.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220405000000 -0300" stop="20220405010000 -0300" channel="CANAL 10 HD">
-    <title lang="es">C.S.I. Las Vegas</title>
-    <desc lang="es">Gil Grissom encabeza el equipo de científicos que localizan las evidencias directamente en la escena del crimen, analizándolas para descubrir, de forma sorprendente, quién es el verdadero culpable.(n)</desc>
-    <credits>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Paul Guilfoyle</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Louise Lombard</actor>
-      <actor>Wallace Langham</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125397.jpg" />
-    <country lang="es">EE. UU</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220405010000 -0300" stop="20220405020000 -0300" channel="CANAL 10 HD">
-    <title lang="es">C.S.I. Las Vegas</title>
-    <desc lang="es">Gil Grissom encabeza el equipo de científicos que localizan las evidencias directamente en la escena del crimen, analizándolas para descubrir, de forma sorprendente, quién es el verdadero culpable.(n)</desc>
-    <credits>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Paul Guilfoyle</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Louise Lombard</actor>
-      <actor>Wallace Langham</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125397.jpg" />
-    <country lang="es">EE. UU</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220405020000 -0300" stop="20220405060000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado sábado</title>
-    <desc lang="es">Un espacio de noticias y con cobertura de lo que pasa en la actualidad.(n)</desc>
-    <credits>
-      <actor>Alfredo Dante</actor>
-      <actor>José Irazábal</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928235.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220405060000 -0300" stop="20220405070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220405070000 -0300" stop="20220405080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mejor con música</title>
-    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
-    <credits>
-      <actor>Valentina Barrios</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928027.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220405080000 -0300" stop="20220405100000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Null</title>
-    <date>2018</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20026992.jpg" />
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220405100000 -0300" stop="20220405123000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Punto penal</title>
-    <desc lang="es">El clásico de los domingos con todo el deporte nacional e internacional. Invitados, informes, polémica y actualidad, con el mejor equipo de periodistas.(n)</desc>
-    <credits>
-      <actor>Roberto Moar</actor>
-      <actor>Martín Charquero</actor>
-      <actor>Mauro Mas</actor>
-      <actor>Fernando Corchs</actor>
-      <actor>Carlos Peinado</actor>
-      <actor>Sandra Rodríguez</actor>
-      <actor>Juanjo Acevedo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Deportivo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12598401.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220405123000 -0300" stop="20220405140000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Mediodía</title>
-    <title lang="xx">Mediodía</title>
-    <desc lang="es">El informativo más prestigioso de la televisión uruguaya. Toda la información nacional e internacional con el mejor equipo periodístico.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Danilo Tegaldo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927897.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220405140000 -0300" stop="20220405150000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Punto penal - El alargue</title>
-    <title lang="xx">El alargue</title>
-    <desc lang="es">Sandra Rodríguez presente lo más destacado de Punto Penal, el clásico deportivo de los domingos.(n)</desc>
-    <credits>
-      <actor>Sandra Rodríguez</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Deportivo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13539160.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220405150000 -0300" stop="20220405153000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Vivila otra vez</title>
-    <desc lang="es">Recuerda en este espacio los momentos memorables, hechos históricos, figuras inolvidables y los sucesos importantes de nuestra vida colectiva, así como también la música de todos los tiempos y sus anécdotas.(n)</desc>
-    <credits>
-      <actor>Humberto De Vargas</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660550.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220405153000 -0300" stop="20220405190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado tarde</title>
-    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Político</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19954202.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220405190000 -0300" stop="20220405213000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado domingo</title>
-    <desc lang="es">La información nacional e internacional tratada con criterio periodístico responsable a partir de la labor de un equipo de hombres y mujeres cubriendo distintas áreas.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Alfredo Dante</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11429680.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220405213000 -0300" stop="20220405230000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Polémica en el bar</title>
-    <desc lang="es">Un grupo de amigos, junto a grandes personalidades invitadas, se encuentran en su café favorito para debatir los temas de actualidad con humor, picardía, inteligencia y emoción.(n)</desc>
-    <credits>
-      <actor>Jorge 'el Piñe' Piñeyrúa</actor>
-      <actor>Sergio Puglia</actor>
-      <actor>Patricia Madrid</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Miguel Carzolio</actor>
-      <actor>Álvaro Navia</actor>
-      <actor>Conrado Hughes</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18079874.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220405230000 -0300" stop="20220406000000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Ahora caigo</title>
-    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.(n)</desc>
-    <credits>
-      <actor>Arturo Valls</actor>
-      <actor>Glòria Hernández</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4117238.jpg" />
-    <country lang="es">España</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220406000000 -0300" stop="20220406020000 -0300" channel="CANAL 10 HD">
-    <title lang="es">FBI</title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217561.jpg" />
-    <country lang="es">EE. UU</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220406020000 -0300" stop="20220406060000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado sábado</title>
-    <desc lang="es">Un espacio de noticias y con cobertura de lo que pasa en la actualidad.(n)</desc>
-    <credits>
-      <actor>Alfredo Dante</actor>
-      <actor>José Irazábal</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928235.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220406060000 -0300" stop="20220406070000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Autores en vivo - AGADU</title>
-    <title lang="xx">AGADU</title>
-    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
-    <date>2010</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1251269.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220406070000 -0300" stop="20220406080000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Mejor con música</title>
-    <desc lang="es">Disfruta cada semana de los más grandes éxitos y artistas mundiales en un show musical, con la conducción de Valentina Barrios.(n)</desc>
-    <credits>
-      <actor>Valentina Barrios</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Musical</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14928027.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220406080000 -0300" stop="20220406100000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Null</title>
-    <date>2018</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20026992.jpg" />
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220406100000 -0300" stop="20220406123000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Punto penal</title>
-    <desc lang="es">El clásico de los domingos con todo el deporte nacional e internacional. Invitados, informes, polémica y actualidad, con el mejor equipo de periodistas.(n)</desc>
-    <credits>
-      <actor>Roberto Moar</actor>
-      <actor>Martín Charquero</actor>
-      <actor>Mauro Mas</actor>
-      <actor>Fernando Corchs</actor>
-      <actor>Carlos Peinado</actor>
-      <actor>Sandra Rodríguez</actor>
-      <actor>Juanjo Acevedo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Deportivo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12598401.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220406123000 -0300" stop="20220406140000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado - Mediodía</title>
-    <title lang="xx">Mediodía</title>
-    <desc lang="es">El informativo más prestigioso de la televisión uruguaya. Toda la información nacional e internacional con el mejor equipo periodístico.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Danilo Tegaldo</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14927897.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220406140000 -0300" stop="20220406150000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Punto penal - El alargue</title>
-    <title lang="xx">El alargue</title>
-    <desc lang="es">Sandra Rodríguez presente lo más destacado de Punto Penal, el clásico deportivo de los domingos.(n)</desc>
-    <credits>
-      <actor>Sandra Rodríguez</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Deportivo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13539160.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220406150000 -0300" stop="20220406153000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Vivila otra vez</title>
-    <desc lang="es">Recuerda en este espacio los momentos memorables, hechos históricos, figuras inolvidables y los sucesos importantes de nuestra vida colectiva, así como también la música de todos los tiempos y sus anécdotas.(n)</desc>
-    <credits>
-      <actor>Humberto De Vargas</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Interés general</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14660550.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220406153000 -0300" stop="20220406190000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado tarde</title>
-    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Político</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19954202.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220406190000 -0300" stop="20220406213000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Subrayado domingo</title>
-    <desc lang="es">La información nacional e internacional tratada con criterio periodístico responsable a partir de la labor de un equipo de hombres y mujeres cubriendo distintas áreas.(n)</desc>
-    <credits>
-      <actor>Carolina García</actor>
-      <actor>Alfredo Dante</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11429680.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220406213000 -0300" stop="20220406230000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Polémica en el bar</title>
-    <desc lang="es">Un grupo de amigos, junto a grandes personalidades invitadas, se encuentran en su café favorito para debatir los temas de actualidad con humor, picardía, inteligencia y emoción.(n)</desc>
-    <credits>
-      <actor>Jorge 'el Piñe' Piñeyrúa</actor>
-      <actor>Sergio Puglia</actor>
-      <actor>Patricia Madrid</actor>
-      <actor>Nicolás Lussich</actor>
-      <actor>Juan Miguel Carzolio</actor>
-      <actor>Álvaro Navia</actor>
-      <actor>Conrado Hughes</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18079874.jpg" />
-    <country lang="es">Uruguay</country>
-    <rating system="UY">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220406230000 -0300" stop="20220407000000 -0300" channel="CANAL 10 HD">
-    <title lang="es">Ahora caigo</title>
-    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.(n)</desc>
-    <credits>
-      <actor>Arturo Valls</actor>
-      <actor>Glòria Hernández</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Entretenimientos</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4117238.jpg" />
-    <country lang="es">España</country>
-    <rating system="UY">
-      <value>NR</value>
-    </rating>
+  <programme start="20220403021600 -0300" stop="20220403030800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220403030800 -0300" stop="20220403040000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220403040000 -0300" stop="20220403045000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  <programme start="20220403045000 -0300" stop="20220403054000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El acuario</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220403054000 -0300" stop="20220403060500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220403060500 -0300" stop="20220403063000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20220403063000 -0300" stop="20220403072000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Europa salvaje</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220403072000 -0300" stop="20220403081000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Invasores</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220403081000 -0300" stop="20220403090000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+    <episode-num system="onscreen">S6 E9</episode-num>
+  </programme>
+  <programme start="20220403090000 -0300" stop="20220403092500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20220403092500 -0300" stop="20220403095000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20220403095000 -0300" stop="20220403104000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Guaridas con estilo</title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20220403104000 -0300" stop="20220403113200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dra. Dee Veterinaria de Alas</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220403113200 -0300" stop="20220403122400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dra. Dee Veterinaria de Alas</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220403122400 -0300" stop="20220403131700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20220403131700 -0300" stop="20220403140900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Veterinarios de Texas</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220403140900 -0300" stop="20220403143600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pequeños gigantes de la natur</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20220403143600 -0300" stop="20220403150400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pequeños gigantes de la natur</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220403150400 -0300" stop="20220403164300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Australia salvaje</title>
+  </programme>
+  <programme start="20220403164300 -0300" stop="20220403173600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Historias de grandes felinos</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220403173600 -0300" stop="20220403182900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Historias de grandes felinos</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220403182900 -0300" stop="20220403192200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Historias de grandes felinos</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220403192200 -0300" stop="20220403201400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dinosaurios modernos</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220403201400 -0300" stop="20220403210600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dinosaurios modernos</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220403210600 -0300" stop="20220403215900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+    <episode-num system="onscreen">S8 E13</episode-num>
+  </programme>
+  <programme start="20220403215900 -0300" stop="20220403225200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Piscinas increíbles</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220403225200 -0300" stop="20220403234400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Genios constructores</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220403234400 -0300" stop="20220404003700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx espec</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220404003700 -0300" stop="20220404010300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">S.O.S. Animal</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220404010300 -0300" stop="20220404012900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">S.O.S. Animal</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220404012900 -0300" stop="20220404031300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pit bulls y convictos</title>
+    <episode-num system="onscreen">S12 E3</episode-num>
+  </programme>
+  <programme start="20220404031300 -0300" stop="20220404033900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Hospital de pingüinos</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220404033900 -0300" stop="20220404040500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Hospital de pingüinos</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220404040500 -0300" stop="20220404050000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dra. Dee Veterinaria de Alas</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220404050000 -0300" stop="20220404052700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220404052700 -0300" stop="20220404061900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220404061900 -0300" stop="20220404071000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ríos de África</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220404071000 -0300" stop="20220404080000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+    <episode-num system="onscreen">S6 E10</episode-num>
+  </programme>
+  <programme start="20220404080000 -0300" stop="20220404082400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los reyes de las piscina</title>
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20220404082400 -0300" stop="20220404084800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los reyes de las piscina</title>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20220404084800 -0300" stop="20220404093800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Guaridas con estilo</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220404093800 -0300" stop="20220404102800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">La gran transformación canina</title>
+  </programme>
+  <programme start="20220404102800 -0300" stop="20220404112000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pit bulls y convictos</title>
+    <episode-num system="onscreen">S11 E5</episode-num>
+  </programme>
+  <programme start="20220404112000 -0300" stop="20220404121000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Amanda al Rescate</title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20220404121000 -0300" stop="20220404130200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Amanda al Rescate</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220404130200 -0300" stop="20220404135400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Encuentros con monstruos</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220404135400 -0300" stop="20220404144600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220404144600 -0300" stop="20220404153800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220404153800 -0300" stop="20220404163100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Operación Tanzania</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220404163100 -0300" stop="20220404172400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Operación Tanzania</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220404172400 -0300" stop="20220404181700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Operación Tanzania</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220404181700 -0300" stop="20220404191000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Historias de grandes felinos</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220404191000 -0300" stop="20220404200800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Historias de grandes felinos</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220404200800 -0300" stop="20220404210000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20220404210000 -0300" stop="20220404215200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Piscinas increíbles</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220404215200 -0300" stop="20220404221600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los reyes de las piscinas</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20220404221600 -0300" stop="20220404224000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los reyes de las piscinas</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220404224000 -0300" stop="20220404233200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios de nuestro planeta</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220404233200 -0300" stop="20220405002400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios de nuestro planeta</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220405233200 -0300" stop="20220406002400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios de nuestro planeta</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220406002400 -0300" stop="20220406011600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios de nuestro planeta</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20220406011600 -0300" stop="20220406020800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20220406020800 -0300" stop="20220406030000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Guaridas con estilo</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220406030000 -0300" stop="20220406035000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">La gran transformación canina</title>
+  </programme>
+  <programme start="20220406035000 -0300" stop="20220406044000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pit bulls y convictos</title>
+    <episode-num system="onscreen">S11 E5</episode-num>
+  </programme>
+  <programme start="20220406044000 -0300" stop="20220406053000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+    <episode-num system="onscreen">S8 E1</episode-num>
+  </programme>
+  <programme start="20220406053000 -0300" stop="20220406062000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx espec</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220406062000 -0300" stop="20220406064500 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">S.O.S. Animal</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220406064500 -0300" stop="20220406071000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">S.O.S. Animal</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20220406071000 -0300" stop="20220406080000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20220406080000 -0300" stop="20220406082600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Naturaleza Salvaje</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406082600 -0300" stop="20220406085200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Naturaleza Salvaje</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220406085200 -0300" stop="20220406094300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Animales en riesgo: Phoenix</title>
+  </programme>
+  <programme start="20220406094300 -0300" stop="20220406103400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Guardianes de Texas</title>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20220406103400 -0300" stop="20220406112400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20220406112400 -0300" stop="20220406114900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Santuario de orangutanes</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406114900 -0300" stop="20220406121400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Santuario de orangutanes</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220406121400 -0300" stop="20220406124000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pequeños gigantes de la natur</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20220406124000 -0300" stop="20220406130600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pequeños gigantes de la natur</title>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20220406130600 -0300" stop="20220406133100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anima</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406133100 -0300" stop="20220406135700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo anima</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220406135700 -0300" stop="20220406144900 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Operación Tanzania</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406144900 -0300" stop="20220406154100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406154100 -0300" stop="20220406163300 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Ciencia al rescate</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406163300 -0300" stop="20220406172600 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico de San Diego</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406172600 -0300" stop="20220406181800 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pesca de gigantes</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220406181800 -0300" stop="20220406191000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pesca de gigantes</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220406191000 -0300" stop="20220406200200 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Pesca de gigantes</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220406200200 -0300" stop="20220406205400 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220406205400 -0300" stop="20220406214700 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  <programme start="20220406214700 -0300" stop="20220406224000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <episode-num system="onscreen">S5 E3</episode-num>
+  </programme>
+  <programme start="20220406224000 -0300" stop="20220406233000 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">El zoológico del Bronx</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20220406233000 -0300" stop="20220407002100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los Irwin</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220407233000 -0300" stop="20220408002100 -0300" channel="Canal Animal Planet (México)">
+    <title lang="es">Los Irwin</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
 </tv>
