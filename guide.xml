@@ -34,6 +34,10 @@
     <display-name lang="es">History (México)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Investigation Discovery (México)">
+    <display-name lang="es">Investigation Discovery (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20220331010000 -0300" stop="20220331030000 -0300" channel="Canal FUTV">
     <title lang="es">Estados Unidos vs. Costa Rica</title>
     <desc lang="es">La selección Estadounidense se enfrenta a la selección Costarricense en un partido entre ambas naciones.(n)</desc>
@@ -5564,5 +5568,575 @@
   <programme start="20220407235000 -0300" stop="20220408004000 -0300" channel="Canal History (México)">
     <title lang="es">Gigantes de los motores I</title>
     <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220331001200 -0300" stop="20220331010600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal sombras de m</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20220331010600 -0300" stop="20220331020200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal sombras de m</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220331020200 -0300" stop="20220331030000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20220331030000 -0300" stop="20220331035200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Vecino asesino</title>
+    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme>
+  <programme start="20220331035200 -0300" stop="20220331044400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Vecino asesino</title>
+    <episode-num system="onscreen">S5 E10</episode-num>
+  </programme>
+  <programme start="20220331044400 -0300" stop="20220331053600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Terror en casa</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220331053600 -0300" stop="20220331062800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Terror en casa</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220331062800 -0300" stop="20220331072000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal sombras de m</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20220331072000 -0300" stop="20220331081000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal sombras de m</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220331081000 -0300" stop="20220331090000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20220331090000 -0300" stop="20220331092800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Secuestrados</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220331092800 -0300" stop="20220331102000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detalles de un crimen</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220331102000 -0300" stop="20220331111200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detalles de un crimen</title>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20220331111200 -0300" stop="20220331120400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La verdad con Sunny Hosti</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220331120400 -0300" stop="20220331125600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">New York Post Investiga</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220331125600 -0300" stop="20220331134900 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">New York Post Investiga</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220331134900 -0300" stop="20220331144200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20220331144200 -0300" stop="20220331153400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220331153400 -0300" stop="20220331171800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Expediente abierto</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220331171800 -0300" stop="20220331181000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220331181000 -0300" stop="20220331190200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220331190200 -0300" stop="20220331195400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal</title>
+    <episode-num system="onscreen">S6 E20</episode-num>
+  </programme>
+  <programme start="20220331195400 -0300" stop="20220331204600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220331204600 -0300" stop="20220331213800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detalles de un crimen</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20220331213800 -0300" stop="20220331223000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detalles de un crimen</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20220331223000 -0300" stop="20220331232000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia por mano propia</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20220331232000 -0300" stop="20220401001200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia por mano propia</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220401232000 -0300" stop="20220402001200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia por mano propia</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220402001200 -0300" stop="20220402010600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">NXIVM mujeres desaparecidas</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220402010600 -0300" stop="20220402020200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">NXIVM mujeres desaparecidas</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220402020200 -0300" stop="20220402030000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20220402030000 -0300" stop="20220402035200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Más allá de la duda</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220402035200 -0300" stop="20220402044400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Más allá de la duda</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220402044400 -0300" stop="20220402053600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia por mano propia</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20220402053600 -0300" stop="20220402062800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia por mano propia</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220402062800 -0300" stop="20220402072000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">NXIVM mujeres desaparecidas</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220402072000 -0300" stop="20220402081000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">NXIVM mujeres desaparecidas</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220402081000 -0300" stop="20220402090000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20220402090000 -0300" stop="20220402092800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Secuestrados</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20220402092800 -0300" stop="20220402102000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Víctimas del amor</title>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20220402102000 -0300" stop="20220402111200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Víctimas del amor</title>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20220402111200 -0300" stop="20220402120400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220402120400 -0300" stop="20220402125600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Red de mentiras</title>
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20220402125600 -0300" stop="20220402134900 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Red de mentiras</title>
+    <episode-num system="onscreen">S6 E9</episode-num>
+  </programme>
+  <programme start="20220402134900 -0300" stop="20220402144200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220402144200 -0300" stop="20220402153400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220402153400 -0300" stop="20220402160000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Encuentros infernales</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220402160000 -0300" stop="20220402162600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Encuentros infernales</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220402162600 -0300" stop="20220402165200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Encuentros infernales</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220402165200 -0300" stop="20220402171800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Encuentros infernales</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20220402171800 -0300" stop="20220402181000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Un Asesino a Mi Lado</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220402181000 -0300" stop="20220402190200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Un Asesino a Mi Lado</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220402190200 -0300" stop="20220402195400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220402195400 -0300" stop="20220402204600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220402204600 -0300" stop="20220402213800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220402213800 -0300" stop="20220402223000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220402223000 -0300" stop="20220402232000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220402232000 -0300" stop="20220403001200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220403001200 -0300" stop="20220403010600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Red de mentiras</title>
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20220403010600 -0300" stop="20220403020200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Red de mentiras</title>
+    <episode-num system="onscreen">S6 E10</episode-num>
+  </programme>
+  <programme start="20220403020200 -0300" stop="20220403030000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20220403030000 -0300" stop="20220403035200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Un Asesino a Mi Lado</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220403035200 -0300" stop="20220403044400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Un Asesino a Mi Lado</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220403044400 -0300" stop="20220403053600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220403053600 -0300" stop="20220403062800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Maldad entre nosotros</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220403062800 -0300" stop="20220403072000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Red de mentiras</title>
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20220403072000 -0300" stop="20220403081000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Red de mentiras</title>
+    <episode-num system="onscreen">S6 E10</episode-num>
+  </programme>
+  <programme start="20220403081000 -0300" stop="20220403090000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20220403090000 -0300" stop="20220403092800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Secuestrados</title>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20220403092800 -0300" stop="20220403102000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Los 90 década mortal</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20220403102000 -0300" stop="20220403111200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Los 90 década mortal</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20220403111200 -0300" stop="20220403120400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detalles de un crimen</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20220403120400 -0300" stop="20220403125600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detalles de un crimen</title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  <programme start="20220403125600 -0300" stop="20220403134900 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">El caso de Chandra Levy</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220403134900 -0300" stop="20220403144200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">El caso de Chandra Levy</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220403144200 -0300" stop="20220403153400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220403153400 -0300" stop="20220403162600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Más allá de la duda</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220403162600 -0300" stop="20220403171800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Más allá de la duda</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220403171800 -0300" stop="20220403190200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Los crímenes de Robert Durst</title>
+  </programme>
+  <programme start="20220403190200 -0300" stop="20220403195400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220403195400 -0300" stop="20220403204600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Declaraciones Impactantes</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220403204600 -0300" stop="20220403213800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Declaraciones Impactantes</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220403213800 -0300" stop="20220403223000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20220403223000 -0300" stop="20220403232000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20220403232000 -0300" stop="20220404001200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20220404232000 -0300" stop="20220405001200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20220405001200 -0300" stop="20220405010600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20220405010600 -0300" stop="20220405020200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación a Fondo</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220405020200 -0300" stop="20220405030000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación a Fondo</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220405030000 -0300" stop="20220405040000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Las investigadoras</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220405040000 -0300" stop="20220405050000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20220405050000 -0300" stop="20220405060000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20220405060000 -0300" stop="20220405070000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación a Fondo</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220405070000 -0300" stop="20220405080000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación a Fondo</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220405080000 -0300" stop="20220405082800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Secuestrados</title>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20220405082800 -0300" stop="20220405092000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Fríamente calculado</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220405092000 -0300" stop="20220405101200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Fríamente calculado</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220405101200 -0300" stop="20220405110400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crímenes reales con Aphrodite</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220405110400 -0300" stop="20220405115600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crímenes reales con Aphrodite</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220405115600 -0300" stop="20220405124900 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Las verdaderas mujeres asesin</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20220405124900 -0300" stop="20220405134200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Las verdaderas mujeres asesin</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220405134200 -0300" stop="20220405143400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People investiga el</title>
+  </programme>
+  <programme start="20220405143400 -0300" stop="20220405152600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La obsesión</title>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20220405152600 -0300" stop="20220405161800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La obsesión</title>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20220405161800 -0300" stop="20220405171000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Enlace Mortal</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220405171000 -0300" stop="20220405180200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Enlace Mortal</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220405180200 -0300" stop="20220405185400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">La casa del mal</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220405185400 -0300" stop="20220405194600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crímenes del pasado</title>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20220405194600 -0300" stop="20220405203800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crímenes del pasado</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20220405203800 -0300" stop="20220405213000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación en Curso</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220405213000 -0300" stop="20220405222000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación en Curso</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220405222000 -0300" stop="20220405231200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20220405231200 -0300" stop="20220406000600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20220406231200 -0300" stop="20220407000600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20220407000600 -0300" stop="20220407010200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Asesino al acecho</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407010200 -0300" stop="20220407020000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Asesino al acecho</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407020000 -0300" stop="20220407025200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Enlace Mortal</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20220407025200 -0300" stop="20220407034400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Enlace Mortal</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20220407034400 -0300" stop="20220407043600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación en Curso</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220407043600 -0300" stop="20220407052800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20220407052800 -0300" stop="20220407062000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20220407062000 -0300" stop="20220407071000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Asesino al acecho</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407071000 -0300" stop="20220407080000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Asesino al acecho</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407080000 -0300" stop="20220407082800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">¿Con quién !# me casé</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20220407082800 -0300" stop="20220407092000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Mentiras develadas</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407092000 -0300" stop="20220407101200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Mentiras develadas</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407101200 -0300" stop="20220407110400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Sala de interrogación</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407110400 -0300" stop="20220407115600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Investigación en Curso</title>
+    <episode-num system="onscreen">S5 E20</episode-num>
+  </programme>
+  <programme start="20220407115600 -0300" stop="20220407122300 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detrás de los crímenes virale</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20220407122300 -0300" stop="20220407124900 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Detrás de los crímenes virale</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20220407124900 -0300" stop="20220407134200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Crimen casi perfecto</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220407134200 -0300" stop="20220407143400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cuando el mal se disfraza</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407143400 -0300" stop="20220407152600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cintas del Crimen</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407152600 -0300" stop="20220407161800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">¿Quién es el asesino</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407161800 -0300" stop="20220407171000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">¿Quién es el asesino</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407171000 -0300" stop="20220407180200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia en Atlanta</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407180200 -0300" stop="20220407185400 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Justicia en Atlanta</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407185400 -0300" stop="20220407194600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Revista People Investiga Cul</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220407194600 -0300" stop="20220407203800 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cintas del Crimen</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220407203800 -0300" stop="20220407213000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Cintas del Crimen</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220407213000 -0300" stop="20220407222000 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Sala de interrogación</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220407222000 -0300" stop="20220407231200 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Sala de interrogación</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220407231200 -0300" stop="20220408000600 -0300" channel="Canal Investigation Discovery (México)">
+    <title lang="es">Presuntos inocentes</title>
+    <episode-num system="onscreen">S9 E1</episode-num>
   </programme>
 </tv>
