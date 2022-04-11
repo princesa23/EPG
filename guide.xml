@@ -26,6 +26,10 @@
     <display-name lang="es">Discovery Channel (Chile)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Discovery Channel (Mexico)">
+    <display-name lang="es">Discovery Channel (Mexico)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Discovery Familia">
     <display-name lang="es">Discovery Familia</display-name>
     <url>http://www.gatotv.com</url>
@@ -3448,6 +3452,634 @@
   </programme>
   <programme start="20220414141000 -0300" stop="20220414150800 -0300" channel="Canal Discovery Channel (Chile)">
     <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20220411011300 -0300" stop="20220411021100 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Máxima seguridad Cárcele</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220411021100 -0300" stop="20220411035200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Los años de Fierro</title>
+  </programme>
+  <programme start="20220411035200 -0300" stop="20220411044300 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mirada policial</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220411044300 -0300" stop="20220411053400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mirada policial</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220411053400 -0300" stop="20220411063900 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Rehabilitación en prisión</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220411063900 -0300" stop="20220411073000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Máxima seguridad Cárcele</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220411073000 -0300" stop="20220411080000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220411080000 -0300" stop="20220411083000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20220411083000 -0300" stop="20220411085600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20220411085600 -0300" stop="20220411092200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20220411092200 -0300" stop="20220411094700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E11</episode-num>
+  </programme>
+  <programme start="20220411094700 -0300" stop="20220411101200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E12</episode-num>
+  </programme>
+  <programme start="20220411101200 -0300" stop="20220411110400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Cómo funciona el universo</title>
+    <desc lang="es">Discovery nos muestra cómo funciona el Universo en ocho capítulos entre ellos: Estrellas, Agujeros Negros, Galaxias, Planetas, El Big Bang, Lunas, etc.(n)</desc>
+    <date>2010</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/como_funciona_el_universo.jpg" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+  </programme>
+  <programme start="20220411110400 -0300" stop="20220411115600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Europa salvaje</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220411115600 -0300" stop="20220411124800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pesca mortal</title>
+    <episode-num system="onscreen">S16 E12</episode-num>
+  </programme>
+  <programme start="20220411124800 -0300" stop="20220411134000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Construcciones remotas hogar</title>
+  </programme>
+  <programme start="20220411134000 -0300" stop="20220411143600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Fiebre del oro</title>
+    <episode-num system="onscreen">S12 E19</episode-num>
+  </programme>
+  <programme start="20220411143600 -0300" stop="20220411153200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desafío X 2 Brasil</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220411153200 -0300" stop="20220411162800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pareja Salvaje</title>
+    <desc lang="es">Mykel Hawke y Ruth England son una pareja que muestran cómo sobrevivir en lugares inhóspitos y remotos únicamente con la única ayuda de un cuchillo.(n)</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+      <producer>Todd Cohen</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/pareja_salvaje.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220411162800 -0300" stop="20220411172400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Alaska Hombres primitiv</title>
+    <episode-num system="onscreen">S3 E16</episode-num>
+  </programme>
+  <programme start="20220411172400 -0300" stop="20220411182000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Expedición a lo desconoci</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20220411182000 -0300" stop="20220411191600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Wild Frank en África</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220411191600 -0300" stop="20220411201200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Supervivencia al desnudo</title>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20220411201200 -0300" stop="20220411210700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Joyas sobre ruedas</title>
+    <episode-num system="onscreen">S16 E13</episode-num>
+  </programme>
+  <programme start="20220411210700 -0300" stop="20220411220200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Joyas sobre ruedas</title>
+    <episode-num system="onscreen">S16 E14</episode-num>
+  </programme>
+  <programme start="20220411220200 -0300" stop="20220411230000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mexicánicos</title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20220411230000 -0300" stop="20220411235800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Supervivencia al desnudo</title>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20220411235800 -0300" stop="20220412005600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Supervivencia al desnudo</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220412005600 -0300" stop="20220412015400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Peligros del universo</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220412015400 -0300" stop="20220412024800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Trabajos al límite</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220412024800 -0300" stop="20220412043200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Vidas remotas</title>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme start="20220412043200 -0300" stop="20220412052400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">El camino de los espíritu</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220412052400 -0300" stop="20220412061600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Supervivencia al desnudo</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220412061600 -0300" stop="20220412070800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Peligros del universo</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220412070800 -0300" stop="20220412080000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Trabajos al límite</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220412080000 -0300" stop="20220412083000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Ant Anstead, maestro.</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220412083000 -0300" stop="20220412085600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Ant Anstead, maestro.</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220412085600 -0300" stop="20220412092200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Ant Anstead, maestro.</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220412092200 -0300" stop="20220412094700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E13</episode-num>
+  </programme>
+  <programme start="20220412094700 -0300" stop="20220412101200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E14</episode-num>
+  </programme>
+  <programme start="20220412101200 -0300" stop="20220412110400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Cómo funciona el universo</title>
+    <desc lang="es">Discovery nos muestra cómo funciona el Universo en ocho capítulos entre ellos: Estrellas, Agujeros Negros, Galaxias, Planetas, El Big Bang, Lunas, etc.(n)</desc>
+    <date>2010</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/como_funciona_el_universo.jpg" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20220412110400 -0300" stop="20220412115600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Europa salvaje</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220412115600 -0300" stop="20220412124800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pesca mortal</title>
+    <episode-num system="onscreen">S16 E13</episode-num>
+  </programme>
+  <programme start="20220412124800 -0300" stop="20220412134000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20220412134000 -0300" stop="20220412143600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Tras la pista del oro</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20220412143600 -0300" stop="20220412153200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desafío X 2 Brasil</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220412153200 -0300" stop="20220412162800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pareja Salvaje</title>
+    <desc lang="es">Mykel Hawke y Ruth England son una pareja que muestran cómo sobrevivir en lugares inhóspitos y remotos únicamente con la única ayuda de un cuchillo.(n)</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+      <producer>Todd Cohen</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/pareja_salvaje.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220412162800 -0300" stop="20220412172400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Wild Frank en África</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220412172400 -0300" stop="20220412182000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Expedición a lo desconoc</title>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20220412182000 -0300" stop="20220412191600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Alaska Hombres primitiv</title>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20220412191600 -0300" stop="20220412201200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Supervivencia al desnudo</title>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20220412201200 -0300" stop="20220412210700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220412210700 -0300" stop="20220412220200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Joyas sobre ruedas</title>
+    <episode-num system="onscreen">S16 E12</episode-num>
+  </programme>
+  <programme start="20220412220200 -0300" stop="20220412230000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mexicánicos</title>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20220412230000 -0300" stop="20220412235800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mexicánicos</title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20220412235800 -0300" stop="20220413005600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Joyas sobre ruedas</title>
+    <episode-num system="onscreen">S17 E10</episode-num>
+  </programme>
+  <programme start="20220413005600 -0300" stop="20220413015700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Monster Garage</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220413015700 -0300" stop="20220413025000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Conductor en fuga</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220413025000 -0300" stop="20220413034100 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">El dúo mecánico</title>
+    <episode-num system="onscreen">S4 E13</episode-num>
+  </programme>
+  <programme start="20220413034100 -0300" stop="20220413043200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">De la chatarra a la pist</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220413043200 -0300" stop="20220413052300 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">El camino de los espíritu</title>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20220413052300 -0300" stop="20220413061400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Joyas sobre ruedas</title>
+    <episode-num system="onscreen">S17 E10</episode-num>
+  </programme>
+  <programme start="20220413061400 -0300" stop="20220413070900 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Monster Garage</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220413070900 -0300" stop="20220413080000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Conductor en fuga</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220413080000 -0300" stop="20220413083000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Golpe de suerte</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220413083000 -0300" stop="20220413085600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Golpe de suerte</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220413085600 -0300" stop="20220413092200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Golpe de suerte</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220413092200 -0300" stop="20220413094700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E15</episode-num>
+  </programme>
+  <programme start="20220413094700 -0300" stop="20220413101200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E16</episode-num>
+  </programme>
+  <programme start="20220413101200 -0300" stop="20220413110400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Cómo funciona el universo</title>
+    <desc lang="es">Discovery nos muestra cómo funciona el Universo en ocho capítulos entre ellos: Estrellas, Agujeros Negros, Galaxias, Planetas, El Big Bang, Lunas, etc.(n)</desc>
+    <date>2010</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/como_funciona_el_universo.jpg" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20220413110400 -0300" stop="20220413115600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Europa salvaje</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220413115600 -0300" stop="20220413124800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pesca mortal herencia</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220413124800 -0300" stop="20220413134000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20220413134000 -0300" stop="20220413143600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Tras la pista del oro</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20220413143600 -0300" stop="20220413153200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desafío X 2 Brasil</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220413153200 -0300" stop="20220413162800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pareja Salvaje</title>
+    <desc lang="es">Mykel Hawke y Ruth England son una pareja que muestran cómo sobrevivir en lugares inhóspitos y remotos únicamente con la única ayuda de un cuchillo.(n)</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+      <producer>Todd Cohen</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/pareja_salvaje.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220413162800 -0300" stop="20220413172400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Wild Frank Tras la evolución</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220413172400 -0300" stop="20220413182000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Expedición a lo desconoci</title>
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  <programme start="20220413182000 -0300" stop="20220413191600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Alaska Hombres primitiv</title>
+    <episode-num system="onscreen">S3 E18</episode-num>
+  </programme>
+  <programme start="20220413191600 -0300" stop="20220413201200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Supervivencia al desnudo</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20220413201200 -0300" stop="20220413210700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220413210700 -0300" stop="20220413220200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Joyas sobre ruedas</title>
+    <episode-num system="onscreen">S17 E2</episode-num>
+  </programme>
+  <programme start="20220413220200 -0300" stop="20220413230000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mexicánicos</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220413230000 -0300" stop="20220414005600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S9 E9</episode-num>
+  </programme>
+  <programme start="20220414005600 -0300" stop="20220414024800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20220414024800 -0300" stop="20220414034000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20220414034000 -0300" stop="20220414043200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Error en mi diagnóstico</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20220414043200 -0300" stop="20220414052400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">El camino de los espíritu</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20220414052400 -0300" stop="20220414061600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20220414061600 -0300" stop="20220414080000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20220414080000 -0300" stop="20220414083000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Bear Grylls Al filo de la mu</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220414083000 -0300" stop="20220414085700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Bear Grylls Al filo de la mu</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20220414085700 -0300" stop="20220414092300 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Bear Grylls Al filo de la mu</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20220414092300 -0300" stop="20220414094900 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E17</episode-num>
+  </programme>
+  <programme start="20220414094900 -0300" stop="20220414101500 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E18</episode-num>
+  </programme>
+  <programme start="20220414101500 -0300" stop="20220414110800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Seis grados de separación</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220414110800 -0300" stop="20220414113800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Sobrevivir en Borneo</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220414113800 -0300" stop="20220414123200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pesca mortal</title>
+    <episode-num system="onscreen">S16 E15</episode-num>
+  </programme>
+  <programme start="20220414123200 -0300" stop="20220414132400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Construcciones remotas Polo</title>
+  </programme>
+  <programme start="20220414132400 -0300" stop="20220414142000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Tras la pista del oro</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220414142000 -0300" stop="20220414151600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desafío X 2 Brasil</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220414151600 -0300" stop="20220414161200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pareja Salvaje</title>
+    <desc lang="es">Mykel Hawke y Ruth England son una pareja que muestran cómo sobrevivir en lugares inhóspitos y remotos únicamente con la única ayuda de un cuchillo.(n)</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+      <producer>Todd Cohen</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/pareja_salvaje.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220414161200 -0300" stop="20220414170800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Wild Frank Tras la evolución</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220414170800 -0300" stop="20220414180400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Expedición a lo desconoci</title>
+    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme>
+  <programme start="20220414180400 -0300" stop="20220414190000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Alaska Hombres primitiv</title>
+    <episode-num system="onscreen">S3 E19</episode-num>
+  </programme>
+  <programme start="20220414190000 -0300" stop="20220414195600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220414195600 -0300" stop="20220414205200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220414205200 -0300" stop="20220414215000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220414215000 -0300" stop="20220414224800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220414224800 -0300" stop="20220414234600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220414234600 -0300" stop="20220415004400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20220415234600 -0300" stop="20220416004400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20220416004400 -0300" stop="20220416014200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220416014200 -0300" stop="20220416023600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220416023600 -0300" stop="20220416033000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220416033000 -0300" stop="20220416042400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220416042400 -0300" stop="20220416051800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">El camino de los espírit</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20220416051800 -0300" stop="20220416061200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220416061200 -0300" stop="20220416070600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220416070600 -0300" stop="20220416080000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desolado con Ed Stafford</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220416080000 -0300" stop="20220416083000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20220416083000 -0300" stop="20220416085700 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20220416085700 -0300" stop="20220416092300 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220416092300 -0300" stop="20220416094900 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E19</episode-num>
+  </programme>
+  <programme start="20220416094900 -0300" stop="20220416101500 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Así se hace</title>
+    <episode-num system="onscreen">S15 E20</episode-num>
+  </programme>
+  <programme start="20220416101500 -0300" stop="20220416110800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Alguien tiene que hacerlo</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220416110800 -0300" stop="20220416113800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Sobrevivir en Borneo</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220416113800 -0300" stop="20220416123200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pesca mortal</title>
+    <episode-num system="onscreen">S16 E16</episode-num>
+  </programme>
+  <programme start="20220416123200 -0300" stop="20220416132400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20220416132400 -0300" stop="20220416142000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Tras la pista del oro</title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20220416142000 -0300" stop="20220416151600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Desafío X 2 Brasil</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220416151600 -0300" stop="20220416161200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Pareja Salvaje</title>
+    <desc lang="es">Mykel Hawke y Ruth England son una pareja que muestran cómo sobrevivir en lugares inhóspitos y remotos únicamente con la única ayuda de un cuchillo.(n)</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+      <producer>Todd Cohen</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/pareja_salvaje.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220416161200 -0300" stop="20220416170800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Wild Frank Tras la evolución</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220416170800 -0300" stop="20220416180400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Expedición X</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220416180400 -0300" stop="20220416190000 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Alaska Hombres primitiv</title>
+    <episode-num system="onscreen">S3 E20</episode-num>
+  </programme>
+  <programme start="20220416190000 -0300" stop="20220416205200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20220416205200 -0300" stop="20220416224800 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20220416224800 -0300" stop="20220417004400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S7 E17</episode-num>
+  </programme>
+  <programme start="20220417004400 -0300" stop="20220417023600 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20220417023600 -0300" stop="20220417042400 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20220417042400 -0300" stop="20220417061200 -0300" channel="Canal Discovery Channel (Mexico)">
+    <title lang="es">Kilos mortales</title>
+    <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
   <programme start="20220411010000 -0300" stop="20220411020000 -0300" channel="Canal Discovery Familia">
     <title lang="es">Clínica de la piel</title>
