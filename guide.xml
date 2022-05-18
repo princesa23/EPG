@@ -89,24 +89,21 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1631.png" />
     <url>http://www.directv.cl</url>
   </channel>
-  <channel id="ESPN">
-    <display-name lang="es">ESPN (Arg)</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
-  </channel>
   <channel id="ESPN 2">
     <display-name lang="es">ESPN 2 (Arg)</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+    <url>http://www.buscador.cablevisionfibertel.com.ar</url>
   </channel>
-  <channel id="ESPN +">
-    <display-name lang="es">ESPN + (Arg)</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.avcsa.com.ar</url>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN (Arg)</display-name>
+    <url>http://www.buscador.cablevisionfibertel.com.ar</url>
   </channel>
   <channel id="ESPN 3">
-    <display-name lang="es">ESPN 3</display-name>
-    <url>http://www.buscadorcablevision.com.ar</url>
+    <display-name lang="es">ESPN 3 (Arg)</display-name>
+    <url>http://www.buscador.cablevisionfibertel.com.ar</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="es">ESPN Extra (Arg)</display-name>
+    <url>http://www.buscador.cablevisionfibertel.com.ar</url>
   </channel>
   <programme start="20220518000000 -0300" stop="20220518020000 -0300" channel="VTV PLUS(VTV PLUS)(661)">
     <title lang="es">Live: Fútbol Uruguayo Segunda División</title>
@@ -1110,8 +1107,8 @@
   <programme start="20220520143000 -0300" stop="20220520160000 -0300" channel="Canal Claro Sports">
     <title lang="es">Vuelta a Burgos Feminas</title>
   </programme>
-  <programme start="20220520190000 -0300" stop="20220520200000 -0300" channel="Canal Claro Sports">
-    <title lang="es">Deportes en Claro</title>
+  <programme start="20220520200000 -0300" stop="20220520210000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Marca Claro MVS radio</title>
   </programme>
   <programme start="20220520210000 -0300" stop="20220520220000 -0300" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
@@ -4535,6 +4532,9 @@
   </programme>
   <programme start="20220519190200 -0300" stop="20220519200000 -0300" channel="Canal Discovery Channel (Chile)">
     <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220519200000 -0300" stop="20220519210000 -0300" channel="Canal Discovery Channel (Chile)">
+    <title lang="es">Vidas remotas</title>
   </programme>
   <programme start="20220519210000 -0300" stop="20220519220000 -0300" channel="Canal Discovery Channel (Chile)">
     <title lang="es">El domo extremo</title>
@@ -15554,6 +15554,308 @@
       <value>NR</value>
     </rating>
   </programme>
+  <programme start="20220518000000 -0300" stop="20220518003000 -0300" channel="ESPN 2">
+    <title lang="es">LA LIGA WORLD</title>
+    <desc lang="es">Espacio que trae para ti la información más relevante de la Liga Española de Fútbol, las mejores jugadas, goles y encuentros para que estés al tanto de lo que sucede en uno de los torneos más importantes del mundo.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20220518003000 -0300" stop="20220518050000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518050000 -0300" stop="20220518060000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220518060000 -0300" stop="20220518083000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518083000 -0300" stop="20220518090000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220518090000 -0300" stop="20220518120000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518120000 -0300" stop="20220518160000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220518160000 -0300" stop="20220518190000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER+</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220518190000 -0300" stop="20220518203000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220518203000 -0300" stop="20220519000000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519000000 -0300" stop="20220519050000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519050000 -0300" stop="20220519060000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220519060000 -0300" stop="20220519120000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519120000 -0300" stop="20220519150000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220519150000 -0300" stop="20220519210000 -0300" channel="ESPN 2">
+    <title lang="es">PGA CHAMPIONSHIP</title>
+    <sub-title lang="es">Primera ronda, Southern Hills Country Club, Tulsa,</sub-title>
+    <desc lang="es">Torneo anual de golf organizado por la PGA americana como parte del PGA Tour. Este campeonato es uno de los llamados majors en el golf, y es el segundo de los majors que se juegan cada año.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Golf</category>
+    <country lang="es">EE. UU.</country>
+    <episode-num system="onscreen">T2022 Primera ronda, Southern Hills Country Club, Tulsa,</episode-num>
+  </programme>
+  <programme start="20220519210000 -0300" stop="20220519220000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220519220000 -0300" stop="20220519230000 -0300" channel="ESPN 2">
+    <title lang="es">SIMPLEMENTE FÚTBOL</title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20220519230000 -0300" stop="20220520000000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520000000 -0300" stop="20220520003000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520003000 -0300" stop="20220520010000 -0300" channel="ESPN 2">
+    <title lang="es">LA LIGA SHOW</title>
+    <desc lang="es">El show con lo más destacado de la liga futbolística de mayor prestigio del planeta: la liga española.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520010000 -0300" stop="20220520013000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220520013000 -0300" stop="20220520020000 -0300" channel="ESPN 2">
+    <title lang="es">LO MEJOR DE MOTOGP</title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <category lang="es">Motociclismo</category>
+  </programme>
+  <programme start="20220520020000 -0300" stop="20220520050000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520050000 -0300" stop="20220520060000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220520060000 -0300" stop="20220520093000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520093000 -0300" stop="20220520100000 -0300" channel="ESPN 2">
+    <title lang="es">LO MEJOR DE MOTOGP</title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <category lang="es">Motociclismo</category>
+  </programme>
+  <programme start="20220520100000 -0300" stop="20220520110000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520110000 -0300" stop="20220520120000 -0300" channel="ESPN 2">
+    <title lang="es">SIMPLEMENTE FÚTBOL</title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20220520120000 -0300" stop="20220520150000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220520150000 -0300" stop="20220520210000 -0300" channel="ESPN 2">
+    <title lang="es">PGA CHAMPIONSHIP</title>
+    <sub-title lang="es">Segunda ronda, Southern Hills Country Club, Tulsa,</sub-title>
+    <desc lang="es">Torneo anual de golf organizado por la PGA americana como parte del PGA Tour. Este campeonato es uno de los llamados majors en el golf, y es el segundo de los majors que se juegan cada año.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Golf</category>
+    <country lang="es">EE. UU.</country>
+    <episode-num system="onscreen">T2022 Segunda ronda, Southern Hills Country Club, Tulsa,</episode-num>
+  </programme>
+  <programme start="20220520210000 -0300" stop="20220520220000 -0300" channel="ESPN 2">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220520220000 -0300" stop="20220521000000 -0300" channel="ESPN 2">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220521000000 -0300" stop="20220521120000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220521120000 -0300" stop="20220522000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220522000000 -0300" stop="20220522120000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220522120000 -0300" stop="20220523000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523000000 -0300" stop="20220523120000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523120000 -0300" stop="20220524000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524000000 -0300" stop="20220524120000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524120000 -0300" stop="20220525000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518003000 -0300" stop="20220518013000 -0300" channel="ESPN">
+    <title lang="es">SPORTSCENTER</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20220518013000 -0300" stop="20220518123000 -0300" channel="ESPN">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518123000 -0300" stop="20220518154500 -0300" channel="ESPN">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518154500 -0300" stop="20220518180000 -0300" channel="ESPN">
+    <title lang="es">UEFA EUROPA LEAGUE</title>
+    <sub-title lang="es">Final, Estadio Ramón Sánchez-Pizjuán</sub-title>
+    <desc lang="es">Será la 51ra edición de la segunda competición más importante por equipos de Europa. El Estadio Ramón Sánchez-Pizjuán, en España, será la sede de la final.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <episode-num system="onscreen">T2021-2022 Final, Estadio Ramón Sánchez-Pizjuán</episode-num>
+  </programme>
+  <programme start="20220518180000 -0300" stop="20220518232500 -0300" channel="ESPN">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518232500 -0300" stop="20220519000000 -0300" channel="ESPN">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">Todos los compactos de los partidos de la fecha, el mejor entendimiento del juego y, por supuesto, el análisis de todas las polémicas que se presenten.(n)</desc>
+    <credits>
+      <actor>Gustavo López</actor>
+      <actor>Leonardo Astrada</actor>
+      <actor>Javier Castrilli</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20220519000000 -0300" stop="20220519003000 -0300" channel="ESPN">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">Todos los compactos de los partidos de la fecha, el mejor entendimiento del juego y, por supuesto, el análisis de todas las polémicas que se presenten.(n)</desc>
+    <credits>
+      <actor>Gustavo López</actor>
+      <actor>Leonardo Astrada</actor>
+      <actor>Javier Castrilli</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20220519003000 -0300" stop="20220519120000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519120000 -0300" stop="20220520000000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520000000 -0300" stop="20220520120000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520120000 -0300" stop="20220521000000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220521000000 -0300" stop="20220521120000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220521120000 -0300" stop="20220522000000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220522000000 -0300" stop="20220522120000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220522120000 -0300" stop="20220523000000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523000000 -0300" stop="20220523120000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523120000 -0300" stop="20220524000000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524000000 -0300" stop="20220524120000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524120000 -0300" stop="20220525000000 -0300" channel="ESPN">
+    <title lang="es">ESPN</title>
+    <category lang="es">Deportivo</category>
+  </programme>
   <programme start="20220518000000 -0300" stop="20220518120000 -0300" channel="ESPN 3">
     <title lang="es">ESPN 3</title>
     <category lang="es">Deportivo</category>
@@ -15592,6 +15894,397 @@
   </programme>
   <programme start="20220522120000 -0300" stop="20220523000000 -0300" channel="ESPN 3">
     <title lang="es">ESPN 3</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523000000 -0300" stop="20220523120000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN 3</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523120000 -0300" stop="20220524000000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN 3</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524000000 -0300" stop="20220524120000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN 3</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524120000 -0300" stop="20220525000000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN 3</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518000000 -0300" stop="20220518003000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518003000 -0300" stop="20220518010000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220518010000 -0300" stop="20220518020000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518020000 -0300" stop="20220518040000 -0300" channel="ESPN Extra">
+    <title lang="es">SERIE A</title>
+    <sub-title lang="es">Milan vs. Atalanta, Fecha 37, Estadio Giuseppe Mea</sub-title>
+    <desc lang="es">Será la nonagésima edición de la máxima competición futbolística de Italia, desde su creación en 1929.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">T2021-2022 Milan vs. Atalanta, Fecha 37, Estadio Giuseppe Mea</episode-num>
+  </programme>
+  <programme start="20220518040000 -0300" stop="20220518050000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA LIGUE 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Francia</country>
+  </programme>
+  <programme start="20220518050000 -0300" stop="20220518080000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518080000 -0300" stop="20220518083000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN RUN</title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20220518083000 -0300" stop="20220518090000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN X</title>
+    <desc lang="es">Todos los deportes extremos en un solo lugar, con historias que inspiran y motivan no solo a quienes practiquen estos deportes, sino que también a aquellos que disfrutan verlos.(n)</desc>
+    <date>2012</date>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20220518090000 -0300" stop="20220518120000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518120000 -0300" stop="20220518140000 -0300" channel="ESPN Extra">
+    <title lang="es">SÚPER LIGA AMERICANA DE RUGBY</title>
+    <sub-title lang="es">Peñarol vs. Selknam</sub-title>
+    <desc lang="es">La Súper Liga Americana de Rugby es el único campeonato de rugby profesional en América del Sur. Existe desde 2020 y es organizado por Sudamérica Rugby.(n)</desc>
+    <category lang="es">Rugby</category>
+    <country lang="es">Argentina</country>
+    <episode-num system="onscreen">T2022 Peñarol vs. Selknam</episode-num>
+  </programme>
+  <programme start="20220518140000 -0300" stop="20220518160000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518160000 -0300" stop="20220518170000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA EREDIVISIE</title>
+    <desc lang="es">Los goles del fútbol holandés.(n)</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220518170000 -0300" stop="20220518180000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA SERIE A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20220518180000 -0300" stop="20220518183000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220518183000 -0300" stop="20220518190000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA UEFA EUROPA LEAGUE Y UEFA CONFERENCE L</title>
+    <desc lang="es">Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220518190000 -0300" stop="20220518200000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518200000 -0300" stop="20220518210000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN COMPACT - SERIE A</title>
+    <sub-title lang="es">Cagliari vs. Inter, Fecha 37, Sardegna Arena</sub-title>
+    <desc lang="es">Vive un resumen de lo que será la nonagésima edición de la máxima competición futbolística de Italia, desde su creación en 1929.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">T2021-2022 Cagliari vs. Inter, Fecha 37, Sardegna Arena</episode-num>
+  </programme>
+  <programme start="20220518210000 -0300" stop="20220518220000 -0300" channel="ESPN Extra">
+    <title lang="es">PGA TOUR HIGHLIGHTS - AT&amp;T BYRON NELSON</title>
+    <date>2022</date>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20220518220000 -0300" stop="20220518230000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220518230000 -0300" stop="20220519000000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA SERIE A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20220519000000 -0300" stop="20220519010000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA EREDIVISIE</title>
+    <desc lang="es">Los goles del fútbol holandés.(n)</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220519010000 -0300" stop="20220519020000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA LIGUE 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Francia</country>
+  </programme>
+  <programme start="20220519020000 -0300" stop="20220519040000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519040000 -0300" stop="20220519050000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA SERIE A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20220519050000 -0300" stop="20220519060000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519060000 -0300" stop="20220519070000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN TENIS</title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20220519070000 -0300" stop="20220519080000 -0300" channel="ESPN Extra">
+    <title lang="es">PGA TOUR HIGHLIGHTS - AT&amp;T BYRON NELSON</title>
+    <date>2022</date>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20220519080000 -0300" stop="20220519090000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519090000 -0300" stop="20220519100000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA LIGUE 1</title>
+    <desc lang="es">Lo mejor de la primera división del fútbol francés.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Francia</country>
+  </programme>
+  <programme start="20220519100000 -0300" stop="20220519120000 -0300" channel="ESPN Extra">
+    <title lang="es">UEFA EUROPA LEAGUE</title>
+    <sub-title lang="es">Final, Estadio Ramón Sánchez-Pizjuán</sub-title>
+    <desc lang="es">Será la 51ra edición de la segunda competición más importante por equipos de Europa. El Estadio Ramón Sánchez-Pizjuán, en España, será la sede de la final.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <episode-num system="onscreen">T2021-2022 Final, Estadio Ramón Sánchez-Pizjuán</episode-num>
+  </programme>
+  <programme start="20220519120000 -0300" stop="20220519123000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519123000 -0300" stop="20220519130000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220519130000 -0300" stop="20220519150000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519150000 -0300" stop="20220519160000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN TENIS</title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20220519160000 -0300" stop="20220519170000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220519170000 -0300" stop="20220519180000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA EREDIVISIE</title>
+    <desc lang="es">Los goles del fútbol holandés.(n)</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220519180000 -0300" stop="20220519190000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA SERIE A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20220519190000 -0300" stop="20220520000000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520000000 -0300" stop="20220520003000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA UEL &amp; UECL</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220520003000 -0300" stop="20220520040000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520040000 -0300" stop="20220520043000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN RUN</title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20220520043000 -0300" stop="20220520050000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520050000 -0300" stop="20220520053000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220520053000 -0300" stop="20220520063000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520063000 -0300" stop="20220520070000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA UEL &amp; UECL</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220520070000 -0300" stop="20220520080000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520080000 -0300" stop="20220520083000 -0300" channel="ESPN Extra">
+    <title lang="es">AGUAS ARRIBA</title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Caza y Pesca</category>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20220520083000 -0300" stop="20220520100000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520100000 -0300" stop="20220520110000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA EREDIVISIE</title>
+    <desc lang="es">Los goles del fútbol holandés.(n)</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220520110000 -0300" stop="20220520120000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA SERIE A</title>
+    <desc lang="es">El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20220520120000 -0300" stop="20220520130000 -0300" channel="ESPN Extra">
+    <title lang="es">PGA TOUR HIGHLIGHTS - AT&amp;T BYRON NELSON</title>
+    <date>2022</date>
+    <category lang="es">Golf</category>
+  </programme>
+  <programme start="20220520130000 -0300" stop="20220520140000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN TENIS</title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20220520140000 -0300" stop="20220520150000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520150000 -0300" stop="20220520153000 -0300" channel="ESPN Extra">
+    <title lang="es">GOLES DE LA UEL &amp; UECL</title>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220520153000 -0300" stop="20220520160000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520160000 -0300" stop="20220520163000 -0300" channel="ESPN Extra">
+    <title lang="es">SERIE A - PREVIEW SHOW</title>
+    <desc lang="es">Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. Se lucha en varios frentes: el título, la clasificación a la Champions League, la Copa UEFA y esquivar la zona de descenso.(n)</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20220520163000 -0300" stop="20220520180000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520180000 -0300" stop="20220520183000 -0300" channel="ESPN Extra">
+    <title lang="es">A.T.P. TOUR MAGAZINE</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <category lang="es">Documental</category>
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220520183000 -0300" stop="20220520190000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520190000 -0300" stop="20220520210000 -0300" channel="ESPN Extra">
+    <title lang="es">LIGUE 1 UBER EATS</title>
+    <sub-title lang="es">Paris Saint-Germain vs. FC Metz, Fecha 38, Parc de</sub-title>
+    <desc lang="es">La octogésima cuarta edición de la Liga Francesa de fútbol, el torneo organizado por la Ligue de Football Professionnel.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">T2021-2022 Paris Saint-Germain vs. FC Metz, Fecha 38, Parc de</episode-num>
+  </programme>
+  <programme start="20220520210000 -0300" stop="20220520220000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN TENIS</title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Tenis</category>
+  </programme>
+  <programme start="20220520220000 -0300" stop="20220520230000 -0300" channel="ESPN Extra">
+    <title lang="es">A CONFIRMAR</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220520230000 -0300" stop="20220521000000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN KNOCKOUT</title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20220521000000 -0300" stop="20220521120000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220521120000 -0300" stop="20220522000000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220522000000 -0300" stop="20220522120000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220522120000 -0300" stop="20220523000000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523000000 -0300" stop="20220523120000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220523120000 -0300" stop="20220524000000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524000000 -0300" stop="20220524120000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20220524120000 -0300" stop="20220525000000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN EXTRA</title>
     <category lang="es">Deportivo</category>
   </programme>
 </tv>
