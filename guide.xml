@@ -10,10 +10,6 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/661.png" />
     <url>http://www.directv.com.uy</url>
   </channel>
-  <channel id="GOL PERU HD (GOL PERU HD)">
-    <display-name lang="es">Gol Peru (Peru)</display-name>
-    <url>http://www.movistar.com.pe</url>
-  </channel>
   <channel id="Canal FUTV">
     <display-name lang="es">FUTV (Costa Rica)</display-name>
     <url>http://www.gatotv.com</url>
@@ -111,6 +107,15 @@
   <channel id="Canal TeenNick">
     <display-name lang="es">TeenNick</display-name>
     <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX Sports 3(FXS3)(609)">
+    <display-name lang="es">FOX Sports 3 (Argentina)</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/609.png" />
+    <url>http://www.directv.com.ar</url>
+  </channel>
+  <channel id="ESPN Premium (SD) (ESPP)(604)">
+    <display-name lang="es">ESPN Premium (Argentina)</display-name>
+    <url>http://www.directv.com.ar</url>
   </channel>
   <programme start="20220524233000 -0300" stop="20220525003000 -0300" channel="VTV PLUS(VTV PLUS)(661)">
     <title lang="es">Live: Pasión Noticias</title>
@@ -3969,9 +3974,6 @@
   <programme start="20220527061100 -0300" stop="20220527070000 -0300" channel="Canal Discovery Channel (Chile)">
     <title lang="es">Clandestinos - especial</title>
     <episode-num system="onscreen">E15</episode-num>
-  </programme>
-  <programme start="20220527111800 -0300" stop="20220527121500 -0300" channel="Canal Discovery Channel (Chile)">
-    <title lang="es">Vidas remotas</title>
   </programme>
   <programme start="20220527121500 -0300" stop="20220527131200 -0300" channel="Canal Discovery Channel (Chile)">
     <title lang="es">Todos contra Ed Stafford</title>
@@ -20916,5 +20918,1056 @@
     <category lang="es">Juvenil</category>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
+  <programme start="20220524010000 -0300" stop="20220524020000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Review : Final Champions League: Tottenham vs. Liverpool</title>
+    <sub-title lang="es">Final Champions League: Tottenham vs. Liverpool</sub-title>
+    <desc lang="es">Los momentos más destacados de cada partido y los goles más excepcionales.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524020000 -0300" stop="20220524040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Ramón Díaz</title>
+    <desc lang="es">Programa especial sobre el ex-fubolista argentino Ramón Ángel Díaz quien después de retirarse como jugador hizo una exitosa carrera como entrenador en el Club Atlético River Plate al que ahora vuelve después de años de ausencia.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524040000 -0300" stop="20220524050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524050000 -0300" stop="20220524070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: San Lorenzo vs. Racing : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: San Lorenzo vs. Racing</sub-title>
+    <desc lang="es">Primera fecha del Fútbol Argentino. San Lorenzo enfrenta a Racing. Partido disputado el 27 de agosto de 2017 en el estadio Pedro Bidegain.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524070000 -0300" stop="20220524090000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Athletico Paranaense vs. Libertad : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Athletico Paranaense vs. Libertad : Copa Libertadores Soccer</title>
+    <sub-title lang="es">Athletico Paranaense vs. Libertad</sub-title>
+    <desc lang="es">Jornada 5 del Grupo B. Athletico Paranaense contra Libertad en el estadio Arena da Baixada. El Gumarelo, líder de la zona, ganó por 1-0 el juego disputado en Asunción con gol de Riveros. El Furacão busca un triunfo para alcanzar la línea de su rival.(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524090000 -0300" stop="20220524100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UEFA Champions League Classics</title>
+    <desc lang="es">Algunos de los mejores momentos y clásicos de la Liga de Campeones UEFA con los clubes y las estrellas futbolísticas más importantes de Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220524100000 -0300" stop="20220524110000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE Raw: Highlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524110000 -0300" stop="20220524130000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Clásicos</title>
+    <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524130000 -0300" stop="20220524150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Athletico Paranaense vs. Libertad : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Athletico Paranaense vs. Libertad : Copa Libertadores Soccer</title>
+    <sub-title lang="es">Athletico Paranaense vs. Libertad</sub-title>
+    <desc lang="es">Jornada 5 del Grupo B. Athletico Paranaense contra Libertad en el estadio Arena da Baixada. El Gumarelo, líder de la zona, ganó por 1-0 el juego disputado en Asunción con gol de Riveros. El Furacão busca un triunfo para alcanzar la línea de su rival.(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Fútbol</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524150000 -0300" stop="20220524170000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Riquelme</title>
+    <desc lang="es">El retiro de Juan Román Riquelme, el último de su generación.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524170000 -0300" stop="20220524190000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: Rosario Central vs. Estudiantes (LP) : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Rosario Central vs. Estudiantes (LP)</sub-title>
+    <desc lang="es">Jornada 27. Partido disputado el 14 de mayo de 2018.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524190000 -0300" stop="20220524200000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524200000 -0300" stop="20220524203000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Momentos eternos</title>
+    <desc lang="es">Repaso de momentos históricos en las diferentes disciplinas deportivas contados por sus propios protagonistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524203000 -0300" stop="20220524210000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Review : Copa Libertadores 2022: Bragantino vs. Estudiantes</title>
+    <sub-title lang="es">Copa Libertadores 2022: Bragantino vs. Estudiantes</sub-title>
+    <desc lang="es">Repaso de los mejores momentos del partido correspondiente a la Jornada 5 del Grupo C. Disputado el 17 de mayo de 2022.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524210000 -0300" stop="20220524233000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Palmeiras vs. Deportivo Táchira : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Palmeiras vs. Deportivo Táchira : Copa Libertadores Soccer - Palmeiras vs. Deportivo Táchira</title>
+    <sub-title lang="es">Palmeiras vs. Deportivo Táchira</sub-title>
+    <desc lang="es">Jornada 6 del Grupo A. Palmeiras recibe a Deportivo Táchira en el estadio Allianz Parque. El Atigrado precisa de una victoria para no depender del resultado de Deportivo Táchira e Independiente Petrolero. El Verdão busca cerrar con puntaje ideal.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524233000 -0300" stop="20220525010000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Clásicos</title>
+    <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525010000 -0300" stop="20220525020000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Unleashed</title>
+    <desc lang="es">Presentando los más grandes momentos de la enorme biblioteca de metraje de lucha de la UFC.(n)</desc>
+    <rating system="AR">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220525020000 -0300" stop="20220525040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Riquelme</title>
+    <desc lang="es">El retiro de Juan Román Riquelme, el último de su generación.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525040000 -0300" stop="20220525050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525050000 -0300" stop="20220525070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: Rosario Central vs. Estudiantes (LP) : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Rosario Central vs. Estudiantes (LP)</sub-title>
+    <desc lang="es">Jornada 27. Partido disputado el 14 de mayo de 2018.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525070000 -0300" stop="20220525090000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Emelec vs. Independiente Petrolero : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">C.S. Emelec vs. Independiente Petrolero : Copa Libertadores Soccer - C.S. Emelec vs. Independiente Petrolero</title>
+    <sub-title lang="es">Emelec vs. Independiente Petrolero</sub-title>
+    <desc lang="es">Jornada 6 del Grupo A. Emelec recibe a Independiente Petrolero en el estadio George Capwell. Los eléctricos deben ganar y esperar a que Deportivo Táchira no consiga la victoria ante Palmeiras. El Albirrojo ya quedó eliminado.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525090000 -0300" stop="20220525100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UEFA Champions League Classics</title>
+    <desc lang="es">Algunos de los mejores momentos y clásicos de la Liga de Campeones UEFA con los clubes y las estrellas futbolísticas más importantes de Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220525100000 -0300" stop="20220525110000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE Vintage</title>
+    <desc lang="es">Una mirada a los clásicos combates de la WWE.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220525110000 -0300" stop="20220525130000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Clásicos</title>
+    <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525130000 -0300" stop="20220525150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Emelec vs. Independiente Petrolero : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">C.S. Emelec vs. Independiente Petrolero : Copa Libertadores Soccer - C.S. Emelec vs. Independiente Petrolero</title>
+    <sub-title lang="es">Emelec vs. Independiente Petrolero</sub-title>
+    <desc lang="es">Jornada 6 del Grupo A. Emelec recibe a Independiente Petrolero en el estadio George Capwell. Los eléctricos deben ganar y esperar a que Deportivo Táchira no consiga la victoria ante Palmeiras. El Albirrojo ya quedó eliminado.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525150000 -0300" stop="20220525170000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Bianchi</title>
+    <desc lang="es">La Era Bianchi es un exclusivo especial sobre los logros del Boca Juniors tras el paso del "Virrey" Carlos Bianchi por el equipo quien tuvo como prioridad convertir el equipo en uno de los mejores del mundo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525170000 -0300" stop="20220525190000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: Boca vs. Tigre : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Boca vs. Tigre</sub-title>
+    <desc lang="es">Jornada 19. Disputado el 11 de marzo de 2018.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525190000 -0300" stop="20220525210000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2016-2017: Newell's vs. Independiente : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2016-2017: Newell's vs. Independiente</sub-title>
+    <desc lang="es">Jornada 23. Partido disputado el 7 de mayo de 2017.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525210000 -0300" stop="20220525230000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Cerro Porteño vs. Olimpia : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Cerro Porteño vs. Olimpia : Copa Libertadores Soccer - Cerro Porteño vs. Olimpia</title>
+    <sub-title lang="es">Cerro Porteño vs. Olimpia</sub-title>
+    <desc lang="es">Jornada 6 del Grupo G. Cerro Porteño recibe a Olimpia en el estadio General Pablo Rojas. El Ciclón clasifica con el empate, mientras que al Decano solo le sirve ganar por dos goles de diferencia.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525230000 -0300" stop="20220526010000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Bianchi</title>
+    <desc lang="es">La Era Bianchi es un exclusivo especial sobre los logros del Boca Juniors tras el paso del "Virrey" Carlos Bianchi por el equipo quien tuvo como prioridad convertir el equipo en uno de los mejores del mundo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526010000 -0300" stop="20220526020000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">Programa de evento de artes marciales.(n)</desc>
+    <rating system="AR">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220526020000 -0300" stop="20220526040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <title lang="es">Formula One - Gran Premio de Canadá 2019</title>
+    <sub-title lang="es">Gran Premio de Canadá 2019</sub-title>
+    <desc lang="es">Acción del Gran Premio de Canadá, Fecha 7 del calendario 2019 de la Fórmula 1. Desde el Circuit Gilles-Villeneuve, en Montreal.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526040000 -0300" stop="20220526050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526050000 -0300" stop="20220526070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: Boca vs. Tigre : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Boca vs. Tigre</sub-title>
+    <desc lang="es">Jornada 19. Disputado el 11 de marzo de 2018.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526070000 -0300" stop="20220526090000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Cerro Porteño vs. Olimpia : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Cerro Porteño vs. Olimpia : Copa Libertadores Soccer - Cerro Porteño vs. Olimpia</title>
+    <sub-title lang="es">Cerro Porteño vs. Olimpia</sub-title>
+    <desc lang="es">Jornada 6 del Grupo G. Cerro Porteño recibe a Olimpia en el estadio General Pablo Rojas. El Ciclón clasifica con el empate, mientras que al Decano solo le sirve ganar por dos goles de diferencia.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526090000 -0300" stop="20220526100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526100000 -0300" stop="20220526110000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220526110000 -0300" stop="20220526130000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Clásicos</title>
+    <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526130000 -0300" stop="20220526150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Cerro Porteño vs. Olimpia : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Cerro Porteño vs. Olimpia : Copa Libertadores Soccer - Cerro Porteño vs. Olimpia</title>
+    <sub-title lang="es">Cerro Porteño vs. Olimpia</sub-title>
+    <desc lang="es">Jornada 6 del Grupo G. Cerro Porteño recibe a Olimpia en el estadio General Pablo Rojas. El Ciclón clasifica con el empate, mientras que al Decano solo le sirve ganar por dos goles de diferencia.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526150000 -0300" stop="20220526170000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Palermo</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526170000 -0300" stop="20220526190000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: River Plate vs. Olimpo : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: River Plate vs. Olimpo</sub-title>
+    <desc lang="es">Partido correspondiente a la fecha 14 de la Superliga 2017-2018. Del 3 de febrero de 2018.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526190000 -0300" stop="20220526210000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2016-2017: Boca vs. Unión (SF) : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2016-2017: Boca vs. Unión (SF)</sub-title>
+    <desc lang="es">Disputado el 25 de junio de 2017.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526210000 -0300" stop="20220526213000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526213000 -0300" stop="20220526220000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Más Motor</title>
+    <desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526220000 -0300" stop="20220526230000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220526230000 -0300" stop="20220527010000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Palermo</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527010000 -0300" stop="20220527020000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Clásicos</title>
+    <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527020000 -0300" stop="20220527040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <title lang="es">Formula 1 - 2019 Grand Prix de France</title>
+    <sub-title lang="es">Gran Premio de Francia 2019</sub-title>
+    <desc lang="es">Octava fecha del calendario 2019 de la Fórmula 1. Desde el circuito de Paul Ricard, del 23 de junio de 2019, en Francia. Temporada:2020,Episodio:128.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2020 E128</episode-num>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527040000 -0300" stop="20220527050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527050000 -0300" stop="20220527070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: River Plate vs. Olimpo : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: River Plate vs. Olimpo</sub-title>
+    <desc lang="es">Partido correspondiente a la fecha 14 de la Superliga 2017-2018. Del 3 de febrero de 2018.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527070000 -0300" stop="20220527090000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Emelec vs. Independiente Petrolero : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">C.S. Emelec vs. Independiente Petrolero : Copa Libertadores Soccer - C.S. Emelec vs. Independiente Petrolero</title>
+    <sub-title lang="es">Emelec vs. Independiente Petrolero</sub-title>
+    <desc lang="es">Jornada 6 del Grupo A. Emelec recibe a Independiente Petrolero en el estadio George Capwell. Los eléctricos deben ganar y esperar a que Deportivo Táchira no consiga la victoria ante Palmeiras. El Albirrojo ya quedó eliminado.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527090000 -0300" stop="20220527093000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Más Motor</title>
+    <desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527093000 -0300" stop="20220527100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Momentos eternos</title>
+    <desc lang="es">Repaso de momentos históricos en las diferentes disciplinas deportivas contados por sus propios protagonistas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527100000 -0300" stop="20220527110000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">Los combates más esperados de la WWE, con todas las súper estrellas y divas.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220527110000 -0300" stop="20220527130000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">UFC Clásicos</title>
+    <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527130000 -0300" stop="20220527150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Emelec vs. Independiente Petrolero : Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">C.S. Emelec vs. Independiente Petrolero : Copa Libertadores Soccer - C.S. Emelec vs. Independiente Petrolero</title>
+    <sub-title lang="es">Emelec vs. Independiente Petrolero</sub-title>
+    <desc lang="es">Jornada 6 del Grupo A. Emelec recibe a Independiente Petrolero en el estadio George Capwell. Los eléctricos deben ganar y esperar a que Deportivo Táchira no consiga la victoria ante Palmeiras. El Albirrojo ya quedó eliminado.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527150000 -0300" stop="20220527170000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Pekerman</title>
+    <desc lang="es">Programa especial del exfutbolista y actual director técnico argentino nacido en Villa Domínguez, José Néstor Pekerman.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527170000 -0300" stop="20220527190000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: Independiente vs. Huracán : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Independiente vs. Huracán</sub-title>
+    <desc lang="es">Partido correspondiente a la fecha 1 de la Superliga 2017-2018. Del 25 de agosto de 2017.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527190000 -0300" stop="20220527210000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2016-2017: San Lorenzo vs. Rosario Central : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2016-2017: San Lorenzo vs. Rosario Central</sub-title>
+    <desc lang="es">Jornada 23. Disputado el 7 de mayo de 2017.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527210000 -0300" stop="20220527220000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Review : Champions League 2017-2018: Real Madrid vs. Liverpool</title>
+    <sub-title lang="es">Champions League 2017-2018: Real Madrid vs. Liverpool</sub-title>
+    <desc lang="es">Resumen correspondiente a la final de la temporada 2017-2018, con el partido entre Real Madrid y Liverpool.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527220000 -0300" stop="20220527230000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Review : Final Champions League: Tottenham vs. Liverpool</title>
+    <sub-title lang="es">Final Champions League: Tottenham vs. Liverpool</sub-title>
+    <desc lang="es">Los momentos más destacados de cada partido y los goles más excepcionales.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220527230000 -0300" stop="20220528010000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">La Era Pekerman</title>
+    <desc lang="es">Programa especial del exfutbolista y actual director técnico argentino nacido en Villa Domínguez, José Néstor Pekerman.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528010000 -0300" stop="20220528020000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE Raw: Highlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528020000 -0300" stop="20220528040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <title lang="es">Formula One - Gran Premio de Australia 2019</title>
+    <sub-title lang="es">Gran Premio de Australia 2019</sub-title>
+    <desc lang="es">Fecha 1 del calendario 2019. Acción del Gran Premio de Australia, desde Melbourne.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528040000 -0300" stop="20220528050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Expediente fútbol</title>
+    <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528050000 -0300" stop="20220528060000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">2017-2018: Independiente vs. Huracán : Fútbol Argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Independiente vs. Huracán</sub-title>
+    <desc lang="es">Partido correspondiente a la fecha 1 de la Superliga 2017-2018. Del 25 de agosto de 2017.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528060000 -0300" stop="20220528070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central Fox Nitro Industria</title>
+    <desc lang="es">Un noticiero con todas las novedades de la industria automotriz en Latinoamérica y en el mundo. Con enviados especiales en México, Chile, Estados Unidos y Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528070000 -0300" stop="20220528080000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Motociclismo Extremo</title>
+    <desc lang="es">Transmisiones de competencias de motocross.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528080000 -0300" stop="20220528090000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central Fox Nitro Industria</title>
+    <desc lang="es">Un noticiero con todas las novedades de la industria automotriz en Latinoamérica y en el mundo. Con enviados especiales en México, Chile, Estados Unidos y Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528090000 -0300" stop="20220528100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Stop and Go</title>
+    <desc lang="es">Programa que cubre diversas actividades relacionadas al deporte y los autos, llevando lo mejor del estilo de vida, música y viajes por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528100000 -0300" stop="20220528103000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Motocross World Championship</title>
+    <desc lang="es">Retransmisión del campeonato mundial de motocross de la Federación Internacional de Motociclismo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528103000 -0300" stop="20220528110000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Rally on Board</title>
+    <desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528110000 -0300" stop="20220528120000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Motociclismo Extremo</title>
+    <desc lang="es">Transmisiones de competencias de motocross.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528120000 -0300" stop="20220528130000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528130000 -0300" stop="20220528140000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528140000 -0300" stop="20220528150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Stop and Go</title>
+    <desc lang="es">Programa que cubre diversas actividades relacionadas al deporte y los autos, llevando lo mejor del estilo de vida, música y viajes por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528150000 -0300" stop="20220528153000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Motocross World Championship</title>
+    <desc lang="es">Retransmisión del campeonato mundial de motocross de la Federación Internacional de Motociclismo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528153000 -0300" stop="20220528160000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Rally on Board</title>
+    <desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528160000 -0300" stop="20220528163000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">GP 1</title>
+    <desc lang="es">Un programa con todo lo que no se puede ver de la Fórmula Uno. Qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528163000 -0300" stop="20220528183000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Fórmula E</title>
+    <title lang="es">Formula E Racing</title>
+    <desc lang="es">Cobertura de las carreras de monoplazas de los mejores circuitos de la Fórmula E.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220528183000 -0300" stop="20220528193000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Será anunciado</title>
+    <title lang="es">To Be Announced</title>
+    <desc lang="es">Programación que se anunciará.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220528193000 -0300" stop="20220528200000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Pasión extrema</title>
+    <desc lang="es">Conociendo los personajes, los ritos y la pasión sobre deportes extremos como el surfing, snowboard y skateboard.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528200000 -0300" stop="20220528210000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central Fox Nitro Industria</title>
+    <desc lang="es">Un noticiero con todas las novedades de la industria automotriz en Latinoamérica y en el mundo. Con enviados especiales en México, Chile, Estados Unidos y Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528210000 -0300" stop="20220528220000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Stop and Go</title>
+    <desc lang="es">Programa que cubre diversas actividades relacionadas al deporte y los autos, llevando lo mejor del estilo de vida, música y viajes por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220528220000 -0300" stop="20220528230000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Será anunciado</title>
+    <title lang="es">To Be Announced</title>
+    <desc lang="es">Programación que se anunciará.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220528230000 -0300" stop="20220529000000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529000000 -0300" stop="20220529010000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529010000 -0300" stop="20220529030000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Stop and Go</title>
+    <desc lang="es">Programa que cubre diversas actividades relacionadas al deporte y los autos, llevando lo mejor del estilo de vida, música y viajes por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529030000 -0300" stop="20220529040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Será anunciado</title>
+    <title lang="es">To Be Announced</title>
+    <desc lang="es">Programación que se anunciará.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220529040000 -0300" stop="20220529043000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Motocross World Championship</title>
+    <desc lang="es">Retransmisión del campeonato mundial de motocross de la Federación Internacional de Motociclismo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529043000 -0300" stop="20220529050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Rally on Board</title>
+    <desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529050000 -0300" stop="20220529063000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central Fox Nitro Industria</title>
+    <desc lang="es">Un noticiero con todas las novedades de la industria automotriz en Latinoamérica y en el mundo. Con enviados especiales en México, Chile, Estados Unidos y Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529063000 -0300" stop="20220529070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Será anunciado</title>
+    <title lang="es">To Be Announced</title>
+    <desc lang="es">Programación que se anunciará.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220529070000 -0300" stop="20220529073000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Mundo G</title>
+    <desc lang="es">Llega a la pantalla la evolución de los deportes, un resumen con las novedades de los torneos de E-Sports más importantes de Latinoamérica y del mundo. Cada semana habrá entrevistas con los referentes más importantes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529073000 -0300" stop="20220529080000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Pasión extrema</title>
+    <desc lang="es">Conociendo los personajes, los ritos y la pasión sobre deportes extremos como el surfing, snowboard y skateboard.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529080000 -0300" stop="20220529090000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Motociclismo Extremo</title>
+    <desc lang="es">Transmisiones de competencias de motocross.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Será anunciado</title>
+    <title lang="es">To Be Announced</title>
+    <desc lang="es">Programación que se anunciará.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220529100000 -0300" stop="20220529120000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo NASCAR</title>
+    <desc lang="es">Carreras de la Copa NASCAR.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529120000 -0300" stop="20220529130000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central Fox Nitro Industria</title>
+    <desc lang="es">Un noticiero con todas las novedades de la industria automotriz en Latinoamérica y en el mundo. Con enviados especiales en México, Chile, Estados Unidos y Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529130000 -0300" stop="20220529133000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Motocross World Championship</title>
+    <desc lang="es">Retransmisión del campeonato mundial de motocross de la Federación Internacional de Motociclismo.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529133000 -0300" stop="20220529140000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Rally on Board</title>
+    <desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529140000 -0300" stop="20220529143000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Fórmula E: Street Racers</title>
+    <title lang="es">Formula E: Sound of the Future</title>
+    <desc lang="es">Un espectáculo de revista dedicada a las carreras de Fórmula E.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220529143000 -0300" stop="20220529150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Fuera de eje</title>
+    <desc lang="es">Programa de deportes alternativos y entrevistas.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529150000 -0300" stop="20220529160000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Motociclismo Extremo</title>
+    <desc lang="es">Transmisiones de competencias de motocross.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529160000 -0300" stop="20220529170000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529170000 -0300" stop="20220529180000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220529180000 -0300" stop="20220529190000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central Fox Nitro Industria</title>
+    <desc lang="es">Un noticiero con todas las novedades de la industria automotriz en Latinoamérica y en el mundo. Con enviados especiales en México, Chile, Estados Unidos y Europa.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529190000 -0300" stop="20220529210000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Fórmula 1</title>
+    <title lang="es">Formula 1 Racing</title>
+    <desc lang="es">La competencia más importante del automovilismo internacional.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529210000 -0300" stop="20220529220000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central FOX Nitro</title>
+    <desc lang="es">Las últimas novedades del automovilismo latinoamericano y mundial.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220529220000 -0300" stop="20220530000000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo NASCAR</title>
+    <desc lang="es">Carreras de la Copa NASCAR.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220530000000 -0300" stop="20220530010000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Central FOX Nitro</title>
+    <desc lang="es">Las últimas novedades del automovilismo latinoamericano y mundial.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220530010000 -0300" stop="20220530020000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Stop and Go</title>
+    <desc lang="es">Programa que cubre diversas actividades relacionadas al deporte y los autos, llevando lo mejor del estilo de vida, música y viajes por el mundo.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220530020000 -0300" stop="20220530040000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Fórmula E</title>
+    <title lang="es">Formula E Racing</title>
+    <desc lang="es">Cobertura de las carreras de monoplazas de los mejores circuitos de la Fórmula E.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530040000 -0300" stop="20220530043000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Pasión extrema</title>
+    <desc lang="es">Conociendo los personajes, los ritos y la pasión sobre deportes extremos como el surfing, snowboard y skateboard.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220530043000 -0300" stop="20220530050000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">GP 1</title>
+    <desc lang="es">Un programa con todo lo que no se puede ver de la Fórmula Uno. Qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530050000 -0300" stop="20220530070000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Motociclismo Extremo</title>
+    <desc lang="es">Transmisiones de competencias de motocross.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220530070000 -0300" stop="20220530100000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">Las mayores estrellas y divas del WWE le dan vida y adrenalina al cuadrilátero.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530100000 -0300" stop="20220530120000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">WWE SmackDown!</title>
+    <desc lang="es">Las superestrellas de la lucha libre se enfrentan para demostrar sus habilidades.(n)</desc>
+    <rating system="AR">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220530120000 -0300" stop="20220530140000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <title lang="es">Formula 1</title>
+    <desc lang="es">Espacio en el que se ofrecen resúmenes con los mejores momentos de las carreras de Fórmula 1, así como repeticiones de carreras completas e históricas.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530140000 -0300" stop="20220530150000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530150000 -0300" stop="20220530160000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIM Superbike</title>
+    <title lang="es">Superbike</title>
+    <desc lang="es">Carreras más apasionantes de Superbikes.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530160000 -0300" stop="20220530170000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Automovilismo Extreme E: Highlights</title>
+    <title lang="es">Extreme E Off-road Racing: Highlights</title>
+    <desc lang="es">Toda la acción de las jornadas del automovilismo eléctrico todoterreno.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530170000 -0300" stop="20220530180000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIA Fórmula 2</title>
+    <title lang="es">FIA Formula 2 Championship</title>
+    <desc lang="es">Toda la acción de la Fórmula 2.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530180000 -0300" stop="20220530190000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIA Fórmula 2</title>
+    <title lang="es">FIA Formula 2 Championship</title>
+    <desc lang="es">Toda la acción de la Fórmula 2.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530190000 -0300" stop="20220530203000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIA Fórmula 2</title>
+    <title lang="es">FIA Formula 2 Championship</title>
+    <desc lang="es">Toda la acción de la Fórmula 2.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530203000 -0300" stop="20220530220000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">Campeonato Mundial Rally</title>
+    <title lang="es">World Rally Championship</title>
+    <desc lang="es">Competencia organizada y regulada por la Federación Internacional de Automovilismo (FIA) que es disputada en diferentes etapas y entornos.(n)</desc>
+    <rating system="AR">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220530220000 -0300" stop="20220530230000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIA World Rally Championship</title>
+    <title lang="es">World Rally Championship</title>
+    <desc lang="es">Disfruta de toda la emoción del FIA World Rally Championship.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220530230000 -0300" stop="20220531000000 -0300" channel="FOX Sports 3(FXS3)(609)">
+    <title lang="es">FIA Fórmula 2</title>
+    <title lang="es">FIA Formula 2 Championship</title>
+    <desc lang="es">Toda la acción de la Fórmula 2.(n)</desc>
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
   </programme>
 </tv>
