@@ -275,8 +275,8 @@
   <programme start="20220629060000 -0300" stop="20220629080000 -0300" channel="Canal Claro Sports">
     <title lang="es">King of the Court Hamburgo, Alemania</title>
   </programme>
-  <programme start="20220629103000 -0300" stop="20220629110000 -0300" channel="Canal Claro Sports">
-    <title lang="es">Fit for Life</title>
+  <programme start="20220629110000 -0300" stop="20220629130000 -0300" channel="Canal Claro Sports">
+    <title lang="es">Peloteando</title>
   </programme>
   <programme start="20220629130000 -0300" stop="20220629140000 -0300" channel="Canal Claro Sports">
     <title lang="es">PGA Tour Internacional - Travelers Championship</title>
@@ -14437,9 +14437,6 @@
   </programme>
   <programme start="20220629060000 -0300" stop="20220629070000 -0300" channel="Canal Fox Sports 3 (Argentina)">
     <title lang="es">The Ultimate Fighter</title>
-  </programme>
-  <programme start="20220629090000 -0300" stop="20220629110000 -0300" channel="Canal Fox Sports 3 (Argentina)">
-    <title lang="es">Fórmula 1</title>
   </programme>
   <programme start="20220629110000 -0300" stop="20220629130000 -0300" channel="Canal Fox Sports 3 (Argentina)">
     <title lang="es">Jornada 3 Fase de grupos Corinthians vs. Boca Juniors</title>
