@@ -69,7 +69,7 @@
     <display-name lang="es">ESPN (ARG)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal ESPN 2 (Argentina)">
+  <channel id="Canal ESPN Internacional">
     <display-name lang="es">ESPN 2 (ARG)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
@@ -274,6 +274,9 @@
   </programme>
   <programme start="20220629060000 -0500" stop="20220629080000 -0500" channel="Canal Claro Sports">
     <title lang="es">King of the Court Hamburgo, Alemania</title>
+  </programme>
+  <programme start="20220629083000 -0500" stop="20220629090000 -0500" channel="Canal Claro Sports">
+    <title lang="es">Fit for Life</title>
   </programme>
   <programme start="20220629130000 -0500" stop="20220629140000 -0500" channel="Canal Claro Sports">
     <title lang="es">PGA Tour Internacional - Travelers Championship</title>
@@ -981,9 +984,6 @@
   </programme>
   <programme start="20220629053800 -0500" stop="20220629063000 -0500" channel="Canal Discovery Channel (Chile)">
     <title lang="es">Historias de fantasmas</title>
-  </programme>
-  <programme start="20220629063000 -0500" stop="20220629070000 -0500" channel="Canal Discovery Channel (Chile)">
-    <title lang="es">Aeropuerto 24/7 Miami</title>
   </programme>
   <programme start="20220629075300 -0500" stop="20220629093900 -0500" channel="Canal Discovery Channel (Chile)">
     <title lang="es">Fiebre del oro</title>
@@ -8529,24 +8529,8 @@
   <programme start="20220702050000 -0500" stop="20220702060000 -0500" channel="Canal ESPN (Argentina)">
     <title lang="es">Simplemente Futbol</title>
   </programme>
-  <programme start="20220702060000 -0500" stop="20220702070000 -0500" channel="Canal ESPN (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  <programme start="20220702080000 -0500" stop="20220702120000 -0500" channel="Canal ESPN (Argentina)">
+    <title lang="es">SportsCenter AM En Vivo</title>
   </programme>
   <programme start="20220702190000 -0500" stop="20220702210000 -0500" channel="Canal ESPN (Argentina)">
     <title lang="es">Equipo F En Vivo</title>
@@ -8899,7 +8883,10 @@
   <programme start="20220705230000 -0500" stop="20220706000000 -0500" channel="Canal ESPN (Argentina)">
     <title lang="es">ESPN F10 En Vivo</title>
   </programme>
-  <programme start="20220628010000 -0500" stop="20220628020000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628010000 -0500" stop="20220628020000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20220628020000 -0500" stop="20220628030000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -8918,7 +8905,7 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220628020000 -0500" stop="20220628030000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628030000 -0500" stop="20220628040000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -8937,7 +8924,10 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220628030000 -0500" stop="20220628040000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628040000 -0500" stop="20220628050000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20220628050000 -0500" stop="20220628060000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -8956,304 +8946,19 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220628040000 -0500" stop="20220628050000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220628050000 -0500" stop="20220628053000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN X</title>
-  </programme>
-  <programme start="20220628053000 -0500" stop="20220628060000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628060000 -0500" stop="20220628063000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">ESPN Run</title>
   </programme>
-  <programme start="20220628060000 -0500" stop="20220628070000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220628070000 -0500" stop="20220628080000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220628080000 -0500" stop="20220628120000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter AM En Vivo</title>
-  </programme>
-  <programme start="20220628120000 -0500" stop="20220628130000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F12 En Vivo</title>
-  </programme>
-  <programme start="20220628130000 -0500" stop="20220628150000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F90 Primera edición En Vivo</title>
-  </programme>
-  <programme start="20220628150000 -0500" stop="20220628170000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F360 En Vivo</title>
-  </programme>
-  <programme start="20220628170000 -0500" stop="20220628190000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220628190000 -0500" stop="20220628211500 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Nacional vs. Unión (SF) En Vivo</title>
-  </programme>
-  <programme start="20220628211500 -0500" stop="20220628232500 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Colo-Colo vs. Internacional En Vivo</title>
-  </programme>
-  <programme start="20220628232500 -0500" stop="20220629003000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F10 En Vivo</title>
-  </programme>
-  <programme start="20220629003000 -0500" stop="20220629013000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629013000 -0500" stop="20220629023000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629023000 -0500" stop="20220629033000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629033000 -0500" stop="20220629043000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629043000 -0500" stop="20220629050000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN X</title>
-  </programme>
-  <programme start="20220629050000 -0500" stop="20220629053000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN W</title>
-  </programme>
-  <programme start="20220629053000 -0500" stop="20220629060000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN Yoga</title>
-  </programme>
-  <programme start="20220629060000 -0500" stop="20220629070000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629070000 -0500" stop="20220629080000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629080000 -0500" stop="20220629120000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter AM En Vivo</title>
-  </programme>
-  <programme start="20220629120000 -0500" stop="20220629130000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F12 En Vivo</title>
-  </programme>
-  <programme start="20220629130000 -0500" stop="20220629150000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F90 Primera edición En Vivo</title>
-  </programme>
-  <programme start="20220629150000 -0500" stop="20220629170000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F360 En Vivo</title>
-  </programme>
-  <programme start="20220629170000 -0500" stop="20220629190000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629190000 -0500" stop="20220629210000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Equipo F En Vivo</title>
-  </programme>
-  <programme start="20220629210000 -0500" stop="20220629233000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220629233000 -0500" stop="20220630003000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F10 En Vivo</title>
-  </programme>
-  <programme start="20220630233000 -0500" stop="20220701003000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F10 En Vivo</title>
-  </programme>
-  <programme start="20220701043000 -0500" stop="20220701050000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN W</title>
-  </programme>
-  <programme start="20220701050000 -0500" stop="20220701053000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628063000 -0500" stop="20220628070000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">ESPN Run</title>
   </programme>
-  <programme start="20220701053000 -0500" stop="20220701060000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN X</title>
+  <programme start="20220628070000 -0500" stop="20220628150000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Wimbledon</title>
   </programme>
-  <programme start="20220701190000 -0500" stop="20220701211500 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Independiente del Valle vs. Lanús En Vivo</title>
+  <programme start="20220628150000 -0500" stop="20220628170000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20220701211500 -0500" stop="20220701220000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628170000 -0500" stop="20220628180000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -9272,7 +8977,10 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220701220000 -0500" stop="20220701233000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628180000 -0500" stop="20220628190000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20220628190000 -0500" stop="20220628195000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -9291,7 +8999,10 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220702013000 -0500" stop="20220702023000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220628195000 -0500" stop="20220628220000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Cuartos de final</title>
+  </programme>
+  <programme start="20220628220000 -0500" stop="20220628225000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -9310,13 +9021,22 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220702043000 -0500" stop="20220702050000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN Yoga</title>
+  <programme start="20220628225000 -0500" stop="20220629010000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Cuartos de final</title>
   </programme>
-  <programme start="20220702050000 -0500" stop="20220702060000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Simplemente Futbol</title>
+  <programme start="20220629225000 -0500" stop="20220630010000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Cuartos de final</title>
   </programme>
-  <programme start="20220702060000 -0500" stop="20220702070000 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220630060000 -0500" stop="20220630070000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">El show de la F1</title>
+  </programme>
+  <programme start="20220630070000 -0500" stop="20220630150000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Wimbledon</title>
+  </programme>
+  <programme start="20220630150000 -0500" stop="20220630170000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20220630170000 -0500" stop="20220630180000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -9335,10 +9055,10 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220702190000 -0500" stop="20220702210000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Equipo F En Vivo</title>
+  <programme start="20220630180000 -0500" stop="20220630190000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">ESPN FC</title>
   </programme>
-  <programme start="20220702210000 -0500" stop="20220702232500 -0500" channel="Canal ESPN 2 (Argentina)">
+  <programme start="20220630190000 -0500" stop="20220630195000 -0500" channel="Canal ESPN Internacional">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
     <category lang="es">Fútbol Americano</category>
@@ -9357,334 +9077,8 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20220703043000 -0500" stop="20220703050000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Karim Benzema, Pichichi 2021-2022</title>
-  </programme>
-  <programme start="20220703060000 -0500" stop="20220703073000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Roland Garros 2022</title>
-  </programme>
-  <programme start="20220703073000 -0500" stop="20220703083000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220703083000 -0500" stop="20220703093000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220703093000 -0500" stop="20220703100000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Roland Garros 2022, previa final femenina En Vivo</title>
-  </programme>
-  <programme start="20220703100000 -0500" stop="20220703123000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Roland Garros 2022</title>
-  </programme>
-  <programme start="20220703123000 -0500" stop="20220703125000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220703125000 -0500" stop="20220703145500 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Fútbol UEFA Nations League</title>
-  </programme>
-  <programme start="20220703145500 -0500" stop="20220703153000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220703153000 -0500" stop="20220703174000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Fútbol UEFA Nations League</title>
-  </programme>
-  <programme start="20220703174000 -0500" stop="20220703185000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220703185000 -0500" stop="20220703205500 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Fútbol Argentino Primera División</title>
-  </programme>
-  <programme start="20220703205500 -0500" stop="20220704000000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220704000000 -0500" stop="20220704010000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F nacional En Vivo</title>
-  </programme>
-  <programme start="20220704010000 -0500" stop="20220704020000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220704040000 -0500" stop="20220704050000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Campeonato Mundial Rally</title>
-  </programme>
-  <programme start="20220704050000 -0500" stop="20220704060000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20220704070000 -0500" stop="20220704083000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Campeonato Mundial Rally</title>
-  </programme>
-  <programme start="20220704083000 -0500" stop="20220704093000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220704093000 -0500" stop="20220704100000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Roland Garros 2022, previa final masculina En Vivo</title>
-  </programme>
-  <programme start="20220704100000 -0500" stop="20220704133000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Roland Garros 2022</title>
-  </programme>
-  <programme start="20220704133000 -0500" stop="20220704153000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220704153000 -0500" stop="20220704174000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Fútbol UEFA Nations League</title>
-  </programme>
-  <programme start="20220704174000 -0500" stop="20220704233000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220704233000 -0500" stop="20220705010000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Será Anunciado En Vivo</title>
-  </programme>
-  <programme start="20220705010000 -0500" stop="20220705023000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220705023000 -0500" stop="20220705040000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220705040000 -0500" stop="20220705043000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN Yoga</title>
-  </programme>
-  <programme start="20220705043000 -0500" stop="20220705053000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20220705053000 -0500" stop="20220705063000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN Compact</title>
-  </programme>
-  <programme start="20220705063000 -0500" stop="20220705080000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220705150000 -0500" stop="20220705153000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F360 En Vivo</title>
-  </programme>
-  <programme start="20220705205500 -0500" stop="20220705220000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20220705220000 -0500" stop="20220705230000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">Equipo F En Vivo</title>
-  </programme>
-  <programme start="20220705230000 -0500" stop="20220706000000 -0500" channel="Canal ESPN 2 (Argentina)">
-    <title lang="es">ESPN F10 En Vivo</title>
+  <programme start="20220630195000 -0500" stop="20220630220000 -0500" channel="Canal ESPN Internacional">
+    <title lang="es">Cuartos de final</title>
   </programme>
   <programme start="20220628013000 -0500" stop="20220628023000 -0500" channel="Canal ESPN 3 (Argentina)">
     <title lang="es">World Series of Poker</title>
@@ -9748,6 +9142,9 @@
   </programme>
   <programme start="20220629050000 -0500" stop="20220629070000 -0500" channel="Canal ESPN 3 (Argentina)">
     <title lang="es">Octavos de Final ida Colo Colo vs. Internacional</title>
+  </programme>
+  <programme start="20220629070000 -0500" stop="20220629150000 -0500" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Wimbledon</title>
   </programme>
   <programme start="20220629150000 -0500" stop="20220629170000 -0500" channel="Canal ESPN 3 (Argentina)">
     <title lang="es">Octavos de Final ida Nacional vs. Unión</title>
@@ -15040,6 +14437,9 @@
   </programme>
   <programme start="20220629060000 -0500" stop="20220629070000 -0500" channel="Canal Fox Sports 3 (Argentina)">
     <title lang="es">The Ultimate Fighter</title>
+  </programme>
+  <programme start="20220629070000 -0500" stop="20220629090000 -0500" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Superliga</title>
   </programme>
   <programme start="20220629110000 -0500" stop="20220629130000 -0500" channel="Canal Fox Sports 3 (Argentina)">
     <title lang="es">Jornada 3 Fase de grupos Corinthians vs. Boca Juniors</title>
